@@ -1,0 +1,363 @@
+Intervale:
+- (8, 10)
+- (10, 12)
+- (12, 14)
+- (14, 16)
+- (16, 18)
+- (18, 20)
+Materii:
+  DS: 515
+  MS: 545
+  PCom: 510
+  PM: 500
+  SOC: 520
+Profesori:
+  Alexandru Ilie:
+    Constrangeri:
+    - Luni
+    - Marti
+    - Miercuri
+    - Joi
+    - Vineri
+    - '!8-10'
+    - 10-20
+    - '!Pauza > 0'
+    Materii:
+    - PM
+    - SOC
+    - MS
+  Alexandru Vasilescu:
+    Constrangeri:
+    - Luni
+    - Marti
+    - Miercuri
+    - Joi
+    - Vineri
+    - '!14-18'
+    - 8-14
+    - 18-20
+    - '!Pauza > 4'
+    Materii:
+    - MS
+    - SOC
+  Andrei Ionescu:
+    Constrangeri:
+    - Luni
+    - Marti
+    - Miercuri
+    - '!Joi'
+    - Vineri
+    - '!12-14'
+    - '!18-20'
+    - 8-12
+    - 14-18
+    Materii:
+    - PM
+    - PCom
+  Cristian Adamescu:
+    Constrangeri:
+    - Luni
+    - Marti
+    - Miercuri
+    - Joi
+    - '!Vineri'
+    - '!12-16'
+    - 8-12
+    - 16-20
+    - '!Pauza > 4'
+    Materii:
+    - DS
+    - MS
+  Cristian Moldovan:
+    Constrangeri:
+    - Luni
+    - '!Marti'
+    - Miercuri
+    - Joi
+    - '!Vineri'
+    - '!10-12'
+    - '!14-18'
+    - 8-10
+    - 12-14
+    - 18-20
+    Materii:
+    - MS
+    - SOC
+  Denisa Popa:
+    Constrangeri:
+    - Luni
+    - Marti
+    - Miercuri
+    - Joi
+    - '!Vineri'
+    - '!12-16'
+    - 8-12
+    - 16-20
+    - '!Pauza > 6'
+    Materii:
+    - PCom
+    - MS
+    - SOC
+  Elena Andronescu:
+    Constrangeri:
+    - Luni
+    - Marti
+    - Miercuri
+    - '!Joi'
+    - Vineri
+    - '!8-10'
+    - 10-20
+    - '!Pauza > 4'
+    Materii:
+    - DS
+    - PCom
+  Elena Stoica:
+    Constrangeri:
+    - '!Luni'
+    - '!Marti'
+    - Miercuri
+    - '!Joi'
+    - Vineri
+    - '!8-18'
+    - 18-20
+    Materii:
+    - DS
+  Ioana Chiriac:
+    Constrangeri:
+    - Luni
+    - '!Marti'
+    - '!Miercuri'
+    - Joi
+    - Vineri
+    - '!8-14'
+    - '!16-18'
+    - 14-16
+    - 18-20
+    - '!Pauza > 0'
+    Materii:
+    - SOC
+  Madalina Dumitrescu:
+    Constrangeri:
+    - '!Luni'
+    - Marti
+    - '!Miercuri'
+    - Joi
+    - Vineri
+    - '!8-10'
+    - '!16-20'
+    - 10-16
+    - '!Pauza > 0'
+    Materii:
+    - SOC
+  Mihai Dumitrescu:
+    Constrangeri:
+    - '!Luni'
+    - Marti
+    - Miercuri
+    - Joi
+    - Vineri
+    - '!14-20'
+    - 8-14
+    - '!Pauza > 0'
+    Materii:
+    - PCom
+    - MS
+  Mihai Moldovan:
+    Constrangeri:
+    - Luni
+    - '!Marti'
+    - Miercuri
+    - Joi
+    - '!Vineri'
+    - '!16-20'
+    - 8-16
+    - '!Pauza > 0'
+    Materii:
+    - DS
+    - SOC
+  Pavel Georgescu:
+    Constrangeri:
+    - Luni
+    - '!Marti'
+    - '!Miercuri'
+    - Joi
+    - '!Vineri'
+    - '!12-20'
+    - 8-12
+    - '!Pauza > 0'
+    Materii:
+    - MS
+  Pavel Vasilescu:
+    Constrangeri:
+    - Luni
+    - '!Marti'
+    - Miercuri
+    - Joi
+    - '!Vineri'
+    - '!8-10'
+    - 10-20
+    - '!Pauza > 2'
+    Materii:
+    - MS
+    - PCom
+  Petru Chiriac:
+    Constrangeri:
+    - '!Luni'
+    - Marti
+    - '!Miercuri'
+    - '!Joi'
+    - '!Vineri'
+    - '!10-20'
+    - 8-10
+    Materii:
+    - PM
+  Roxana Epure:
+    Constrangeri:
+    - Luni
+    - '!Marti'
+    - Miercuri
+    - Joi
+    - '!Vineri'
+    - '!8-10'
+    - 10-20
+    - '!Pauza > 2'
+    Materii:
+    - DS
+    - PCom
+  Roxana Georgescu:
+    Constrangeri:
+    - '!Luni'
+    - Marti
+    - Miercuri
+    - '!Joi'
+    - '!Vineri'
+    - '!10-16'
+    - '!18-20'
+    - 8-10
+    - 16-18
+    - '!Pauza > 6'
+    Materii:
+    - SOC
+  Roxana Popescu:
+    Constrangeri:
+    - '!Luni'
+    - Marti
+    - Miercuri
+    - Joi
+    - Vineri
+    - '!12-14'
+    - '!16-18'
+    - 8-12
+    - 14-16
+    - 18-20
+    - '!Pauza > 2'
+    Materii:
+    - SOC
+    - MS
+  Ruxandra Chiriac:
+    Constrangeri:
+    - Luni
+    - Marti
+    - '!Miercuri'
+    - Joi
+    - Vineri
+    - 8-20
+    - '!Pauza > 0'
+    Materii:
+    - MS
+    - PCom
+    - PM
+  Ruxandra Georgescu:
+    Constrangeri:
+    - '!Luni'
+    - Marti
+    - Miercuri
+    - Joi
+    - Vineri
+    - '!10-14'
+    - '!18-20'
+    - 8-10
+    - 14-18
+    - '!Pauza > 6'
+    Materii:
+    - PM
+  Ruxandra Scarlatescu:
+    Constrangeri:
+    - '!Luni'
+    - Marti
+    - Miercuri
+    - '!Joi'
+    - Vineri
+    - '!10-12'
+    - '!18-20'
+    - 8-10
+    - 12-18
+    - '!Pauza > 4'
+    Materii:
+    - DS
+    - SOC
+  Sergiu Adamescu:
+    Constrangeri:
+    - Luni
+    - '!Marti'
+    - '!Miercuri'
+    - '!Joi'
+    - '!Vineri'
+    - '!8-12'
+    - '!14-20'
+    - 12-14
+    Materii:
+    - DS
+  Vlad Epure:
+    Constrangeri:
+    - Luni
+    - Marti
+    - '!Miercuri'
+    - '!Joi'
+    - Vineri
+    - '!10-12'
+    - '!18-20'
+    - 8-10
+    - 12-18
+    - '!Pauza > 4'
+    Materii:
+    - MS
+    - PCom
+Sali:
+  EC138:
+    Capacitate: 50
+    Materii:
+    - SOC
+    - DS
+    - MS
+    - PM
+  ED009:
+    Capacitate: 15
+    Materii:
+    - SOC
+    - DS
+    - MS
+  ED027:
+    Capacitate: 15
+    Materii:
+    - SOC
+    - PCom
+  ED063:
+    Capacitate: 15
+    Materii:
+    - MS
+    - PCom
+    - DS
+  EG363:
+    Capacitate: 15
+    Materii:
+    - PCom
+    - SOC
+    - MS
+    - DS
+Zile:
+- Luni
+- Marti
+- Miercuri
+- Joi
+- Vineri

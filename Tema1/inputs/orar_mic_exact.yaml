@@ -1,0 +1,202 @@
+Intervale:
+- (8, 10)
+- (10, 12)
+- (12, 14)
+- (14, 16)
+- (16, 18)
+- (18, 20)
+Materii:
+  PA: 330
+  PCom: 330
+  PL: 300
+Profesori:
+  Alexandru Popa:
+    Constrangeri:
+    - Luni
+    - Marti
+    - Miercuri
+    - '!Joi'
+    - '!Vineri'
+    - '!8-10'
+    - '!14-16'
+    - 10-14
+    - 16-20
+    Materii:
+    - PA
+    - PCom
+  Andrei Ilie:
+    Constrangeri:
+    - Luni
+    - Marti
+    - '!Miercuri'
+    - '!Joi'
+    - Vineri
+    - '!8-12'
+    - '!18-20'
+    - 12-18
+    Materii:
+    - PA
+    - PL
+  Andrei Ionescu:
+    Constrangeri:
+    - '!Luni'
+    - '!Marti'
+    - '!Miercuri'
+    - Joi
+    - Vineri
+    - '!8-10'
+    - '!12-14'
+    - '!16-20'
+    - 10-12
+    - 14-16
+    Materii:
+    - PCom
+  Andrei Moldovan:
+    Constrangeri:
+    - Luni
+    - Marti
+    - '!Miercuri'
+    - Joi
+    - Vineri
+    - '!16-20'
+    - 8-16
+    Materii:
+    - PA
+    - PL
+  Cristina Dinu:
+    Constrangeri:
+    - Luni
+    - '!Marti'
+    - Miercuri
+    - '!Joi'
+    - '!Vineri'
+    - '!8-10'
+    - '!12-16'
+    - '!18-20'
+    - 10-12
+    - 16-18
+    Materii:
+    - PL
+    - PA
+  Dumitru Moldovan:
+    Constrangeri:
+    - '!Luni'
+    - Marti
+    - '!Miercuri'
+    - '!Joi'
+    - '!Vineri'
+    - '!8-14'
+    - '!16-20'
+    - 14-16
+    Materii:
+    - PCom
+    - PL
+  Elena Ionescu:
+    Constrangeri:
+    - Luni
+    - '!Marti'
+    - Miercuri
+    - '!Joi'
+    - '!Vineri'
+    - '!8-14'
+    - '!18-20'
+    - 14-18
+    Materii:
+    - PCom
+    - PL
+  Ioana Scarlatescu:
+    Constrangeri:
+    - '!Luni'
+    - '!Marti'
+    - Miercuri
+    - Joi
+    - Vineri
+    - '!10-18'
+    - 8-10
+    - 18-20
+    Materii:
+    - PL
+    - PCom
+  Madalina Dinu:
+    Constrangeri:
+    - '!Luni'
+    - Marti
+    - '!Miercuri'
+    - '!Joi'
+    - '!Vineri'
+    - '!8-18'
+    - 18-20
+    Materii:
+    - PL
+  Madalina Gheorghe:
+    Constrangeri:
+    - '!Luni'
+    - '!Marti'
+    - '!Miercuri'
+    - '!Joi'
+    - Vineri
+    - '!8-16'
+    - '!18-20'
+    - 16-18
+    Materii:
+    - PL
+  Maria Ilie:
+    Constrangeri:
+    - Luni
+    - '!Marti'
+    - Miercuri
+    - Joi
+    - '!Vineri'
+    - '!8-10'
+    - '!12-14'
+    - 10-12
+    - 14-20
+    Materii:
+    - PCom
+    - PA
+  Petru Chiriac:
+    Constrangeri:
+    - Luni
+    - '!Marti'
+    - '!Miercuri'
+    - '!Joi'
+    - Vineri
+    - '!8-12'
+    - '!14-20'
+    - 12-14
+    Materii:
+    - PCom
+    - PL
+  Roxana Ilie:
+    Constrangeri:
+    - Luni
+    - '!Marti'
+    - Miercuri
+    - '!Joi'
+    - '!Vineri'
+    - '!8-10'
+    - '!12-14'
+    - '!16-20'
+    - 10-12
+    - 14-16
+    Materii:
+    - PA
+    - PL
+    - PCom
+Sali:
+  ED010:
+    Capacitate: 20
+    Materii:
+    - PA
+  ED020:
+    Capacitate: 30
+    Materii:
+    - PA
+    - PCom
+    - PL
+Zile:
+- Luni
+- Marti
+- Miercuri
+- Joi
+- Vineri

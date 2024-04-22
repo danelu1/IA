@@ -1,0 +1,74 @@
+Intervale:
+- (8, 10)
+- (10, 12)
+- (12, 14)
+Materii:
+  DS: 100
+  IA: 75
+  MS: 100
+Profesori:
+  Andreea Dinu:
+    Constrangeri:
+    - Luni
+    - Marti
+    - '!Miercuri'
+    - '!8-10'
+    - '!12-14'
+    - 10-12
+    Materii:
+    - DS
+    - IA
+  Cristina Dumitrescu:
+    Constrangeri:
+    - '!Luni'
+    - Marti
+    - '!Miercuri'
+    - '!10-12'
+    - 8-10
+    - 12-14
+    Materii:
+    - MS
+    - DS
+  Elena Gheorghe:
+    Constrangeri:
+    - Luni
+    - '!Marti'
+    - Miercuri
+    - '!10-14'
+    - 8-10
+    Materii:
+    - DS
+  Pavel Filipescu:
+    Constrangeri:
+    - Luni
+    - '!Marti'
+    - Miercuri
+    - '!8-10'
+    - 10-14
+    Materii:
+    - IA
+  Roxana Gheorghe:
+    Constrangeri:
+    - Luni
+    - Marti
+    - Miercuri
+    - '!10-12'
+    - 8-10
+    - 12-14
+    Materii:
+    - MS
+    - DS
+Sali:
+  EG324:
+    Capacitate: 25
+    Materii:
+    - MS
+    - IA
+  EG390:
+    Capacitate: 25
+    Materii:
+    - DS
+Zile:
+- Luni
+- Marti
+- Miercuri
