@@ -1,0 +1,44 @@
+|           Interval           |             Luni             |             Marti            |           Miercuri           |              Joi             |            Vineri            |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|            8 - 10            |      PM : (EC138 - AI2)      |      PM : (EC138 - AI2)      |      DS : (EC138 - CA)       |      DS : (EC138 - CA)       |      MS : (EC138 - AV)       |
+|                              |      MS : (ED009 - AV)       |      MS : (ED009 - RP)       |      SOC : (ED009 - CM)      |      SOC : (ED009 - CM)      |      SOC : (ED009 - RS)      |
+|                              |      PCom : (ED027 - DP)     |      PCom : (ED027 - DP)     |      PCom : (ED027 - MD2)    |      SOC : (ED027 - MM)      |      ED027 - goala           |
+|                              |      PCom : (ED063 - RC)     |      PCom : (ED063 - MD2)    |      ED063 - goala           |      ED063 - goala           |      ED063 - goala           |
+|                              |      PCom : (EG363 - VE)     |      PCom : (EG363 - RC)     |      SOC : (EG363 - MM)      |      SOC : (EG363 - RP)      |      EG363 - goala           |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|            10 - 12           |      PM : (EC138 - AI)       |      PM : (EC138 - AI)       |      DS : (EC138 - CA)       |      DS : (EC138 - MM)       |      MS : (EC138 - AV)       |
+|                              |      MS : (ED009 - AV)       |      SOC : (ED009 - MD)      |      SOC : (ED009 - MM)      |      SOC : (ED009 - MD)      |      SOC : (ED009 - MD)      |
+|                              |      PCom : (ED027 - AI2)    |      PCom : (ED027 - AI2)    |      SOC : (ED027 - RP)      |      SOC : (ED027 - RP)      |      ED027 - goala           |
+|                              |      PCom : (ED063 - DP)     |      PCom : (ED063 - DP)     |      ED063 - goala           |      ED063 - goala           |      ED063 - goala           |
+|                              |      PCom : (EG363 - EA)     |      PCom : (EG363 - EA)     |      SOC : (EG363 - RG)      |      EG363 - goala           |      EG363 - goala           |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|            12 - 14           |      PM : (EC138 - AI)       |      PM : (EC138 - AI)       |      DS : (EC138 - MM)       |      DS : (EC138 - MM)       |      MS : (EC138 - AV)       |
+|                              |      MS : (ED009 - CM)       |      SOC : (ED009 - MD)      |      SOC : (ED009 - CM)      |      SOC : (ED009 - CM)      |      SOC : (ED009 - RS)      |
+|                              |      PCom : (ED027 - EA)     |      PCom : (ED027 - EA)     |      SOC : (ED027 - RS)      |      SOC : (ED027 - MD)      |      ED027 - goala           |
+|                              |      PCom : (ED063 - PV)     |      PCom : (ED063 - MD2)    |      ED063 - goala           |      ED063 - goala           |      ED063 - goala           |
+|                              |      PCom : (EG363 - RE)     |      PCom : (EG363 - RC)     |      EG363 - goala           |      EG363 - goala           |      EG363 - goala           |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|            14 - 16           |      PM : (EC138 - AI)       |      PM : (EC138 - AI2)      |      DS : (EC138 - MM)       |      MS : (EC138 - PV)       |      MS : (EC138 - RP)       |
+|                              |      MS : (ED009 - VE)       |      SOC : (ED009 - MD)      |      SOC : (ED009 - RP)      |      SOC : (ED009 - IC)      |      SOC : (ED009 - IC)      |
+|                              |      PCom : (ED027 - AI2)    |      PCom : (ED027 - RC)     |      SOC : (ED027 - RS)      |      SOC : (ED027 - MD)      |      SOC : (ED027 - RS)      |
+|                              |      PCom : (ED063 - EA)     |      PCom : (ED063 - VE)     |      ED063 - goala           |      ED063 - goala           |      ED063 - goala           |
+|                              |      PCom : (EG363 - PV)     |      SOC : (EG363 - RS)      |      EG363 - goala           |      EG363 - goala           |      EG363 - goala           |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|            16 - 18           |      PM : (EC138 - AI)       |      DS : (EC138 - CA)       |      DS : (EC138 - CA)       |      MS : (EC138 - PV)       |      MS : (EC138 - RC)       |
+|                              |      MS : (ED009 - PV)       |      SOC : (ED009 - RG)      |      SOC : (ED009 - RG)      |      ED009 - goala           |      ED009 - goala           |
+|                              |      PCom : (ED027 - AI2)    |      PCom : (ED027 - DP)     |      SOC : (ED027 - RS)      |      ED027 - goala           |      ED027 - goala           |
+|                              |      PCom : (ED063 - DP)     |      PCom : (ED063 - RC)     |      ED063 - goala           |      ED063 - goala           |      ED063 - goala           |
+|                              |      PCom : (EG363 - EA)     |      PCom : (EG363 - VE)     |      EG363 - goala           |      EG363 - goala           |      EG363 - goala           |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|            18 - 20           |      PM : (EC138 - AI)       |      DS : (EC138 - CA)       |      DS : (EC138 - CA)       |      MS : (EC138 - AV)       |      MS : (EC138 - AV)       |
+|                              |      MS : (ED009 - CM)       |      SOC : (ED009 - RG)      |      SOC : (ED009 - CM)      |      SOC : (ED009 - IC)      |      SOC : (ED009 - IC)      |
+|                              |      PCom : (ED027 - DP)     |      PCom : (ED027 - RC)     |      SOC : (ED027 - RP)      |      ED027 - goala           |      ED027 - goala           |
+|                              |      PCom : (ED063 - EA)     |      ED063 - goala           |      ED063 - goala           |      ED063 - goala           |      ED063 - goala           |
+|                              |      PCom : (EG363 - PV)     |      EG363 - goala           |      EG363 - goala           |      EG363 - goala           |      EG363 - goala           |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Total number of iterations to reach the solution: 111
+Total number of states generated to reach the solution: 26777
+Total number of soft conflicts for final solution: 2
+Checker hard constraints: 0
+Checker soft constraints: 2
+Execution time: 71.65066742897034 seconds.
