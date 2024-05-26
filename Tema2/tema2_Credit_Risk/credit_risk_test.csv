@@ -1,0 +1,2001 @@
+residential_status,loan_rate,loan_amount,loan_purpose,job_tenure_years,credit_history_length_years,applicant_age,applicant_income,loan_rating,credit_history_default_status,loan_income_ratio,stability_rating,credit_history_length_months,loan_approval_status
+Mortgage,12.09,12000.0,Business,1.0,2,26,25000,Good,No,0.48,B,30,Declined
+Renter,,6000.0,Debt Consolidation,1.0,2,25,42000,Very Good,No,0.14,C,35,Approved
+Mortgage,,13200.0,Home Improvement,2.0,5,30,58000,Excellent,No,0.23,B,63,Approved
+Mortgage,9.63,12000.0,Personal,1.0,4,25,160000,Very Good,No,0.07,B,57,Approved
+Renter,7.9,24000.0,Business,0.0,2,26,60000,Excellent,No,0.4,C,32,Declined
+Renter,7.68,5000.0,Home Improvement,3.0,2,26,120000,Excellent,No,0.04,C,34,Approved
+Renter,15.21,5000.0,Home Improvement,2.0,9,27,60000,Fair,Yes,0.08,C,111,Declined
+Renter,,10000.0,Study,9.0,2,25,52000,Fair,No,0.19,C,33,Approved
+Renter,14.26,5000.0,Health,1.0,2,26,40000,Good,Yes,0.13,C,31,Approved
+Mortgage,,5100.0,Home Improvement,4.0,16,47,24000,Fair,Yes,0.21,B,198,Approved
+Renter,10.99,3600.0,Personal,3.0,4,25,21600,Very Good,No,0.17,C,51,Approved
+Renter,18.25,1600.0,Personal,0.0,3,24,14400,Fair,No,0.11,C,42,Declined
+Mortgage,11.86,25000.0,Business,5.0,6,28,90000,Very Good,No,0.28,B,80,Approved
+Mortgage,10.38,6000.0,Business,7.0,2,22,60000,Very Good,No,0.1,B,35,Approved
+Mortgage,15.62,21000.0,Health,11.0,10,27,66300,Fair,Yes,0.27,B,121,Declined
+Mortgage,7.49,12000.0,Personal,5.0,9,34,80000,Excellent,No,0.15,B,111,Approved
+Mortgage,11.86,15000.0,Debt Consolidation,2.0,8,27,60000,Very Good,No,0.25,B,103,Approved
+Mortgage,,4000.0,Debt Consolidation,14.0,8,30,130000,Very Good,No,0.03,B,107,Approved
+Renter,,20000.0,Home Improvement,4.0,3,24,95000,Fair,Yes,0.21,C,38,Approved
+Mortgage,6.03,8000.0,Personal,6.0,3,22,50000,Excellent,No,0.16,B,41,Approved
+Renter,7.9,20000.0,Debt Consolidation,3.0,5,31,101000,Excellent,No,0.2,C,68,Approved
+Renter,6.99,12000.0,Personal,3.0,3,21,70000,Excellent,No,0.17,C,39,Approved
+Mortgage,5.42,5000.0,Personal,6.0,3,22,53000,Excellent,No,0.09,B,47,Approved
+Mortgage,16.35,15000.0,Health,2.0,8,30,108800,Poor,No,0.12,B,104,Declined
+Owner,10.38,10000.0,Home Improvement,9.0,4,26,300000,Very Good,No,0.03,A,55,Approved
+Owner,,9250.0,Study,0.0,2,26,19200,Very Good,No,0.48,A,25,Declined
+Mortgage,,25000.0,Business,10.0,2,26,102456,Fair,Yes,0.24,B,35,Approved
+Renter,14.61,12500.0,Debt Consolidation,8.0,4,25,36960,Fair,Yes,0.34,C,59,Declined
+Owner,9.63,1000.0,Health,3.0,4,25,28176,Very Good,No,0.04,A,56,Approved
+Renter,,5500.0,Health,1.0,4,25,33280,Very Good,No,0.17,C,49,Approved
+Renter,14.59,16000.0,Personal,7.0,4,23,65000,Fair,No,0.25,C,58,Approved
+Mortgage,6.03,8000.0,Debt Consolidation,5.0,2,21,57200,Excellent,No,0.14,B,28,Approved
+Renter,11.86,10000.0,Personal,3.0,2,23,75000,Very Good,No,0.13,C,29,Approved
+Renter,12.21,7000.0,Home Improvement,0.0,2,22,10000,Very Good,No,0.7,C,31,Declined
+Owner,5.79,13000.0,Study,9.0,2,24,35556,Excellent,No,0.37,A,34,Approved
+Renter,15.96,10000.0,Health,1.0,4,25,37500,Good,Yes,0.27,C,50,Approved
+Owner,13.43,5825.0,Home Improvement,4.0,2,26,63180,Good,Yes,0.09,A,32,Approved
+Mortgage,7.51,10000.0,Personal,10.0,3,26,50000,Excellent,No,0.2,B,47,Approved
+Renter,11.12,8000.0,Debt Consolidation,3.0,13,36,62000,Very Good,No,0.13,C,167,Approved
+Renter,5.42,7000.0,Business,5.0,4,24,45000,Excellent,No,0.16,C,50,Approved
+Renter,7.74,7000.0,Health,0.0,6,33,180000,Excellent,No,0.04,C,80,Approved
+Owner,16.29,7000.0,Health,1.0,4,24,35000,Fair,No,0.2,A,59,Approved
+Renter,13.16,10000.0,Health,2.0,6,35,39000,Good,No,0.26,C,76,Declined
+Renter,14.35,3500.0,Business,5.0,7,32,42000,Good,Yes,0.08,C,89,Approved
+Mortgage,6.54,14500.0,Health,3.0,10,35,90000,Excellent,No,0.16,B,124,Approved
+Owner,10.62,4000.0,Home Improvement,11.0,9,27,21600,Very Good,No,0.19,A,115,Approved
+Renter,12.69,3600.0,Business,4.0,3,22,31000,Very Good,No,0.12,C,40,Approved
+Renter,10.0,1241981000.0,Debt Consolidation,1.0,14,40,32400,Very Good,No,0.31,C,173,Declined
+Renter,10.65,2800.0,Health,11.0,7,27,15600,Very Good,No,0.18,C,89,Declined
+Renter,13.48,5000.0,Personal,3.0,3,22,32760,Good,Yes,0.15,C,43,Approved
+Mortgage,7.88,12000.0,Business,13.0,8,30,72000,Excellent,No,0.17,B,102,Approved
+Mortgage,9.91,3500.0,Business,,2,22,42000,Very Good,No,0.08,B,30,Approved
+Mortgage,5.99,6000.0,Business,7.0,8,31,50000,Excellent,No,0.12,B,105,Approved
+Renter,11.66,10000.0,Home Improvement,1.0,8,28,64000,Good,Yes,0.16,C,107,Approved
+Renter,14.26,7000.0,Home Improvement,0.0,4,23,32000,Good,No,0.22,C,53,Declined
+Mortgage,15.33,12800.0,Business,9.0,8,30,228000,Fair,No,0.06,B,98,Approved
+Renter,14.42,1500.0,Debt Consolidation,7.0,9,32,54000,Fair,No,0.03,C,112,Declined
+Mortgage,8.94,12000.0,Health,9.0,4,25,100000,Excellent,No,0.12,B,51,Approved
+Owner,11.86,6000.0,Home Improvement,11.0,9,28,69000,Very Good,No,0.09,A,119,Approved
+Mortgage,7.51,7800.0,Health,0.0,10,31,48000,Excellent,No,0.16,B,122,Approved
+Mortgage,11.36,5500.0,Business,2.0,3,24,48000,Very Good,No,0.11,B,47,Approved
+Owner,,5000.0,Business,0.0,3,23,105000,Good,Yes,0.05,A,37,Approved
+Mortgage,,10000.0,Personal,4.0,2,25,23000,Good,Yes,0.43,B,25,Declined
+Mortgage,6.92,8000.0,Debt Consolidation,3.0,4,21,40000,Excellent,No,0.2,B,52,Approved
+Renter,10.39,12000.0,Personal,0.0,3,26,45900,Very Good,No,0.26,C,43,Approved
+Renter,7.51,9000.0,Personal,4.0,2,23,80400,Excellent,No,0.11,C,27,Approved
+Renter,6.76,4200.0,Business,8.0,4,24,38400,Excellent,No,0.11,C,50,Approved
+Mortgage,10.99,8000.0,Personal,1.0,29,58,68000,Very Good,No,0.12,B,355,Approved
+Mortgage,7.29,3000.0,Personal,7.0,6,30,50400,Excellent,No,0.06,B,81,Approved
+Renter,7.9,3800.0,Debt Consolidation,7.0,4,23,26400,Excellent,No,0.14,C,52,Approved
+Mortgage,12.42,10000.0,Health,15.0,6,31,115000,Very Good,No,0.09,B,82,Approved
+Mortgage,,12300.0,Debt Consolidation,6.0,10,34,65000,Excellent,No,0.19,B,122,Approved
+Renter,14.59,7750.0,Health,6.0,3,23,29000,Fair,Yes,0.27,C,42,Declined
+Renter,12.84,7000.0,Debt Consolidation,3.0,2,22,60500,Good,No,0.12,C,33,Approved
+Mortgage,,10000.0,Study,9.0,5,29,56700,Good,Yes,0.18,B,65,Approved
+Owner,6.39,3000.0,Home Improvement,4.0,8,34,113500,Excellent,No,0.03,A,104,Approved
+Mortgage,5.99,9600.0,Home Improvement,9.0,6,30,56004,Excellent,No,0.17,B,76,Approved
+Renter,7.74,4000.0,Business,4.0,10,32,34000,Excellent,No,0.12,C,127,Approved
+Mortgage,7.88,13000.0,Debt Consolidation,2.0,4,22,37000,Excellent,No,0.35,B,56,Approved
+Renter,16.29,1200.0,Study,6.0,5,31,42000,Fair,Yes,0.03,C,69,Approved
+Renter,11.71,6000.0,Business,6.0,2,25,47000,Very Good,No,0.13,C,26,Approved
+Mortgage,,18225.0,Study,7.0,3,23,120000,Very Good,No,0.15,B,44,Approved
+Mortgage,12.21,10000.0,Home Improvement,1.0,2,26,38904,Very Good,No,0.26,B,33,Approved
+Mortgage,12.84,20000.0,Home Improvement,7.0,12,43,72800,Good,Yes,0.27,B,152,Approved
+Mortgage,11.86,10000.0,Debt Consolidation,2.0,8,29,74004,Very Good,No,0.14,B,100,Approved
+Renter,13.23,10000.0,Health,2.0,4,21,32400,Good,No,0.31,C,52,Declined
+Owner,12.68,5000.0,Business,1.0,10,33,30000,Good,Yes,0.17,A,123,Approved
+Renter,17.51,22000.0,Study,1.0,2,25,82000,Poor,No,0.27,C,29,Declined
+Renter,11.99,8000.0,Health,3.0,3,23,130000,Very Good,No,0.06,C,45,Approved
+Mortgage,8.49,13500.0,Study,0.0,7,30,117500,Excellent,No,0.11,B,90,Approved
+Renter,13.06,5600.0,Business,1.0,7,35,36000,Good,No,0.16,C,92,Approved
+Renter,14.35,6300.0,Study,0.0,4,23,30000,Good,No,0.21,C,53,Approved
+Renter,11.49,8000.0,Health,6.0,2,22,28800,Very Good,No,0.28,C,28,Approved
+Mortgage,12.84,18000.0,Debt Consolidation,3.0,5,34,30144,Good,Yes,0.6,B,69,Approved
+Mortgage,7.9,5000.0,Personal,,16,50,45600,Excellent,No,0.11,B,199,Approved
+Mortgage,11.49,10000.0,Study,0.0,4,23,54000,Very Good,No,0.19,B,54,Approved
+Renter,8.94,6000.0,Health,0.0,11,40,80000,Excellent,No,0.07,C,143,Approved
+Renter,7.9,7200.0,Study,3.0,3,23,62000,Excellent,No,0.12,C,47,Declined
+Renter,11.97,9600.0,Health,3.0,2,22,65000,Good,No,0.15,C,31,Approved
+Mortgage,12.18,8400.0,Personal,14.0,11,45,38268,Very Good,No,0.22,B,143,Approved
+Mortgage,14.27,6000.0,Health,6.0,4,26,45000,Good,Yes,0.13,B,58,Approved
+Renter,11.49,4100.0,Health,0.0,4,22,38004,Very Good,No,0.11,C,51,Approved
+Mortgage,13.55,25000.0,Study,0.0,8,27,56000,Fair,No,0.45,B,101,Declined
+Mortgage,12.68,8000.0,Study,7.0,3,23,114000,Good,Yes,0.07,B,46,Approved
+Renter,,2800.0,Study,3.0,8,28,45000,Good,No,0.06,C,98,Approved
+Mortgage,12.99,2650.0,Business,6.0,3,22,52000,Good,Yes,0.05,B,46,Approved
+Mortgage,14.74,4000.0,Debt Consolidation,13.0,9,29,26004,Fair,Yes,0.15,B,115,Declined
+Owner,,20000.0,Study,7.0,3,23,56000,Very Good,No,0.36,A,41,Approved
+Renter,6.03,12000.0,Personal,3.0,2,23,48000,Excellent,No,0.25,C,29,Approved
+Mortgage,5.99,5000.0,Health,8.0,5,29,70008,Excellent,No,0.07,B,69,Approved
+Mortgage,,11000.0,Debt Consolidation,3.0,3,24,70000,Very Good,No,0.16,B,46,Approved
+Renter,6.62,3500.0,Business,3.0,3,25,36000,Excellent,No,0.1,C,46,Approved
+Renter,10.38,10000.0,Debt Consolidation,3.0,4,24,24000,Very Good,No,0.42,C,49,Declined
+Mortgage,11.22,6625.0,Health,2.0,3,23,88000,Good,Yes,0.08,B,38,Approved
+Renter,11.86,3500.0,Study,5.0,4,24,60000,Very Good,No,0.06,C,59,Approved
+Renter,10.75,4000.0,Business,1.0,5,30,96000,Very Good,No,0.04,C,65,Approved
+Renter,9.32,4450.0,Health,5.0,4,24,42200,Excellent,No,0.11,C,52,Approved
+Mortgage,9.63,6425.0,Personal,6.0,3,21,33168,Very Good,No,0.19,B,39,Approved
+Renter,11.03,1600.0,Debt Consolidation,2.0,3,24,37500,Good,Yes,0.04,C,42,Approved
+Mortgage,7.51,1000.0,Study,7.0,2,23,42806,Excellent,No,0.02,B,34,Approved
+Owner,9.62,20000.0,Business,0.0,3,26,63400,Very Good,No,0.32,A,44,Approved
+Mortgage,7.88,12000.0,Debt Consolidation,9.0,8,32,160000,Excellent,No,0.07,B,100,Approved
+Renter,14.26,10000.0,Debt Consolidation,5.0,4,25,116000,Good,Yes,0.09,C,59,Approved
+Owner,13.11,1200.0,Study,8.0,3,24,54000,Good,Yes,0.02,A,38,Approved
+Mortgage,13.47,2150.0,Home Improvement,6.0,2,26,84000,Good,No,0.03,B,34,Approved
+Renter,9.88,10000.0,Debt Consolidation,2.0,8,28,103241,Very Good,No,0.1,C,100,Approved
+Mortgage,7.51,20000.0,Business,,11,44,200000,Excellent,No,0.1,B,138,Approved
+Mortgage,7.49,3000.0,Debt Consolidation,9.0,4,25,77000,Excellent,No,0.04,B,57,Approved
+Mortgage,16.45,16000.0,Health,6.0,4,22,61200,Poor,No,0.22,B,56,Declined
+Renter,15.23,4550.0,Study,2.0,4,23,42000,Good,No,0.11,C,50,Approved
+Renter,9.99,6400.0,Health,8.0,2,24,33000,Very Good,No,0.19,C,35,Approved
+Renter,14.61,11000.0,Personal,5.0,5,29,69000,Fair,Yes,0.16,C,69,Approved
+Mortgage,5.79,8000.0,Study,9.0,2,25,78000,Excellent,No,0.1,B,28,Approved
+Renter,15.28,14000.0,Home Improvement,3.0,10,30,59004,Fair,No,0.24,C,123,Approved
+Mortgage,9.88,10000.0,Debt Consolidation,12.0,8,28,69000,Very Good,No,0.14,B,100,Approved
+Mortgage,11.14,10000.0,Home Improvement,2.0,3,26,26004,Very Good,No,0.38,B,37,Approved
+Mortgage,6.62,7125.0,Business,12.0,14,40,74004,Excellent,No,0.1,B,169,Approved
+Renter,16.29,4800.0,Personal,17.0,7,32,29000,Fair,Yes,0.17,C,90,Declined
+Renter,7.51,17000.0,Home Improvement,3.0,2,24,55782,Excellent,No,0.3,C,30,Approved
+Mortgage,12.73,1490377200.0,Debt Consolidation,4.0,15,37,60000,Good,No,0.2,B,191,Approved
+Renter,,1117782900.0,Health,5.0,2,23,88000,Very Good,No,0.1,C,29,Approved
+Mortgage,7.51,11500.0,Home Improvement,9.0,10,29,65000,Excellent,No,0.18,B,126,Approved
+Renter,9.45,4000.0,Study,0.0,2,24,24996,Very Good,No,0.16,C,33,Approved
+Mortgage,15.65,7500.0,Business,14.0,5,30,120000,Fair,No,0.06,B,62,Approved
+Renter,11.11,8000.0,Personal,6.0,3,22,39860,Very Good,No,0.2,C,45,Approved
+Renter,14.22,5000.0,Personal,3.0,4,22,60000,Good,No,0.08,C,58,Approved
+Renter,11.71,17000.0,Study,4.0,16,49,70000,Very Good,No,0.24,C,197,Approved
+Mortgage,14.96,24250.0,Study,11.0,8,27,67000,Fair,No,0.36,B,103,Approved
+Mortgage,,10000.0,Personal,6.0,2,26,80040,Excellent,No,0.12,B,35,Declined
+Renter,14.59,3250.0,Home Improvement,2.0,4,26,28000,Fair,No,0.12,C,51,Declined
+Owner,11.86,5000.0,Health,6.0,4,24,40000,Fair,No,0.13,A,55,Approved
+Renter,13.23,4800.0,Home Improvement,4.0,9,35,32900,Good,Yes,0.15,C,114,Declined
+Renter,11.58,15000.0,Business,0.0,4,24,42000,Very Good,No,0.36,C,52,Declined
+Mortgage,12.18,10000.0,Study,8.0,4,23,64500,Very Good,No,0.16,B,55,Approved
+Mortgage,11.36,15000.0,Study,3.0,2,22,45000,Very Good,No,0.33,B,28,Approved
+Mortgage,,1700.0,Personal,,9,34,31800,Excellent,No,0.05,B,113,Declined
+Renter,8.9,9400.0,Business,6.0,16,41,33000,Excellent,No,0.28,C,196,Approved
+Mortgage,11.58,15000.0,Business,7.0,3,23,69000,Very Good,No,0.22,B,43,Approved
+Renter,9.32,10000.0,Debt Consolidation,0.0,7,28,30000,Excellent,No,0.33,C,86,Declined
+Mortgage,10.59,10000.0,Home Improvement,9.0,2,25,195054,Very Good,No,0.05,B,25,Approved
+Renter,,20000.0,Health,8.0,2,24,45000,Poor,No,0.44,C,31,Declined
+Mortgage,5.99,3200.0,Business,1.0,4,22,57000,Excellent,No,0.06,B,57,Approved
+Mortgage,,7000.0,Business,7.0,7,31,60000,Very Good,No,0.12,B,89,Approved
+Renter,12.42,6000.0,Health,5.0,2,25,42000,Very Good,No,0.14,C,29,Approved
+Renter,,4000.0,Personal,7.0,5,30,48000,Excellent,No,0.08,C,67,Approved
+Mortgage,6.03,16800.0,Health,5.0,8,28,75000,Excellent,No,0.22,B,105,Approved
+Mortgage,5.42,2000.0,Study,9.0,4,25,98000,Excellent,No,0.02,B,51,Approved
+Owner,8.94,10000.0,Health,8.0,8,35,762000,Excellent,No,0.01,A,99,Approved
+Renter,6.54,9250.0,Health,1.0,2,25,25716,Excellent,No,0.36,C,27,Declined
+Mortgage,7.14,4000.0,Business,3.0,9,28,58000,Excellent,No,0.07,B,109,Approved
+Renter,11.49,10000.0,Debt Consolidation,4.0,3,26,30720,Very Good,No,0.33,C,40,Declined
+Mortgage,6.62,5000.0,Personal,5.0,2,21,40000,Excellent,No,0.13,B,28,Approved
+Renter,12.73,3000.0,Health,0.0,4,24,42000,Good,No,0.07,C,49,Approved
+Renter,9.99,2000.0,Health,2.0,2,24,75000,Very Good,No,0.03,C,33,Approved
+Renter,16.29,6000.0,Debt Consolidation,2.0,8,35,26400,Fair,Yes,0.23,C,103,Declined
+Mortgage,11.11,15000.0,Home Improvement,14.0,9,29,90000,Very Good,No,0.17,B,117,Approved
+Renter,9.62,5000.0,Personal,2.0,7,27,25000,Very Good,No,0.2,C,87,Approved
+Renter,11.86,1169372880.0,Study,7.0,4,23,25200,Very Good,No,0.29,C,56,Declined
+Renter,12.87,13000.0,Debt Consolidation,5.0,2,21,24000,Good,No,0.54,C,35,Declined
+Renter,14.72,23500.0,Debt Consolidation,5.0,7,28,58704,Good,No,0.4,C,88,Declined
+Renter,10.37,2000.0,Business,,2,24,17616,Very Good,No,0.11,C,27,Approved
+Renter,5.42,8000.0,Debt Consolidation,11.0,4,26,53688,Excellent,No,0.15,C,56,Approved
+Mortgage,7.74,10000.0,Health,7.0,2,23,80000,Excellent,No,0.13,B,31,Approved
+Mortgage,15.62,5000.0,Health,8.0,4,26,54000,Fair,Yes,0.09,B,55,Declined
+Renter,7.66,10000.0,Health,0.0,14,37,49500,Excellent,No,0.2,C,178,Approved
+Mortgage,10.99,1200.0,Home Improvement,3.0,2,25,65000,Very Good,No,0.02,B,32,Approved
+Mortgage,10.65,3500.0,Personal,15.0,8,30,163000,Very Good,No,0.02,B,105,Declined
+Mortgage,,11000.0,Business,1.0,6,27,24000,Good,Yes,0.46,B,78,Approved
+Mortgage,5.99,7000.0,Debt Consolidation,10.0,5,27,120000,Excellent,No,0.06,B,67,Approved
+Renter,15.7,24250.0,Health,9.0,2,24,65453,Fair,No,0.31,C,27,Declined
+Renter,10.65,12000.0,Personal,8.0,2,24,69500,Very Good,No,0.17,C,33,Approved
+Renter,11.26,9600.0,Personal,18.0,16,44,55000,Very Good,No,0.17,C,200,Approved
+Mortgage,8.0,3200.0,Study,0.0,3,23,75000,Excellent,No,0.04,B,40,Approved
+Mortgage,14.46,6000.0,Health,3.0,4,21,26500,Fair,Yes,0.23,B,53,Declined
+Mortgage,10.65,7200.0,Study,4.0,3,23,51600,Very Good,No,0.14,B,45,Approved
+Renter,11.36,6000.0,Home Improvement,2.0,4,22,40680,Very Good,No,0.15,C,55,Declined
+Renter,12.73,25000.0,Health,7.0,4,25,113000,Good,Yes,0.22,C,53,Approved
+Mortgage,6.92,3600.0,Business,3.0,2,24,35000,Excellent,No,0.1,B,26,Approved
+Renter,11.71,10000.0,Health,0.0,5,27,33200,Very Good,No,0.3,C,68,Approved
+Renter,10.65,3000.0,Personal,4.0,10,28,34000,Very Good,No,0.09,C,131,Declined
+Renter,9.88,15000.0,Personal,15.0,5,33,40000,Very Good,No,0.38,C,69,Declined
+Renter,7.29,5700.0,Health,1.0,13,36,39996,Excellent,No,0.14,C,160,Approved
+Renter,19.13,15175.0,Debt Consolidation,0.0,11,39,49000,Very Poor,Yes,0.31,C,140,Declined
+Renter,11.46,1800.0,Study,11.0,8,27,60000,Very Good,No,0.03,C,102,Approved
+Mortgage,11.99,6000.0,Home Improvement,5.0,2,26,26004,Very Good,No,0.23,B,28,Approved
+Renter,13.8,4400.0,Debt Consolidation,10.0,4,26,95459,Good,No,0.05,C,59,Approved
+Renter,9.99,11200.0,Personal,8.0,3,24,61000,Very Good,No,0.18,C,45,Approved
+Renter,14.61,12000.0,Study,0.0,8,28,34000,Fair,Yes,0.35,C,97,Declined
+Renter,6.76,9500.0,Study,5.0,3,25,46500,Excellent,No,0.2,C,38,Approved
+Owner,14.72,10000.0,Study,3.0,3,25,80000,Good,Yes,0.13,A,44,Approved
+Mortgage,,4800.0,Study,7.0,2,23,97000,Excellent,No,0.05,B,30,Approved
+Renter,7.29,10000.0,Home Improvement,3.0,10,32,75000,Excellent,No,0.13,C,125,Approved
+Renter,,8000.0,Health,0.0,13,38,53052,Very Good,No,0.15,C,166,Approved
+Renter,14.93,25000.0,Debt Consolidation,1.0,3,23,148000,Poor,No,0.17,C,38,Declined
+Mortgage,10.65,7000.0,Health,5.0,4,22,54000,Very Good,No,0.13,B,50,Approved
+Owner,6.99,4200.0,Business,5.0,3,24,24000,Excellent,No,0.17,A,46,Approved
+Mortgage,8.9,10000.0,Study,8.0,4,24,80000,Excellent,No,0.13,B,51,Approved
+Mortgage,9.32,5000.0,Study,10.0,2,26,50004,Excellent,No,0.1,B,26,Approved
+Renter,12.84,2000.0,Study,3.0,2,26,70000,Good,Yes,0.03,C,29,Approved
+Mortgage,16.07,15000.0,Study,4.0,14,38,40320,Fair,No,0.37,B,172,Approved
+Mortgage,18.25,30000.0,Debt Consolidation,7.0,7,27,119000,Fair,No,0.25,B,95,Declined
+Renter,12.69,687866400.0,Personal,7.0,2,22,48000,Very Good,No,0.15,C,28,Approved
+Renter,10.65,6500.0,Study,2.0,4,22,53000,Very Good,No,0.12,C,52,Approved
+Renter,,8000.0,Business,7.0,3,23,35004,Excellent,No,0.23,C,47,Approved
+Renter,13.72,7000.0,Study,14.0,8,31,36000,Good,No,0.19,C,106,Approved
+Renter,12.69,10500.0,Home Improvement,11.0,10,31,66000,Very Good,No,0.16,C,129,Approved
+Renter,15.31,10000.0,Personal,0.0,7,27,30000,Fair,No,0.33,C,92,Declined
+Renter,7.29,10500.0,Debt Consolidation,2.0,3,25,35220,Excellent,No,0.3,C,46,Approved
+Renter,13.98,3000.0,Debt Consolidation,1.0,2,24,30000,Good,Yes,0.1,C,31,Declined
+Renter,12.61,1500.0,Debt Consolidation,4.0,9,34,14400,Good,Yes,0.1,C,114,Approved
+Renter,7.29,3000.0,Personal,2.0,4,22,70000,Excellent,No,0.04,C,56,Approved
+Renter,17.27,10000.0,Study,3.0,8,29,80000,Fair,No,0.13,C,97,Approved
+Renter,15.68,19000.0,Business,12.0,5,33,56136,Poor,Yes,0.34,C,68,Declined
+Renter,12.53,1200.0,Study,0.0,8,28,15600,Very Good,No,0.08,C,105,Approved
+Renter,,22000.0,Health,0.0,4,24,80000,Excellent,No,0.28,C,53,Approved
+Renter,12.73,7000.0,Debt Consolidation,3.0,2,23,28685,Good,No,0.24,C,28,Approved
+Renter,9.99,4750.0,Debt Consolidation,0.0,7,30,60000,Very Good,No,0.08,C,92,Approved
+Renter,16.89,10000.0,Study,1.0,4,23,42720,Fair,Yes,0.23,C,55,Declined
+Mortgage,,745188600.0,Personal,4.0,2,23,40000,Very Good,No,0.15,B,25,Approved
+Renter,10.37,2500.0,Business,4.0,3,26,31200,Very Good,No,0.08,C,41,Approved
+Mortgage,14.27,20000.0,Home Improvement,11.0,4,26,70000,Good,Yes,0.29,B,56,Approved
+Mortgage,14.65,8400.0,Home Improvement,4.0,4,23,88000,Good,No,0.1,B,52,Declined
+Mortgage,6.76,5000.0,Personal,5.0,8,30,82000,Excellent,No,0.06,B,97,Approved
+Mortgage,15.95,25000.0,Home Improvement,4.0,10,28,140000,Poor,No,0.18,B,125,Approved
+Renter,11.48,9000.0,Study,0.0,4,22,45000,Very Good,No,0.2,C,53,Approved
+Mortgage,6.99,4900.0,Business,7.0,2,23,90000,Excellent,No,0.05,B,31,Approved
+Mortgage,6.62,7000.0,Study,14.0,6,30,88800,Excellent,No,0.08,B,78,Approved
+Mortgage,12.42,5400.0,Study,6.0,3,24,40000,Very Good,No,0.14,B,39,Approved
+Mortgage,9.63,10000.0,Personal,3.0,17,38,44000,Very Good,No,0.23,B,208,Approved
+Mortgage,6.03,6075.0,Debt Consolidation,5.0,10,32,66300,Excellent,No,0.09,B,124,Approved
+Mortgage,5.99,10000.0,Personal,5.0,5,29,50004,Excellent,No,0.2,B,70,Approved
+Unknown,15.05,7500.0,Business,3.0,2,26,87500,Fair,Yes,0.09,D,32,Approved
+Mortgage,6.03,15000.0,Personal,2.0,2,23,86000,Excellent,No,0.17,B,27,Approved
+Mortgage,6.03,10500.0,Study,7.0,4,23,65000,Excellent,No,0.16,B,53,Approved
+Mortgage,10.0,7000.0,Debt Consolidation,4.0,9,32,29500,Very Good,No,0.24,B,119,Declined
+Renter,16.02,9600.0,Debt Consolidation,5.0,3,23,34560,Fair,Yes,0.28,C,39,Declined
+Renter,6.99,10000.0,Personal,3.0,5,29,58000,Excellent,No,0.17,C,61,Approved
+Renter,15.33,8000.0,Study,4.0,2,22,36000,Fair,No,0.22,C,26,Approved
+Mortgage,6.54,15000.0,Home Improvement,8.0,6,28,110000,Excellent,No,0.14,B,80,Approved
+Mortgage,14.61,20000.0,Debt Consolidation,2.0,16,41,103000,Fair,Yes,0.19,B,202,Declined
+Renter,16.32,6500.0,Business,3.0,10,32,50000,Fair,Yes,0.13,C,130,Approved
+Mortgage,9.63,6400.0,Personal,2.0,4,25,98000,Excellent,No,0.07,B,58,Approved
+Mortgage,15.96,5000.0,Personal,2.0,8,29,100000,Good,No,0.05,B,105,Approved
+Mortgage,11.86,6000.0,Study,4.0,3,23,200000,Very Good,No,0.03,B,41,Approved
+Owner,11.09,8000.0,Study,4.0,9,27,72000,Good,Yes,0.11,A,111,Approved
+Renter,6.99,2800.0,Personal,4.0,7,28,47000,Excellent,No,0.06,C,85,Approved
+Owner,6.76,2500.0,Health,13.0,5,29,42000,Excellent,No,0.06,A,68,Approved
+Mortgage,10.37,12375.0,Business,2.0,9,30,39552,Very Good,No,0.31,B,116,Approved
+Renter,16.35,25000.0,Debt Consolidation,7.0,4,23,74004,Poor,No,0.34,C,51,Declined
+Owner,7.74,6000.0,Study,7.0,4,22,43000,Excellent,No,0.14,A,56,Approved
+Mortgage,9.99,6250.0,Business,1.0,6,28,54000,Very Good,No,0.12,B,83,Approved
+Renter,12.53,20000.0,Study,5.0,3,22,51000,Very Good,No,0.39,C,46,Declined
+Mortgage,12.69,1000.0,Personal,9.0,2,25,70000,Very Good,No,0.01,B,35,Approved
+Mortgage,15.23,10000.0,Study,3.0,8,33,54000,Good,Yes,0.19,B,101,Approved
+Mortgage,11.89,12000.0,Health,11.0,3,26,56000,Very Good,No,0.21,B,47,Approved
+Mortgage,6.17,15600.0,Debt Consolidation,9.0,5,32,44000,Excellent,No,0.35,B,65,Approved
+Renter,13.99,8400.0,Health,8.0,2,26,51996,Good,Yes,0.16,C,31,Approved
+Mortgage,11.12,15000.0,Personal,3.0,5,31,201000,Very Good,No,0.07,B,71,Approved
+Mortgage,12.69,1261088400.0,Study,4.0,10,28,32000,Very Good,No,0.38,B,123,Declined
+Renter,10.75,10000.0,Debt Consolidation,5.0,3,24,51160,Very Good,No,0.2,C,47,Approved
+Renter,10.74,12000.0,Home Improvement,0.0,9,31,150000,Very Good,No,0.08,C,118,Approved
+Renter,,3000.0,Health,0.0,16,39,38500,Very Good,No,0.08,C,203,Approved
+Renter,14.26,8000.0,Debt Consolidation,0.0,4,23,76500,Good,No,0.1,C,52,Declined
+Renter,11.26,9000.0,Health,0.0,2,26,84996,Very Good,No,0.11,C,27,Approved
+Mortgage,10.74,12000.0,Health,4.0,8,30,110000,Very Good,No,0.11,B,104,Approved
+Renter,12.42,35000.0,Study,8.0,3,26,77100,Very Good,No,0.45,C,43,Declined
+Owner,5.42,12000.0,Personal,,4,22,19008,Excellent,No,0.63,A,59,Declined
+Mortgage,,10000.0,Personal,14.0,12,45,125000,Very Good,No,0.08,B,149,Approved
+Owner,12.18,24250.0,Personal,8.0,4,26,68000,Very Good,No,0.36,A,59,Approved
+Renter,9.99,2500.0,Health,5.0,2,21,42000,Very Good,No,0.06,C,31,Approved
+Renter,17.51,5000.0,Business,1.0,4,22,27996,Poor,No,0.18,C,53,Declined
+Mortgage,13.16,6000.0,Personal,4.0,4,23,70000,Good,Yes,0.09,B,58,Approved
+Renter,,20000.0,Personal,5.0,4,22,90000,Very Good,No,0.22,C,51,Approved
+Owner,16.49,15000.0,Business,7.0,2,22,60000,Fair,Yes,0.25,A,30,Approved
+Renter,12.69,6000.0,Business,3.0,7,32,80000,Very Good,No,0.07,C,91,Approved
+Mortgage,11.89,21600.0,Study,0.0,2,23,59000,Very Good,No,0.37,B,34,Approved
+Renter,11.83,2375.0,Health,3.0,7,32,60000,Very Good,No,0.04,C,95,Approved
+Renter,11.83,18550.0,Debt Consolidation,4.0,4,22,43000,Very Good,No,0.43,C,56,Declined
+Renter,7.49,5000.0,Health,9.0,4,25,39000,Excellent,No,0.13,C,52,Approved
+Renter,11.12,6000.0,Business,0.0,4,26,42000,Very Good,No,0.14,C,56,Approved
+Renter,13.49,14000.0,Study,3.0,3,21,72500,Good,Yes,0.19,C,45,Approved
+Renter,10.65,5000.0,Health,5.0,3,21,35000,Very Good,No,0.14,C,42,Approved
+Mortgage,7.49,17000.0,Health,8.0,2,24,60000,Excellent,No,0.28,B,29,Approved
+Mortgage,7.51,6000.0,Personal,10.0,2,26,122000,Excellent,No,0.05,B,31,Approved
+Mortgage,7.49,9000.0,Study,7.0,17,37,36000,Excellent,No,0.25,B,215,Approved
+Mortgage,8.94,12000.0,Health,4.0,9,34,125000,Excellent,No,0.1,B,112,Approved
+Renter,14.27,1800.0,Debt Consolidation,0.0,3,22,57000,Good,No,0.03,C,45,Approved
+Renter,6.17,13200.0,Study,3.0,3,23,75000,Excellent,No,0.18,C,39,Approved
+Renter,10.59,6000.0,Study,2.0,7,34,42000,Very Good,No,0.14,C,86,Approved
+Renter,13.79,12000.0,Debt Consolidation,2.0,4,25,31008,Good,No,0.39,C,51,Declined
+Renter,11.49,3200.0,Business,,2,21,12000,Very Good,No,0.27,C,27,Declined
+Renter,12.99,206359920.00000003,Business,1.0,8,32,21360,Good,No,0.08,C,102,Approved
+Renter,9.96,20000.0,Personal,2.0,7,28,73992,Very Good,No,0.27,C,87,Approved
+Renter,9.63,5000.0,Study,2.0,4,23,95004,Excellent,No,0.05,C,59,Approved
+Renter,7.51,5500.0,Health,4.0,13,44,63000,Excellent,No,0.09,C,162,Approved
+Renter,7.51,3000.0,Health,1.0,5,33,15500,Excellent,No,0.19,C,69,Declined
+Renter,8.49,7000.0,Business,2.0,10,31,123000,Excellent,No,0.06,C,122,Approved
+Mortgage,8.49,978298880.0000001,Business,2.0,4,23,50000,Excellent,No,0.13,B,58,Approved
+Renter,15.57,2400.0,Debt Consolidation,0.0,5,30,34000,Fair,No,0.07,C,68,Declined
+Renter,10.99,17000.0,Health,5.0,3,23,78000,Very Good,No,0.22,C,43,Approved
+Renter,5.99,8000.0,Study,4.0,5,35,39996,Excellent,No,0.2,C,66,Approved
+Renter,10.0,3825.0,Business,1.0,3,24,40000,Very Good,No,0.1,C,47,Approved
+Mortgage,8.88,14000.0,Debt Consolidation,3.0,9,33,51996,Very Good,No,0.27,B,118,Approved
+Mortgage,11.89,12000.0,Business,1.0,5,27,150000,Very Good,No,0.08,B,69,Approved
+Owner,6.76,3350.0,Health,8.0,2,24,53000,Excellent,No,0.06,A,27,Approved
+Mortgage,12.53,8000.0,Home Improvement,0.0,7,33,90000,Very Good,No,0.09,B,86,Approved
+Mortgage,15.96,28000.0,Business,5.0,5,27,235000,Good,No,0.12,B,61,Approved
+Renter,12.04,15000.0,Home Improvement,3.0,10,29,100000,Good,No,0.15,C,130,Approved
+Mortgage,7.66,5000.0,Study,6.0,2,26,75000,Excellent,No,0.07,B,34,Approved
+Renter,15.23,30000.0,Personal,6.0,3,23,92004,Good,Yes,0.33,C,37,Declined
+Renter,15.31,9600.0,Debt Consolidation,7.0,3,24,45000,Fair,Yes,0.21,C,47,Declined
+Renter,12.18,19000.0,Business,4.0,3,22,39900,Very Good,No,0.48,C,47,Declined
+Mortgage,5.42,998361650.0000001,Home Improvement,17.0,7,33,126000,Excellent,No,0.08,B,95,Approved
+Owner,15.62,25000.0,Personal,13.0,9,29,70000,Fair,Yes,0.36,A,112,Approved
+Mortgage,11.89,15000.0,Debt Consolidation,2.0,11,39,156000,Very Good,No,0.1,B,133,Approved
+Renter,9.32,5500.0,Personal,0.0,4,23,25000,Excellent,No,0.22,C,56,Approved
+Mortgage,11.86,2700.0,Health,4.0,3,23,54000,Very Good,No,0.05,B,44,Approved
+Mortgage,,12000.0,Personal,8.0,10,30,34000,Excellent,No,0.35,B,123,Declined
+Mortgage,7.66,14500.0,Debt Consolidation,11.0,6,35,64000,Excellent,No,0.23,B,74,Approved
+Renter,6.99,7400.0,Debt Consolidation,0.0,2,25,62000,Excellent,No,0.12,C,30,Approved
+Mortgage,8.49,15350.0,Debt Consolidation,14.0,7,32,80000,Excellent,No,0.19,B,92,Approved
+Renter,11.83,7000.0,Debt Consolidation,0.0,2,24,65000,Very Good,No,0.11,C,30,Approved
+Renter,9.76,4000.0,Study,6.0,3,25,30000,Very Good,No,0.13,C,40,Approved
+Owner,14.65,5000.0,Study,0.0,4,23,75000,Good,No,0.07,A,55,Approved
+Renter,14.91,8000.0,Health,6.0,7,28,39000,Fair,Yes,0.21,C,93,Declined
+Renter,7.29,5000.0,Business,6.0,2,26,42000,Excellent,No,0.12,C,34,Approved
+Mortgage,13.47,20000.0,Business,3.0,2,25,160000,Good,Yes,0.13,B,32,Approved
+Mortgage,7.49,15000.0,Study,6.0,2,22,100000,Excellent,No,0.15,B,33,Approved
+Mortgage,15.96,15000.0,Business,1.0,2,20,135000,Good,Yes,0.11,B,28,Approved
+Renter,8.9,5000.0,Health,5.0,5,34,20000,Excellent,No,0.25,C,62,Approved
+Renter,15.7,15000.0,Personal,6.0,3,22,70204,Fair,Yes,0.21,C,42,Approved
+Mortgage,6.03,2800.0,Home Improvement,3.0,4,26,53000,Excellent,No,0.05,B,55,Approved
+Renter,10.59,12000.0,Personal,3.0,10,30,42886,Very Good,No,0.28,C,130,Approved
+Renter,9.63,5000.0,Home Improvement,1.0,17,40,65000,Very Good,No,0.08,C,207,Approved
+Mortgage,11.71,4800.0,Business,5.0,8,27,163232,Very Good,No,0.03,B,103,Approved
+Mortgage,15.33,23500.0,Personal,,2,22,58800,Fair,No,0.4,B,33,Declined
+Renter,11.72,2500.0,Debt Consolidation,1.0,5,27,56000,Good,No,0.04,C,65,Declined
+Renter,11.71,4800.0,Debt Consolidation,4.0,8,27,40000,Very Good,No,0.12,C,106,Approved
+Renter,11.03,4800.0,Personal,3.0,4,22,42996,Good,Yes,0.11,C,52,Approved
+Mortgage,12.87,24000.0,Home Improvement,9.0,2,25,180488,Good,No,0.13,B,30,Approved
+Renter,6.03,9000.0,Debt Consolidation,3.0,2,26,64000,Excellent,No,0.14,C,26,Approved
+Mortgage,13.49,12000.0,Home Improvement,10.0,2,26,40000,Good,No,0.3,B,28,Approved
+Mortgage,12.69,7200.0,Personal,,9,32,45000,Very Good,No,0.16,B,110,Approved
+Owner,11.11,7000.0,Personal,3.0,9,28,36400,Very Good,No,0.19,A,112,Approved
+Renter,9.25,8000.0,Study,4.0,2,23,55000,Very Good,No,0.15,C,35,Approved
+Mortgage,15.37,9600.0,Study,0.0,2,22,70000,Fair,No,0.14,B,33,Approved
+Renter,,2250.0,Debt Consolidation,5.0,7,27,48000,Very Good,No,0.05,C,85,Approved
+Renter,9.91,5000.0,Health,,5,35,36000,Very Good,No,0.14,C,64,Approved
+Mortgage,,3900.0,Debt Consolidation,,3,24,16800,Excellent,No,0.23,B,40,Declined
+Mortgage,7.51,5500.0,Personal,11.0,9,27,126000,Excellent,No,0.04,B,110,Approved
+Renter,11.66,11200.0,Study,3.0,10,34,74000,Good,No,0.15,C,131,Declined
+Renter,5.42,3000.0,Home Improvement,0.0,7,35,16800,Excellent,No,0.18,C,85,Declined
+Mortgage,,25000.0,Health,9.0,7,28,145000,Very Good,No,0.17,B,94,Approved
+Mortgage,13.04,6500.0,Health,9.0,4,24,57000,Good,Yes,0.11,B,49,Declined
+Mortgage,7.51,5000.0,Health,5.0,9,28,80748,Excellent,No,0.06,B,111,Approved
+Mortgage,13.16,4400.0,Debt Consolidation,7.0,3,23,45480,Good,No,0.1,B,47,Declined
+Renter,7.37,16800.0,Debt Consolidation,0.0,5,34,78000,Excellent,No,0.22,C,70,Approved
+Mortgage,15.37,1400.0,Personal,1.0,9,28,36000,Fair,Yes,0.04,B,117,Approved
+Renter,11.12,1800.0,Study,6.0,4,22,71004,Very Good,No,0.03,C,59,Approved
+Mortgage,10.59,1627950480.0000002,Debt Consolidation,2.0,9,32,48000,Very Good,No,0.22,B,109,Approved
+Renter,12.69,13000.0,Health,6.0,4,24,90100,Very Good,No,0.12,C,54,Declined
+Renter,11.49,8650.0,Study,5.0,4,22,69000,Very Good,No,0.13,C,56,Approved
+Mortgage,9.99,20000.0,Home Improvement,2.0,2,25,63000,Very Good,No,0.32,B,28,Approved
+Renter,12.53,13200.0,Debt Consolidation,2.0,4,25,46596,Very Good,No,0.28,C,50,Approved
+Renter,14.61,6500.0,Business,9.0,3,25,125000,Fair,No,0.05,C,46,Approved
+Renter,,10500.0,Health,8.0,2,24,37000,Fair,No,0.28,C,31,Approved
+Renter,11.11,2300.0,Personal,0.0,4,25,25920,Very Good,No,0.09,C,53,Approved
+Mortgage,6.03,2100.0,Study,7.0,2,25,40000,Excellent,No,0.05,B,33,Approved
+Mortgage,11.34,7500.0,Personal,6.0,2,22,35000,Good,Yes,0.21,B,35,Approved
+Renter,7.51,12000.0,Health,8.0,9,27,28000,Excellent,No,0.43,C,110,Declined
+Mortgage,5.79,6550.0,Health,4.0,10,31,62000,Excellent,No,0.11,B,131,Approved
+Renter,10.59,11000.0,Debt Consolidation,3.0,2,22,46000,Very Good,No,0.24,C,30,Approved
+Mortgage,11.89,16000.0,Study,1.0,3,23,78000,Very Good,No,0.21,B,43,Approved
+Mortgage,6.99,5000.0,Business,6.0,2,26,45000,Excellent,No,0.11,B,27,Approved
+Mortgage,7.9,3500.0,Debt Consolidation,3.0,9,33,60000,Excellent,No,0.06,B,114,Approved
+Mortgage,10.0,9000.0,Study,5.0,2,22,62000,Very Good,No,0.15,B,26,Approved
+Renter,12.99,5700.0,Study,1.0,3,22,35000,Good,No,0.16,C,44,Approved
+Renter,14.96,16000.0,Health,6.0,5,32,62900,Fair,No,0.22,C,64,Declined
+Renter,11.99,8000.0,Health,5.0,4,23,70000,Very Good,No,0.11,C,58,Approved
+Mortgage,8.94,16750.0,Debt Consolidation,8.0,7,27,45000,Excellent,No,0.37,B,92,Approved
+Renter,7.29,12375.0,Debt Consolidation,8.0,4,25,42000,Excellent,No,0.29,C,53,Approved
+Mortgage,,8000.0,Business,22.0,15,47,50004,Excellent,No,0.16,B,181,Approved
+Mortgage,9.99,10500.0,Personal,6.0,2,22,63400,Very Good,No,0.17,B,29,Approved
+Mortgage,5.42,4000.0,Study,1.0,3,23,90000,Excellent,No,0.04,B,46,Approved
+Renter,11.71,18000.0,Personal,0.0,16,43,36480,Very Good,No,0.49,C,193,Declined
+Renter,10.38,7200.0,Business,9.0,3,26,21600,Very Good,No,0.33,C,39,Declined
+Renter,6.91,20000.0,Debt Consolidation,11.0,8,27,40000,Excellent,No,0.5,C,104,Declined
+Owner,13.57,13000.0,Business,1.0,2,23,39689,Good,Yes,0.33,A,34,Approved
+Renter,,2000.0,Health,2.0,5,33,57500,Very Good,No,0.03,C,61,Approved
+Mortgage,5.79,8000.0,Debt Consolidation,7.0,2,25,60000,Excellent,No,0.13,B,29,Approved
+Renter,7.51,10000.0,Home Improvement,5.0,4,24,97850,Excellent,No,0.1,C,55,Approved
+Renter,,1450.0,Health,2.0,9,27,24000,Excellent,No,0.06,C,109,Approved
+Mortgage,13.48,12000.0,Home Improvement,3.0,10,31,90000,Good,No,0.13,B,123,Approved
+Renter,10.65,7200.0,Debt Consolidation,4.0,5,27,39000,Very Good,No,0.18,C,70,Declined
+Mortgage,7.49,2400.0,Study,1.0,2,25,57200,Excellent,No,0.04,B,27,Approved
+Renter,5.79,5000.0,Business,4.0,2,21,40000,Excellent,No,0.13,C,31,Approved
+Mortgage,17.74,24000.0,Home Improvement,11.0,6,27,65000,Poor,Yes,0.37,B,82,Approved
+Mortgage,13.99,4000.0,Business,10.0,7,27,44400,Good,Yes,0.09,B,88,Declined
+Renter,16.7,24250.0,Home Improvement,10.0,7,29,126000,Poor,Yes,0.19,C,90,Approved
+Renter,5.42,6000.0,Health,2.0,3,22,47000,Excellent,No,0.13,C,37,Approved
+Mortgage,6.92,3000.0,Personal,2.0,4,26,58000,Excellent,No,0.05,B,57,Approved
+Renter,8.0,7200.0,Study,2.0,3,22,59000,Excellent,No,0.12,C,45,Approved
+Mortgage,6.62,9800.0,Health,6.0,7,31,72000,Excellent,No,0.14,B,94,Approved
+Renter,9.91,12000.0,Business,9.0,7,27,50600,Very Good,No,0.24,C,88,Approved
+Renter,10.37,5000.0,Debt Consolidation,,3,21,17220,Very Good,No,0.29,C,43,Declined
+Renter,10.36,11000.0,Health,5.0,10,30,42000,Very Good,No,0.26,C,130,Approved
+Mortgage,10.75,13000.0,Personal,12.0,10,28,130000,Very Good,No,0.1,B,121,Approved
+Renter,8.49,3200.0,Business,1.0,4,22,50000,Excellent,No,0.06,C,50,Approved
+Mortgage,7.4,6000.0,Personal,8.0,2,24,107203,Excellent,No,0.06,B,30,Approved
+Renter,13.43,5000.0,Health,0.0,17,44,48000,Good,No,0.1,C,205,Approved
+Owner,12.69,7000.0,Home Improvement,,2,26,38400,Very Good,No,0.18,A,26,Approved
+Mortgage,12.99,15000.0,Health,6.0,6,29,280000,Good,Yes,0.05,B,80,Approved
+Renter,8.9,5000.0,Debt Consolidation,16.0,5,34,56000,Excellent,No,0.09,C,70,Approved
+Mortgage,13.22,7550.0,Home Improvement,5.0,4,21,30297,Good,Yes,0.25,B,56,Declined
+Mortgage,14.5,7500.0,Health,11.0,9,29,82450,Poor,No,0.08,B,119,Declined
+Renter,11.86,3000.0,Health,8.0,4,24,30000,Very Good,No,0.1,C,50,Approved
+Mortgage,13.98,8000.0,Health,3.0,6,28,100000,Good,Yes,0.08,B,83,Approved
+Renter,13.85,4800.0,Health,5.0,3,24,40800,Good,Yes,0.12,C,39,Approved
+Mortgage,7.88,15000.0,Health,5.0,4,24,91000,Excellent,No,0.16,B,50,Approved
+Mortgage,12.69,5000.0,Study,1.0,3,26,110000,Very Good,No,0.05,B,37,Approved
+Renter,12.61,4000.0,Personal,4.0,6,27,54000,Good,Yes,0.07,C,83,Approved
+Mortgage,13.35,3000.0,Study,11.0,10,29,112500,Good,No,0.03,B,127,Approved
+Mortgage,18.53,7200.0,Debt Consolidation,1.0,3,25,77000,Very Poor,No,0.09,B,46,Declined
+Renter,11.49,3000.0,Health,7.0,2,23,43949,Very Good,No,0.07,C,32,Approved
+Renter,13.11,15000.0,Health,0.0,3,24,85000,Good,No,0.18,C,41,Approved
+Renter,10.39,5000.0,Health,7.0,4,23,66000,Very Good,No,0.08,C,55,Approved
+Renter,10.14,3000.0,Health,4.0,3,26,48000,Very Good,No,0.06,C,37,Approved
+Renter,12.61,15000.0,Health,5.0,4,21,31680,Good,Yes,0.47,C,51,Declined
+Mortgage,7.88,6600.0,Study,5.0,4,22,81000,Excellent,No,0.08,B,59,Approved
+Renter,12.99,12000.0,Health,6.0,3,22,72000,Good,Yes,0.17,C,42,Approved
+Renter,10.37,3500.0,Debt Consolidation,3.0,4,22,23000,Very Good,No,0.15,C,50,Approved
+Renter,14.59,20000.0,Health,4.0,4,25,38000,Fair,No,0.53,C,59,Declined
+Mortgage,,12000.0,Personal,11.0,6,27,100000,Excellent,No,0.12,B,76,Approved
+Renter,10.25,2000.0,Debt Consolidation,2.0,2,24,10000,Very Good,No,0.2,C,30,Declined
+Renter,7.9,10625.0,Personal,1.0,6,29,35000,Excellent,No,0.3,C,83,Approved
+Renter,10.36,4000.0,Debt Consolidation,0.0,3,23,30000,Very Good,No,0.13,C,38,Approved
+Mortgage,,4000.0,Debt Consolidation,5.0,5,31,41004,Excellent,No,0.1,B,64,Approved
+Owner,10.59,10000.0,Business,,4,24,20856,Very Good,No,0.48,A,56,Approved
+Mortgage,,4200.0,Debt Consolidation,8.0,3,24,108000,Excellent,No,0.04,B,46,Approved
+Renter,7.14,8000.0,Study,6.0,4,22,30996,Excellent,No,0.26,C,58,Declined
+Renter,15.95,6000.0,Personal,5.0,10,28,159000,Fair,No,0.04,C,128,Declined
+Mortgage,11.99,18200.0,Health,8.0,4,25,49000,Very Good,No,0.37,B,50,Declined
+Mortgage,7.51,10000.0,Study,6.0,10,27,200000,Excellent,No,0.05,B,124,Approved
+Renter,7.51,5000.0,Health,1.0,5,27,38250,Excellent,No,0.13,C,63,Approved
+Renter,7.74,8000.0,Debt Consolidation,8.0,4,23,28000,Excellent,No,0.29,C,53,Approved
+Mortgage,6.03,7275.0,Health,,3,22,36000,Excellent,No,0.2,B,37,Approved
+Renter,,2800.0,Debt Consolidation,12.0,16,36,72000,Good,Yes,0.04,C,200,Approved
+Mortgage,6.54,4000.0,Study,0.0,9,33,60000,Excellent,No,0.07,B,116,Approved
+Mortgage,13.16,17600.0,Health,14.0,10,29,76596,Good,No,0.23,B,131,Approved
+Mortgage,,3821480000.0000005,Debt Consolidation,4.0,14,38,55000,Fair,Yes,0.45,B,169,Declined
+Renter,13.11,16000.0,Personal,3.0,5,33,62800,Good,Yes,0.25,C,68,Approved
+Mortgage,5.79,12000.0,Home Improvement,12.0,8,32,106000,Excellent,No,0.11,B,107,Approved
+Renter,10.62,4000.0,Study,8.0,2,24,53636,Very Good,No,0.07,C,25,Approved
+Owner,7.14,5000.0,Personal,5.0,3,21,100000,Excellent,No,0.05,A,39,Approved
+Mortgage,13.48,13000.0,Study,6.0,2,21,39996,Good,No,0.33,B,27,Approved
+Renter,9.32,7000.0,Personal,8.0,2,26,72000,Excellent,No,0.1,C,27,Approved
+Renter,9.63,5600.0,Business,4.0,3,22,54000,Very Good,No,0.1,C,44,Approved
+Mortgage,14.65,1948954800.0000002,Business,3.0,2,23,45600,Good,Yes,0.26,B,29,Approved
+Mortgage,10.99,3439332000.0000005,Personal,0.0,3,24,86000,Very Good,No,0.23,B,41,Declined
+Renter,12.87,13000.0,Study,0.0,10,32,78000,Good,Yes,0.17,C,121,Approved
+Renter,8.0,5500.0,Study,2.0,4,25,30000,Excellent,No,0.18,C,49,Approved
+Mortgage,16.77,5000.0,Personal,5.0,3,23,82000,Fair,Yes,0.06,B,43,Approved
+Mortgage,7.9,35000.0,Study,11.0,7,29,118400,Excellent,No,0.3,B,89,Approved
+Mortgage,6.91,12000.0,Study,8.0,11,46,40000,Excellent,No,0.3,B,136,Approved
+Mortgage,14.96,8000.0,Debt Consolidation,6.0,5,29,84000,Fair,No,0.1,B,71,Declined
+Mortgage,19.29,18400.0,Business,2.0,2,23,61000,Poor,No,0.3,B,27,Approved
+Renter,9.88,4800.0,Personal,0.0,3,24,48000,Very Good,No,0.1,C,45,Approved
+Mortgage,10.62,6500.0,Business,7.0,3,22,48000,Very Good,No,0.14,B,40,Approved
+Mortgage,14.91,8000.0,Business,10.0,4,26,99085,Fair,Yes,0.08,B,57,Approved
+Renter,15.21,12000.0,Debt Consolidation,4.0,6,30,30000,Fair,Yes,0.4,C,79,Declined
+Renter,7.51,14000.0,Health,2.0,2,24,42996,Excellent,No,0.33,C,33,Declined
+Renter,8.0,10000.0,Study,0.0,4,22,40000,Excellent,No,0.25,C,54,Approved
+Mortgage,9.88,5000.0,Business,10.0,2,26,95000,Very Good,No,0.05,B,34,Approved
+Owner,16.29,18000.0,Business,12.0,7,28,140000,Fair,No,0.13,A,86,Approved
+Renter,9.99,10000.0,Health,4.0,7,35,38004,Very Good,No,0.26,C,86,Approved
+Renter,16.07,6250.0,Personal,2.0,3,22,29100,Fair,Yes,0.21,C,47,Declined
+Renter,14.72,3350.0,Debt Consolidation,2.0,2,24,30000,Good,Yes,0.11,C,26,Approved
+Renter,10.74,13200.0,Study,0.0,5,34,90000,Very Good,No,0.15,C,68,Approved
+Renter,8.32,1800.0,Study,2.0,2,25,31000,Excellent,No,0.06,C,30,Approved
+Mortgage,6.03,12000.0,Study,4.0,3,24,128000,Excellent,No,0.09,B,38,Approved
+Mortgage,7.49,2650.0,Study,11.0,9,27,47000,Excellent,No,0.06,B,115,Approved
+Mortgage,6.17,20000.0,Home Improvement,17.0,6,33,117000,Excellent,No,0.17,B,82,Approved
+Mortgage,,7000.0,Personal,,4,23,28296,Very Good,No,0.25,B,54,Approved
+Mortgage,13.47,17400.0,Health,2.0,4,22,107000,Good,No,0.16,B,49,Approved
+Mortgage,12.73,2579499000.0,Personal,3.0,9,34,80300,Good,Yes,0.19,B,117,Approved
+Renter,10.25,17000.0,Business,8.0,4,23,59000,Very Good,No,0.29,C,56,Approved
+Mortgage,8.88,4000.0,Home Improvement,3.0,12,43,79000,Very Good,No,0.05,B,148,Approved
+Renter,7.9,5000.0,Debt Consolidation,1.0,3,25,76000,Excellent,No,0.07,C,46,Approved
+Renter,10.62,14000.0,Health,7.0,8,27,100000,Very Good,No,0.14,C,104,Approved
+Mortgage,6.03,10200.0,Business,7.0,3,23,75000,Excellent,No,0.14,B,39,Approved
+Renter,14.22,5000.0,Business,4.0,4,23,45600,Good,No,0.11,C,58,Approved
+Owner,7.88,15000.0,Study,5.0,2,22,91000,Excellent,No,0.16,A,28,Approved
+Mortgage,13.06,33250.0,Study,3.0,5,30,130000,Good,Yes,0.26,B,62,Approved
+Renter,14.11,10000.0,Personal,3.0,2,25,25000,Fair,Yes,0.4,C,31,Declined
+Renter,11.83,20000.0,Health,5.0,2,24,72000,Very Good,No,0.28,C,33,Approved
+Mortgage,7.14,8500.0,Study,8.0,4,24,41500,Excellent,No,0.2,B,49,Approved
+Owner,9.99,1600.0,Business,18.0,17,40,28000,Very Good,No,0.06,A,207,Approved
+Renter,,6000.0,Study,2.0,23,62,66000,Very Good,No,0.09,C,284,Approved
+Mortgage,10.65,2000.0,Study,5.0,2,22,16800,Very Good,No,0.12,B,26,Approved
+Renter,11.71,12000.0,Debt Consolidation,6.0,4,22,35000,Very Good,No,0.34,C,59,Declined
+Mortgage,,3000.0,Debt Consolidation,7.0,3,23,19200,Excellent,No,0.16,B,41,Declined
+Renter,6.54,5000.0,Debt Consolidation,1.0,3,22,54000,Excellent,No,0.09,C,39,Declined
+Mortgage,,10000.0,Health,2.0,6,30,62900,Very Good,No,0.14,B,80,Declined
+Renter,10.99,5000.0,Debt Consolidation,0.0,6,31,24000,Very Good,No,0.21,C,75,Declined
+Mortgage,15.28,25000.0,Study,8.0,10,29,174996,Fair,Yes,0.14,B,121,Approved
+Renter,,2600.0,Business,1.0,6,32,32000,Poor,No,0.08,C,73,Declined
+Renter,13.85,7000.0,Personal,2.0,3,22,25000,Good,Yes,0.28,C,46,Approved
+Mortgage,14.96,16750.0,Study,3.0,6,28,46000,Fair,No,0.36,B,75,Approved
+Mortgage,8.59,4800.0,Debt Consolidation,0.0,13,39,27040,Excellent,No,0.18,B,166,Approved
+Renter,13.49,6500.0,Health,2.0,3,25,42000,Good,Yes,0.15,C,42,Approved
+Renter,11.49,5000.0,Business,2.0,11,37,27036,Very Good,No,0.18,C,140,Approved
+Renter,7.4,7000.0,Health,0.0,2,23,26400,Excellent,No,0.27,C,28,Approved
+Mortgage,12.87,5000.0,Health,0.0,4,26,46800,Good,No,0.11,B,54,Declined
+Mortgage,9.99,25000.0,Home Improvement,11.0,17,42,360000,Very Good,No,0.07,B,214,Approved
+Mortgage,7.74,6000.0,Personal,3.0,7,27,75400,Excellent,No,0.08,B,92,Approved
+Mortgage,12.68,10200.0,Business,3.0,2,23,75000,Good,Yes,0.14,B,28,Approved
+Owner,9.63,10000.0,Study,14.0,10,35,158000,Very Good,No,0.06,A,126,Approved
+Mortgage,10.65,7875.0,Personal,4.0,3,24,55680,Very Good,No,0.14,B,46,Approved
+Renter,10.99,9000.0,Study,2.0,2,23,51000,Very Good,No,0.18,C,28,Approved
+Renter,19.66,25000.0,Study,4.0,15,37,88000,Extremely Poor,Yes,0.28,C,183,Declined
+Mortgage,6.99,8000.0,Personal,9.0,4,25,138000,Excellent,No,0.06,B,55,Approved
+Renter,16.49,6600.0,Study,0.0,8,31,30000,Fair,Yes,0.22,C,104,Declined
+Owner,13.22,2500.0,Health,1.0,7,28,65000,Good,Yes,0.04,A,90,Approved
+Mortgage,10.99,11000.0,Business,8.0,3,24,92000,Very Good,No,0.12,B,39,Approved
+Mortgage,12.53,16000.0,Home Improvement,0.0,3,24,46500,Good,Yes,0.34,B,45,Approved
+Renter,8.9,7200.0,Home Improvement,4.0,7,27,60000,Excellent,No,0.12,C,93,Approved
+Renter,12.73,7500.0,Health,7.0,9,29,40000,Good,Yes,0.19,C,112,Approved
+Owner,16.0,14400.0,Business,2.0,7,29,34000,Poor,Yes,0.42,A,90,Approved
+Mortgage,5.42,6000.0,Study,10.0,4,26,56000,Excellent,No,0.11,B,50,Approved
+Mortgage,7.51,14000.0,Home Improvement,15.0,12,37,140000,Excellent,No,0.1,B,147,Approved
+Renter,18.64,15000.0,Study,1.0,3,26,48000,Poor,No,0.31,C,37,Declined
+Renter,,7200.0,Study,8.0,3,24,54996,Very Good,No,0.13,C,44,Approved
+Renter,13.49,16425.0,Personal,1.0,2,24,45000,Good,Yes,0.36,C,30,Declined
+Renter,7.29,3500.0,Study,,3,26,8400,Excellent,No,0.42,C,42,Declined
+Renter,11.71,2436193500.0,Business,6.0,4,23,40000,Very Good,No,0.38,C,49,Declined
+Mortgage,6.03,1086255690.0,Study,0.0,5,35,62000,Excellent,No,0.15,B,69,Approved
+Mortgage,13.57,10000.0,Debt Consolidation,8.0,4,25,122000,Good,Yes,0.08,B,58,Approved
+Mortgage,6.17,24000.0,Personal,9.0,6,27,105000,Excellent,No,0.23,B,74,Approved
+Renter,7.14,6000.0,Health,0.0,4,24,25800,Excellent,No,0.23,C,55,Approved
+Renter,9.51,7200.0,Health,9.0,4,25,32496,Very Good,No,0.22,C,53,Approved
+Renter,16.0,15000.0,Health,3.0,4,23,46000,Fair,No,0.33,C,57,Declined
+Renter,10.36,25000.0,Study,4.0,3,23,150000,Very Good,No,0.17,C,44,Approved
+Owner,9.25,6000.0,Health,5.0,3,22,40000,Very Good,No,0.15,A,46,Approved
+Mortgage,12.69,21650.0,Personal,6.0,4,26,62361,Very Good,No,0.35,B,54,Approved
+Renter,13.11,5000.0,Study,4.0,3,22,27264,Good,Yes,0.18,C,41,Approved
+Mortgage,6.03,14000.0,Home Improvement,5.0,7,31,40000,Excellent,No,0.35,B,87,Approved
+Renter,12.69,3500.0,Study,3.0,2,24,44000,Very Good,No,0.08,C,26,Approved
+Mortgage,6.17,15000.0,Debt Consolidation,9.0,4,25,99000,Excellent,No,0.15,B,51,Approved
+Mortgage,11.71,2500.0,Personal,7.0,28,54,29000,Very Good,No,0.09,B,340,Approved
+Mortgage,12.99,3500.0,Health,5.0,2,23,24091,Good,Yes,0.15,B,31,Approved
+Renter,14.96,5000.0,Health,17.0,9,33,51000,Fair,Yes,0.1,C,112,Declined
+Renter,14.09,6000.0,Debt Consolidation,2.0,4,23,34000,Fair,Yes,0.18,C,55,Declined
+Mortgage,6.99,2100.0,Debt Consolidation,8.0,10,32,45000,Excellent,No,0.05,B,128,Approved
+Renter,13.11,18000.0,Health,2.0,3,25,40000,Good,Yes,0.45,C,47,Declined
+Renter,,4600.0,Personal,6.0,2,21,28416,Excellent,No,0.16,C,30,Approved
+Mortgage,6.62,8200.0,Study,0.0,4,23,65000,Excellent,No,0.13,B,54,Approved
+Renter,15.65,2200.0,Study,5.0,9,32,50004,Fair,Yes,0.04,C,112,Approved
+Renter,7.51,8250.0,Health,5.0,4,23,30000,Excellent,No,0.28,C,54,Approved
+Renter,,8000.0,Study,11.0,7,35,125000,Fair,Yes,0.06,C,90,Approved
+Mortgage,13.85,1650879360.0000002,Home Improvement,5.0,4,25,85000,Good,Yes,0.11,B,49,Approved
+Mortgage,12.12,15000.0,Business,11.0,7,28,56700,Very Good,No,0.26,B,92,Approved
+Renter,9.88,9600.0,Debt Consolidation,19.0,14,40,32000,Very Good,No,0.3,C,179,Approved
+Renter,10.25,24000.0,Health,2.0,2,24,80000,Very Good,No,0.3,C,35,Approved
+Renter,14.22,6000.0,Debt Consolidation,4.0,4,23,52000,Good,No,0.12,C,51,Approved
+Mortgage,,5000.0,Business,11.0,11,42,33600,Good,No,0.15,B,139,Approved
+Mortgage,13.99,2500.0,Business,11.0,8,27,83000,Good,Yes,0.03,B,104,Approved
+Mortgage,6.91,7200.0,Study,0.0,2,24,45600,Excellent,No,0.16,B,28,Approved
+Mortgage,6.62,7500.0,Health,9.0,13,47,47000,Excellent,No,0.16,B,158,Approved
+Renter,13.23,6000.0,Home Improvement,3.0,2,26,63000,Good,No,0.1,C,25,Approved
+Mortgage,7.66,12000.0,Study,4.0,3,23,113000,Excellent,No,0.11,B,39,Approved
+Mortgage,11.49,1200.0,Personal,8.0,2,24,75000,Very Good,No,0.02,B,31,Approved
+Mortgage,13.57,4000.0,Home Improvement,0.0,7,31,81600,Good,No,0.05,B,91,Approved
+Renter,10.71,7000.0,Health,2.0,4,26,30000,Very Good,No,0.23,C,49,Approved
+Renter,9.99,5700.0,Debt Consolidation,0.0,9,32,53000,Very Good,No,0.11,C,115,Approved
+Mortgage,7.43,2000.0,Home Improvement,0.0,7,29,67992,Excellent,No,0.03,B,86,Approved
+Renter,9.91,6950.0,Health,2.0,9,32,43000,Very Good,No,0.16,C,113,Approved
+Mortgage,8.9,15000.0,Study,6.0,4,23,294000,Excellent,No,0.05,B,55,Approved
+Mortgage,6.91,8000.0,Health,2.0,5,34,64000,Excellent,No,0.13,B,71,Approved
+Renter,,8000.0,Business,3.0,9,35,38000,Very Good,No,0.21,C,113,Approved
+Renter,10.65,10000.0,Debt Consolidation,11.0,5,30,40000,Very Good,No,0.25,C,61,Approved
+Renter,18.25,2250.0,Home Improvement,1.0,6,27,15600,Fair,No,0.14,C,74,Declined
+Owner,6.17,5000.0,Home Improvement,6.0,2,25,59000,Excellent,No,0.08,A,35,Approved
+Renter,7.49,20000.0,Health,0.0,2,23,85000,Excellent,No,0.24,C,34,Approved
+Renter,11.12,5700.0,Debt Consolidation,0.0,2,26,52500,Very Good,No,0.11,C,35,Approved
+Renter,5.42,5000.0,Study,2.0,15,47,28500,Excellent,No,0.18,C,183,Approved
+Mortgage,7.4,1000.0,Study,4.0,2,22,69000,Excellent,No,0.01,B,29,Approved
+Renter,15.95,17500.0,Home Improvement,1.0,3,25,32400,Fair,Yes,0.54,C,45,Declined
+Mortgage,10.99,3700.0,Home Improvement,0.0,5,27,186000,Very Good,No,0.02,B,61,Approved
+Renter,16.02,10000.0,Home Improvement,7.0,2,24,67600,Fair,Yes,0.15,C,29,Approved
+Mortgage,16.02,24250.0,Personal,2.0,4,23,120000,Fair,Yes,0.2,B,52,Approved
+Renter,6.76,6500.0,Study,1.0,6,33,56000,Excellent,No,0.12,C,77,Approved
+Mortgage,7.14,6000.0,Debt Consolidation,12.0,5,31,54000,Excellent,No,0.11,B,66,Approved
+Owner,13.61,11000.0,Business,5.0,8,28,100000,Good,Yes,0.11,A,101,Approved
+Mortgage,7.51,6000.0,Health,6.0,4,23,130992,Excellent,No,0.05,B,57,Approved
+Renter,11.71,9600.0,Business,7.0,2,26,53000,Very Good,No,0.18,C,33,Approved
+Renter,15.2,4000.0,Business,6.0,12,44,36000,Fair,No,0.11,C,149,Approved
+Mortgage,12.53,12000.0,Study,0.0,6,31,44000,Good,Yes,0.27,B,81,Declined
+Mortgage,5.79,2700.0,Debt Consolidation,8.0,14,36,47500,Excellent,No,0.06,B,171,Approved
+Renter,8.94,6000.0,Business,5.0,3,21,25200,Excellent,No,0.24,C,39,Approved
+Renter,8.94,7375.0,Business,3.0,15,36,95000,Excellent,No,0.08,C,185,Approved
+Renter,10.37,4800.0,Study,7.0,3,23,50000,Very Good,No,0.1,C,39,Approved
+Owner,7.51,2063599200.0000002,Home Improvement,3.0,5,29,75000,Excellent,No,0.16,A,69,Approved
+Mortgage,9.64,25000.0,Home Improvement,0.0,4,25,78000,Very Good,No,0.32,B,56,Approved
+Renter,13.49,11000.0,Debt Consolidation,3.0,4,23,29472,Good,No,0.37,C,54,Declined
+Renter,7.51,9000.0,Health,4.0,9,32,46000,Excellent,No,0.2,C,115,Approved
+Owner,10.38,5000.0,Business,13.0,10,29,61848,Very Good,No,0.08,A,127,Approved
+Mortgage,10.74,1299303200.0,Business,7.0,2,23,63189,Very Good,No,0.13,B,26,Approved
+Renter,13.49,25000.0,Health,2.0,4,25,250000,Good,No,0.1,C,54,Approved
+Renter,9.99,25000.0,Study,7.0,2,23,120000,Very Good,No,0.21,C,25,Approved
+Renter,7.29,2000.0,Study,4.0,11,47,18000,Excellent,No,0.11,C,139,Approved
+Renter,12.73,10000.0,Personal,5.0,4,22,31200,Good,No,0.32,C,50,Declined
+Renter,7.88,8400.0,Debt Consolidation,0.0,9,32,42000,Excellent,No,0.2,C,119,Approved
+Mortgage,10.95,8000.0,Business,2.0,7,27,75000,Very Good,No,0.11,B,93,Approved
+Renter,11.71,7200.0,Debt Consolidation,0.0,4,21,31700,Very Good,No,0.23,C,51,Declined
+Mortgage,15.27,11500.0,Health,11.0,10,27,44200,Good,Yes,0.26,B,128,Approved
+Renter,10.74,8000.0,Debt Consolidation,9.0,5,32,63000,Very Good,No,0.13,C,70,Declined
+Mortgage,18.25,23000.0,Home Improvement,6.0,2,26,155142,Fair,No,0.15,B,31,Approved
+Renter,10.99,12000.0,Business,2.0,17,48,83000,Very Good,No,0.14,C,213,Approved
+Renter,17.93,3000.0,Study,5.0,2,23,42000,Poor,Yes,0.07,C,29,Approved
+Renter,8.49,7200.0,Business,5.0,2,21,84000,Excellent,No,0.09,C,32,Approved
+Mortgage,7.74,5000.0,Business,3.0,9,28,50000,Excellent,No,0.1,B,111,Approved
+Mortgage,12.98,4800.0,Health,2.0,4,22,55000,Good,No,0.09,B,56,Approved
+Mortgage,10.62,229288800.00000003,Health,3.0,3,25,38000,Very Good,No,0.04,B,44,Approved
+Renter,6.92,1800.0,Debt Consolidation,3.0,3,24,14400,Excellent,No,0.13,C,44,Approved
+Renter,9.63,15000.0,Business,6.0,4,22,48000,Very Good,No,0.31,C,55,Declined
+Mortgage,10.25,12000.0,Health,3.0,6,31,741600,Very Good,No,0.02,B,81,Approved
+Mortgage,7.49,8000.0,Personal,4.0,2,26,61000,Excellent,No,0.13,B,26,Approved
+Owner,12.99,9500.0,Business,3.0,8,33,33600,Good,No,0.28,A,97,Approved
+Mortgage,13.57,3000.0,Debt Consolidation,0.0,9,33,70000,Good,Yes,0.04,B,115,Approved
+Renter,,5000.0,Health,2.0,7,30,42000,Very Good,No,0.12,C,87,Approved
+Renter,9.25,5500.0,Study,3.0,4,23,21600,Very Good,No,0.25,C,53,Approved
+Renter,13.43,4800.0,Health,1.0,5,30,31000,Good,Yes,0.15,C,64,Approved
+Renter,11.49,7000.0,Debt Consolidation,5.0,11,39,37800,Very Good,No,0.19,C,141,Approved
+Renter,6.62,4500.0,Study,0.0,2,21,36000,Excellent,No,0.13,C,30,Approved
+Renter,11.58,8000.0,Debt Consolidation,9.0,8,33,104000,Very Good,No,0.08,C,105,Approved
+Mortgage,,35000.0,Business,11.0,6,27,275000,Very Good,No,0.13,B,75,Approved
+Renter,9.62,3000.0,Personal,4.0,4,23,44000,Very Good,No,0.07,C,58,Declined
+Mortgage,12.69,10000.0,Debt Consolidation,1.0,3,25,110000,Very Good,No,0.09,B,42,Approved
+Mortgage,8.9,7000.0,Debt Consolidation,4.0,10,28,100000,Excellent,No,0.07,B,121,Approved
+Renter,14.96,14000.0,Health,1.0,4,24,55845,Fair,No,0.21,C,54,Declined
+Mortgage,,17000.0,Home Improvement,4.0,10,31,62000,Very Good,No,0.27,B,124,Approved
+Owner,,2500.0,Debt Consolidation,,17,40,8628,Excellent,No,0.29,A,208,Declined
+Unknown,15.68,9600.0,Business,3.0,2,21,34000,Poor,Yes,0.28,D,25,Declined
+Renter,12.68,4250.0,Business,,5,34,10380,Good,Yes,0.41,C,61,Declined
+Mortgage,14.61,14000.0,Health,5.0,5,34,397800,Fair,Yes,0.03,B,71,Declined
+Mortgage,10.25,8000.0,Personal,5.0,4,21,39996,Very Good,No,0.2,B,53,Approved
+Renter,13.11,20000.0,Debt Consolidation,12.0,5,32,39500,Good,No,0.51,C,63,Declined
+Renter,5.99,3500.0,Health,0.0,2,24,30000,Excellent,No,0.12,C,32,Approved
+Mortgage,15.83,25000.0,Home Improvement,0.0,8,34,120000,Very Poor,Yes,0.21,B,99,Approved
+Mortgage,,2500.0,Health,8.0,2,24,49200,Poor,No,0.05,B,34,Declined
+Mortgage,6.99,25000.0,Study,5.0,13,38,112224,Excellent,No,0.22,B,166,Approved
+Renter,11.14,14400.0,Debt Consolidation,3.0,3,23,72000,Very Good,No,0.2,C,44,Approved
+Mortgage,,10000.0,Home Improvement,4.0,3,24,135000,Very Good,No,0.07,B,44,Approved
+Mortgage,13.98,6000.0,Study,13.0,5,29,89849,Good,Yes,0.07,B,68,Approved
+Mortgage,7.9,9600.0,Personal,7.0,7,32,73000,Excellent,No,0.13,B,90,Approved
+Renter,13.24,15000.0,Personal,2.0,7,30,43992,Fair,No,0.34,C,88,Declined
+Mortgage,10.0,4000.0,Business,8.0,2,24,64000,Very Good,No,0.06,B,31,Approved
+Mortgage,,6000.0,Debt Consolidation,7.0,3,23,79992,Very Good,No,0.08,B,44,Approved
+Mortgage,15.33,3000.0,Study,13.0,9,30,42000,Fair,Yes,0.07,B,113,Approved
+Mortgage,14.17,5000.0,Study,,8,35,42000,Good,No,0.12,B,100,Declined
+Renter,,8000.0,Personal,0.0,9,31,50000,Good,No,0.16,C,112,Approved
+Renter,8.94,10000.0,Health,1.0,11,43,36000,Excellent,No,0.28,C,138,Approved
+Renter,7.9,6000.0,Debt Consolidation,8.0,3,24,59400,Excellent,No,0.1,C,37,Approved
+Mortgage,7.51,6400.0,Study,7.0,2,23,72000,Excellent,No,0.09,B,26,Approved
+Renter,11.99,2000.0,Health,2.0,8,27,36000,Very Good,No,0.06,C,98,Approved
+Mortgage,7.88,3050.0,Business,13.0,14,46,30000,Excellent,No,0.1,B,176,Approved
+Renter,8.9,779581920.0,Debt Consolidation,0.0,2,26,35000,Excellent,No,0.14,C,32,Approved
+Renter,9.63,2725.0,Study,2.0,6,29,27000,Very Good,No,0.1,C,78,Approved
+Mortgage,5.42,5775.0,Debt Consolidation,,3,22,29554,Excellent,No,0.2,B,47,Declined
+Renter,7.9,24000.0,Home Improvement,4.0,5,30,65000,Excellent,No,0.37,C,68,Declined
+Renter,10.33,6600.0,Health,6.0,2,22,30004,Very Good,No,0.22,C,35,Approved
+Mortgage,11.99,10800.0,Debt Consolidation,10.0,3,26,80000,Very Good,No,0.14,B,47,Approved
+Renter,15.65,16800.0,Home Improvement,1.0,3,24,74000,Fair,Yes,0.23,C,38,Declined
+Renter,,11200.0,Study,2.0,4,24,86700,Excellent,No,0.13,C,55,Approved
+Mortgage,6.92,6000.0,Personal,3.0,2,23,50000,Excellent,No,0.12,B,25,Approved
+Mortgage,15.99,1500.0,Home Improvement,0.0,8,32,39600,Fair,No,0.04,B,106,Approved
+Mortgage,11.11,30000.0,Business,8.0,6,27,110000,Very Good,No,0.27,B,77,Approved
+Renter,,10550.0,Health,12.0,10,33,35000,Excellent,No,0.3,C,126,Approved
+Renter,7.49,3000.0,Study,1.0,7,28,43200,Excellent,No,0.07,C,92,Approved
+Renter,10.37,5000.0,Business,0.0,16,50,36000,Very Good,No,0.14,C,193,Approved
+Renter,13.48,13000.0,Business,1.0,7,27,40000,Good,No,0.33,C,89,Declined
+Mortgage,11.49,5000.0,Home Improvement,7.0,6,27,74700,Very Good,No,0.07,B,74,Declined
+Renter,11.99,12000.0,Study,6.0,3,22,52000,Very Good,No,0.23,C,46,Approved
+Renter,9.32,3500.0,Study,1.0,17,36,53000,Excellent,No,0.07,C,210,Approved
+Mortgage,9.45,17000.0,Study,1.0,4,22,60000,Very Good,No,0.28,B,59,Approved
+Mortgage,7.88,4000.0,Study,0.0,2,24,148000,Excellent,No,0.03,B,32,Approved
+Renter,6.91,10000.0,Personal,0.0,15,37,44000,Excellent,No,0.23,C,191,Approved
+Renter,6.91,23800.0,Home Improvement,7.0,15,41,60000,Excellent,No,0.4,C,183,Declined
+Mortgage,13.85,5000.0,Business,4.0,5,30,36000,Good,No,0.14,B,67,Approved
+Mortgage,7.68,8500.0,Health,1.0,3,22,28500,Excellent,No,0.3,B,43,Approved
+Mortgage,5.42,10000.0,Business,13.0,15,36,115000,Excellent,No,0.09,B,190,Approved
+Mortgage,19.29,25000.0,Study,11.0,9,28,92000,Very Poor,Yes,0.27,B,114,Approved
+Mortgage,6.03,7200.0,Business,7.0,2,23,56000,Excellent,No,0.13,B,32,Approved
+Renter,11.36,15000.0,Personal,2.0,8,29,48000,Very Good,No,0.31,C,100,Declined
+Mortgage,9.99,5000.0,Personal,2.0,2,22,67200,Very Good,No,0.07,B,25,Approved
+Mortgage,10.99,21000.0,Home Improvement,13.0,8,29,44400,Very Good,No,0.47,B,104,Approved
+Renter,15.23,18000.0,Health,6.0,2,22,46800,Good,Yes,0.38,C,27,Declined
+Mortgage,,10000.0,Health,20.0,14,36,150000,Excellent,No,0.07,B,176,Approved
+Renter,13.43,3600.0,Home Improvement,3.0,2,22,44000,Good,Yes,0.08,C,27,Declined
+Renter,,7750.0,Study,2.0,4,22,23000,Good,Yes,0.34,C,49,Declined
+Owner,10.74,10500.0,Health,13.0,8,30,74000,Very Good,No,0.14,A,105,Approved
+Mortgage,,7000.0,Study,2.0,9,29,103089,Excellent,No,0.07,B,112,Approved
+Mortgage,11.12,17000.0,Business,7.0,2,23,75000,Very Good,No,0.23,B,32,Approved
+Mortgage,13.06,7000.0,Health,7.0,4,23,62400,Good,No,0.11,B,57,Approved
+Mortgage,6.03,10000.0,Study,9.0,2,25,79992,Excellent,No,0.13,B,32,Approved
+Owner,,7400.0,Business,0.0,2,26,25000,Good,No,0.3,A,33,Approved
+Mortgage,10.38,5000.0,Business,6.0,4,23,30000,Very Good,No,0.17,B,58,Approved
+Renter,14.79,7550.0,Business,3.0,4,24,20400,Good,No,0.37,C,52,Declined
+Mortgage,10.62,3000.0,Health,2.0,17,40,53000,Very Good,No,0.06,B,207,Approved
+Mortgage,11.14,11000.0,Personal,7.0,2,25,88000,Very Good,No,0.13,B,32,Approved
+Renter,11.83,5000.0,Business,2.0,10,32,36000,Very Good,No,0.14,C,127,Approved
+Mortgage,6.99,7000.0,Study,16.0,6,32,30000,Excellent,No,0.23,B,82,Approved
+Mortgage,,10000.0,Health,2.0,7,29,175000,Excellent,No,0.06,B,87,Approved
+Renter,,5000.0,Debt Consolidation,5.0,3,21,45996,Fair,Yes,0.11,C,39,Declined
+Owner,12.69,4500.0,Home Improvement,6.0,3,24,78000,Very Good,No,0.06,A,39,Approved
+Renter,14.59,6000.0,Debt Consolidation,0.0,12,38,25200,Fair,No,0.24,C,149,Declined
+Renter,7.29,5600.0,Health,2.0,2,24,52000,Excellent,No,0.11,C,25,Approved
+Mortgage,7.74,9200.0,Home Improvement,12.0,7,34,61476,Excellent,No,0.15,B,90,Approved
+Owner,8.49,6000.0,Health,5.0,3,21,19000,Excellent,No,0.32,A,37,Declined
+Renter,15.31,5000.0,Personal,2.0,7,30,49000,Fair,No,0.1,C,95,Declined
+Renter,11.49,25000.0,Business,7.0,4,23,130000,Very Good,No,0.19,C,59,Approved
+Mortgage,8.59,5000.0,Health,7.0,4,23,58650,Excellent,No,0.07,B,52,Declined
+Renter,7.14,3000.0,Study,12.0,9,28,19992,Excellent,No,0.15,C,115,Declined
+Renter,17.99,14400.0,Personal,1.0,3,23,68000,Poor,Yes,0.21,C,46,Declined
+Renter,12.87,1500.0,Business,11.0,14,41,35400,Good,Yes,0.04,C,170,Approved
+Renter,7.29,15000.0,Study,6.0,11,40,75000,Excellent,No,0.2,C,142,Approved
+Renter,10.62,25000.0,Health,7.0,2,25,134000,Very Good,No,0.19,C,35,Approved
+Renter,6.99,401255400.00000006,Business,0.0,4,24,40800,Excellent,No,0.07,C,51,Approved
+Mortgage,8.0,4000.0,Debt Consolidation,6.0,3,23,58500,Excellent,No,0.07,B,40,Approved
+Renter,7.51,7000.0,Debt Consolidation,3.0,6,29,64000,Excellent,No,0.11,C,74,Approved
+Mortgage,6.62,6000.0,Business,5.0,2,23,66000,Excellent,No,0.09,B,31,Approved
+Mortgage,7.9,6000.0,Business,16.0,8,32,170000,Excellent,No,0.04,B,107,Approved
+Renter,13.35,4000.0,Debt Consolidation,5.0,2,21,55000,Good,Yes,0.07,C,26,Approved
+Mortgage,8.32,1500.0,Debt Consolidation,25.0,14,41,52000,Excellent,No,0.03,B,173,Approved
+Renter,13.48,6250.0,Personal,5.0,3,21,23000,Good,Yes,0.27,C,42,Approved
+Mortgage,11.49,6725.0,Home Improvement,7.0,2,23,36000,Very Good,No,0.19,B,30,Declined
+Renter,7.88,5000.0,Business,5.0,6,28,75000,Excellent,No,0.07,C,74,Approved
+Renter,13.8,10000.0,Business,3.0,3,25,42000,Good,No,0.24,C,38,Declined
+Renter,12.99,17000.0,Home Improvement,1.0,2,26,29400,Good,Yes,0.58,C,35,Declined
+Renter,10.59,9250.0,Personal,1.0,10,35,34000,Very Good,No,0.27,C,126,Declined
+Renter,6.62,8000.0,Home Improvement,4.0,10,27,68500,Excellent,No,0.12,C,122,Approved
+Renter,7.49,7125.0,Personal,0.0,10,32,52000,Excellent,No,0.14,C,129,Approved
+Renter,13.49,9600.0,Health,0.0,16,41,28800,Good,No,0.33,C,198,Declined
+Mortgage,5.42,7200.0,Health,,4,25,32004,Excellent,No,0.22,B,51,Approved
+Mortgage,7.88,8000.0,Study,3.0,4,22,84000,Excellent,No,0.1,B,59,Approved
+Renter,11.48,17000.0,Personal,6.0,2,22,96000,Very Good,No,0.18,C,31,Approved
+Renter,10.99,24000.0,Personal,8.0,2,25,135000,Very Good,No,0.18,C,26,Approved
+Renter,9.91,13500.0,Study,5.0,3,21,38000,Very Good,No,0.36,C,39,Declined
+Renter,11.48,6000.0,Health,0.0,2,23,75000,Very Good,No,0.08,C,28,Approved
+Renter,,7000.0,Business,11.0,9,27,58000,Excellent,No,0.12,C,118,Approved
+Mortgage,16.95,5000.0,Health,5.0,6,29,83300,Poor,Yes,0.05,B,79,Declined
+Mortgage,5.42,10000.0,Personal,12.0,12,47,33600,Excellent,No,0.3,B,149,Approved
+Renter,11.58,7000.0,Health,4.0,3,23,40000,Very Good,No,0.17,C,47,Approved
+Mortgage,9.63,15000.0,Debt Consolidation,0.0,8,29,30000,Excellent,No,0.5,B,97,Approved
+Mortgage,5.42,6000.0,Personal,6.0,3,22,59600,Excellent,No,0.1,B,43,Approved
+Owner,7.88,4000.0,Business,3.0,3,21,28000,Excellent,No,0.14,A,42,Approved
+Owner,,20000.0,Personal,26.0,15,42,153936,Excellent,No,0.13,A,191,Approved
+Mortgage,9.99,7125.0,Home Improvement,2.0,6,32,54000,Very Good,No,0.13,B,79,Declined
+Mortgage,14.84,20000.0,Health,21.0,12,37,91800,Fair,Yes,0.19,B,152,Declined
+Renter,11.71,477685000.00000006,Personal,6.0,5,30,70000,Very Good,No,0.07,C,71,Approved
+Renter,,9200.0,Debt Consolidation,4.0,16,49,50000,Very Good,No,0.18,C,195,Approved
+Mortgage,14.74,14075.0,Study,5.0,4,22,70404,Fair,Yes,0.2,B,51,Approved
+Renter,14.59,12250.0,Health,9.0,10,28,42000,Fair,No,0.29,C,122,Declined
+Mortgage,12.69,5000.0,Personal,6.0,3,22,72000,Very Good,No,0.07,B,43,Approved
+Mortgage,10.99,2500.0,Health,11.0,10,27,22800,Very Good,No,0.11,B,126,Approved
+Renter,,21000.0,Study,3.0,3,26,97000,Good,Yes,0.22,C,40,Approved
+Owner,7.9,3000.0,Personal,3.0,4,22,18000,Excellent,No,0.17,A,57,Declined
+Renter,11.49,1500.0,Business,4.0,2,23,24000,Very Good,No,0.06,C,27,Approved
+Renter,13.72,15000.0,Health,13.0,5,29,80000,Good,Yes,0.19,C,65,Approved
+Renter,15.21,1600.0,Health,,6,34,51600,Fair,Yes,0.03,C,78,Declined
+Owner,7.14,6000.0,Home Improvement,4.0,15,36,27000,Excellent,No,0.22,A,190,Approved
+Mortgage,14.35,8000.0,Business,10.0,2,26,110000,Good,Yes,0.07,B,32,Approved
+Owner,12.84,8000.0,Business,2.0,3,22,69996,Good,No,0.11,A,37,Approved
+Renter,8.9,7200.0,Health,9.0,3,25,35000,Excellent,No,0.21,C,47,Approved
+Owner,9.88,4000.0,Study,0.0,3,25,96000,Very Good,No,0.04,A,37,Approved
+Mortgage,9.76,5000.0,Debt Consolidation,11.0,5,27,38000,Very Good,No,0.13,B,66,Approved
+Renter,10.33,5000.0,Study,0.0,3,22,30000,Very Good,No,0.17,C,45,Approved
+Mortgage,9.63,15000.0,Personal,9.0,2,25,77004,Very Good,No,0.19,B,25,Approved
+Mortgage,15.28,24000.0,Study,3.0,4,26,125000,Fair,Yes,0.19,B,57,Approved
+Mortgage,8.9,4800.0,Health,6.0,7,32,24600,Excellent,No,0.2,B,89,Declined
+Mortgage,,20000.0,Business,1.0,4,26,105000,Very Good,No,0.19,B,56,Approved
+Owner,11.97,9000.0,Home Improvement,12.0,7,33,80000,Good,No,0.11,A,89,Approved
+Renter,7.9,3625.0,Study,2.0,6,27,54000,Excellent,No,0.07,C,82,Approved
+Renter,10.91,12375.0,Personal,2.0,4,25,80000,Good,No,0.15,C,55,Approved
+Owner,10.51,4200.0,Study,7.0,4,23,57000,Very Good,No,0.07,A,53,Approved
+Renter,8.63,7000.0,Study,4.0,4,22,42000,Excellent,No,0.17,C,49,Approved
+Mortgage,7.88,8000.0,Business,8.0,4,24,72000,Excellent,No,0.11,B,50,Approved
+Renter,8.0,2000.0,Personal,0.0,4,24,44000,Excellent,No,0.05,C,54,Declined
+Renter,10.25,10750.0,Debt Consolidation,3.0,10,27,24960,Very Good,No,0.43,C,128,Declined
+Renter,,12000.0,Personal,0.0,5,27,65000,Very Good,No,0.18,C,63,Approved
+Renter,15.23,1000.0,Study,0.0,14,40,39960,Good,Yes,0.03,C,176,Approved
+Renter,17.58,6000.0,Personal,2.0,12,39,42000,Very Poor,No,0.14,C,150,Declined
+Renter,14.84,4000.0,Health,2.0,2,21,24000,Fair,Yes,0.17,C,26,Declined
+Mortgage,5.42,9000.0,Personal,12.0,10,28,266000,Excellent,No,0.03,B,121,Approved
+Renter,12.69,5000.0,Business,13.0,10,33,23400,Very Good,No,0.21,C,121,Approved
+Mortgage,13.72,2400.0,Debt Consolidation,4.0,9,29,95000,Good,No,0.03,B,119,Approved
+Renter,10.95,2800.0,Business,0.0,10,27,24000,Very Good,No,0.12,C,124,Approved
+Renter,11.03,7500.0,Personal,16.0,16,41,58000,Good,Yes,0.13,C,193,Approved
+Renter,13.57,10000.0,Health,14.0,6,34,60000,Good,No,0.17,C,79,Approved
+Mortgage,7.14,3600.0,Home Improvement,5.0,2,24,51000,Excellent,No,0.07,B,34,Approved
+Renter,11.48,6000.0,Business,0.0,2,23,75000,Very Good,No,0.08,C,27,Approved
+Mortgage,10.74,2000.0,Business,6.0,2,22,70000,Very Good,No,0.03,B,30,Approved
+Owner,15.7,8000.0,Personal,4.0,10,30,30000,Fair,Yes,0.27,A,130,Approved
+Mortgage,9.88,7500.0,Study,6.0,3,22,51500,Very Good,No,0.15,B,42,Approved
+Renter,13.36,10000.0,Health,2.0,3,22,54000,Fair,Yes,0.19,C,37,Declined
+Renter,11.11,5500.0,Health,6.0,10,28,46000,Very Good,No,0.12,C,131,Declined
+Renter,,8000.0,Health,3.0,3,23,58600,Good,Yes,0.14,C,38,Approved
+Mortgage,13.49,2109456960.0000002,Business,10.0,2,26,48000,Good,Yes,0.29,B,30,Approved
+Mortgage,10.65,35000.0,Debt Consolidation,2.0,4,25,168000,Very Good,No,0.21,B,55,Approved
+Renter,,6000.0,Study,9.0,4,25,61000,Excellent,No,0.1,C,51,Approved
+Renter,10.99,10000.0,Business,2.0,4,25,39996,Very Good,No,0.25,C,56,Approved
+Renter,,24000.0,Health,7.0,10,28,85000,Very Good,No,0.28,C,128,Approved
+Owner,12.69,16000.0,Health,2.0,2,24,67000,Very Good,No,0.24,A,30,Approved
+Mortgage,10.59,4400.0,Study,1.0,3,23,55000,Very Good,No,0.08,B,39,Approved
+Mortgage,8.0,7400.0,Home Improvement,6.0,15,47,37000,Excellent,No,0.2,B,183,Approved
+Renter,13.23,3500.0,Personal,4.0,2,23,40000,Good,Yes,0.09,C,28,Approved
+Owner,17.51,5000.0,Home Improvement,1.0,10,28,110000,Poor,No,0.05,A,121,Approved
+Mortgage,10.38,15000.0,Study,1.0,4,26,72996,Very Good,No,0.21,B,54,Approved
+Mortgage,,1719666000.0000002,Debt Consolidation,4.0,6,29,96000,Good,No,0.16,B,73,Approved
+Mortgage,7.88,15000.0,Study,7.0,4,23,100000,Excellent,No,0.15,B,53,Approved
+Mortgage,6.99,16000.0,Personal,5.0,4,24,120000,Excellent,No,0.13,B,56,Approved
+Renter,15.23,1200.0,Health,,2,21,8088,Good,Yes,0.15,C,26,Approved
+Owner,5.42,5000.0,Health,0.0,10,29,40000,Excellent,No,0.13,A,122,Approved
+Mortgage,10.99,5650.0,Health,3.0,3,23,56100,Very Good,No,0.09,B,37,Declined
+Renter,9.91,2400.0,Health,,2,22,8280,Very Good,No,0.29,C,26,Declined
+Renter,11.36,9000.0,Debt Consolidation,5.0,2,25,84000,Very Good,No,0.11,C,33,Approved
+Renter,7.66,8875.0,Health,3.0,7,34,33000,Excellent,No,0.27,C,91,Approved
+Renter,7.88,17000.0,Personal,12.0,6,35,84996,Excellent,No,0.2,C,77,Approved
+Renter,,1500.0,Personal,4.0,2,26,96000,Fair,Yes,0.02,C,25,Approved
+Renter,,20000.0,Home Improvement,1.0,6,27,75000,Very Good,No,0.27,C,74,Approved
+Mortgage,7.14,10000.0,Business,9.0,6,31,135000,Excellent,No,0.07,B,77,Approved
+Mortgage,9.99,6000.0,Business,6.0,3,22,110000,Very Good,No,0.05,B,43,Approved
+Renter,16.0,20000.0,Home Improvement,11.0,8,27,98000,Fair,No,0.2,C,101,Declined
+Mortgage,6.03,4800.0,Study,6.0,3,22,50000,Excellent,No,0.1,B,43,Approved
+Mortgage,7.49,28000.0,Home Improvement,5.0,6,31,400000,Excellent,No,0.07,B,77,Approved
+Mortgage,10.99,4750.0,Personal,6.0,3,24,123000,Very Good,No,0.04,B,41,Approved
+Renter,15.65,4000.0,Personal,2.0,3,25,13000,Fair,Yes,0.31,C,37,Declined
+Owner,13.43,825439680.0000001,Personal,8.0,3,24,95000,Good,No,0.05,A,37,Approved
+Mortgage,7.49,7200.0,Study,5.0,7,31,157000,Excellent,No,0.05,B,88,Approved
+Mortgage,11.59,7500.0,Health,0.0,9,27,32000,Good,Yes,0.23,B,118,Declined
+Mortgage,11.14,8000.0,Study,8.0,10,28,125000,Very Good,No,0.06,B,124,Approved
+Renter,11.97,3500.0,Debt Consolidation,2.0,9,29,40800,Good,Yes,0.09,C,113,Approved
+Renter,11.12,1600.0,Debt Consolidation,2.0,2,22,26880,Very Good,No,0.06,C,26,Approved
+Renter,6.54,15000.0,Debt Consolidation,4.0,5,30,44000,Excellent,No,0.34,C,63,Declined
+Renter,13.85,17000.0,Home Improvement,3.0,8,28,80000,Good,Yes,0.21,C,97,Approved
+Mortgage,10.99,10000.0,Personal,6.0,3,22,28000,Very Good,No,0.36,B,40,Approved
+Mortgage,,10000.0,Debt Consolidation,5.0,2,23,108000,Fair,Yes,0.09,B,35,Declined
+Mortgage,11.49,8000.0,Home Improvement,2.0,4,26,78420,Very Good,No,0.1,B,50,Approved
+Mortgage,,3000.0,Debt Consolidation,9.0,4,25,76209,Good,Yes,0.04,B,51,Approved
+Renter,13.11,5000.0,Business,2.0,3,23,28800,Good,No,0.17,C,47,Approved
+Mortgage,14.35,24000.0,Debt Consolidation,8.0,3,24,80000,Good,Yes,0.3,B,45,Approved
+Renter,5.79,1475.0,Study,0.0,3,22,101000,Excellent,No,0.01,C,38,Approved
+Mortgage,12.04,3800.0,Home Improvement,3.0,4,26,63000,Good,Yes,0.06,B,55,Approved
+Mortgage,10.38,6000.0,Personal,18.0,11,42,120000,Very Good,No,0.05,B,137,Approved
+Renter,6.17,5000.0,Study,4.0,8,34,80000,Excellent,No,0.06,C,98,Approved
+Mortgage,6.91,9000.0,Study,6.0,3,26,60000,Excellent,No,0.15,B,41,Approved
+Renter,7.51,3000.0,Business,2.0,10,31,67000,Excellent,No,0.04,C,126,Approved
+Renter,11.71,4400.0,Personal,5.0,8,33,37440,Very Good,No,0.12,C,104,Approved
+Mortgage,,2000.0,Personal,0.0,2,23,55000,Excellent,No,0.04,B,31,Approved
+Renter,16.7,3000.0,Personal,2.0,7,29,39000,Poor,Yes,0.08,C,89,Declined
+Mortgage,9.63,10000.0,Debt Consolidation,7.0,3,23,37700,Excellent,No,0.27,B,45,Declined
+Mortgage,7.51,4000.0,Health,6.0,2,24,51500,Excellent,No,0.08,B,34,Approved
+Mortgage,5.99,6500.0,Business,3.0,4,22,68000,Excellent,No,0.1,B,59,Approved
+Renter,13.23,4800.0,Business,2.0,8,30,54000,Good,No,0.09,C,98,Approved
+Renter,20.25,35000.0,Home Improvement,7.0,2,23,108366,Very Poor,No,0.32,C,33,Declined
+Renter,14.27,10000.0,Home Improvement,3.0,4,24,50000,Good,Yes,0.2,C,54,Approved
+Mortgage,7.51,10000.0,Debt Consolidation,3.0,13,39,73000,Excellent,No,0.14,B,167,Approved
+Renter,12.68,8000.0,Study,2.0,4,22,62000,Good,Yes,0.13,C,55,Approved
+Renter,10.37,4000.0,Debt Consolidation,4.0,6,29,19200,Very Good,No,0.21,C,78,Declined
+Renter,,6400.0,Business,3.0,3,23,30000,Good,Yes,0.21,C,41,Approved
+Mortgage,14.72,477685000.00000006,Health,13.0,5,29,44991,Good,Yes,0.11,B,61,Approved
+Mortgage,11.49,5300.0,Debt Consolidation,4.0,9,33,71000,Very Good,No,0.07,B,117,Approved
+Renter,6.99,15000.0,Study,5.0,2,26,100000,Excellent,No,0.15,C,25,Approved
+Mortgage,14.54,4800.0,Personal,3.0,4,21,117000,Fair,No,0.04,B,57,Approved
+Renter,13.79,19200.0,Debt Consolidation,1.0,3,22,126500,Good,Yes,0.15,C,37,Approved
+Renter,13.47,5000.0,Study,3.0,2,23,65000,Good,Yes,0.08,C,34,Approved
+Mortgage,7.29,12400.0,Study,7.0,3,23,78000,Excellent,No,0.16,B,38,Approved
+Mortgage,,5000.0,Home Improvement,12.0,7,30,110000,Very Good,No,0.05,B,92,Approved
+Mortgage,10.65,4500.0,Study,9.0,2,25,64800,Very Good,No,0.07,B,26,Approved
+Renter,10.37,15000.0,Personal,4.0,3,22,44172,Very Good,No,0.34,C,46,Declined
+Renter,11.99,1000.0,Health,9.0,2,25,29000,Very Good,No,0.03,C,25,Declined
+Mortgage,13.24,6600.0,Personal,20.0,11,36,32400,Fair,Yes,0.2,B,139,Approved
+Mortgage,10.59,8000.0,Study,12.0,6,28,44000,Very Good,No,0.18,B,78,Approved
+Mortgage,14.27,5000.0,Home Improvement,4.0,16,40,85000,Good,No,0.06,B,201,Approved
+Renter,8.94,3000.0,Debt Consolidation,3.0,3,25,32000,Excellent,No,0.09,C,42,Approved
+Owner,12.69,9250.0,Health,10.0,4,26,75000,Very Good,No,0.12,A,49,Approved
+Renter,12.61,8000.0,Home Improvement,0.0,4,26,84000,Good,No,0.1,C,55,Declined
+Renter,11.71,10000.0,Personal,1.0,2,24,50000,Very Good,No,0.2,C,28,Approved
+Renter,8.59,9500.0,Debt Consolidation,2.0,8,34,36000,Excellent,No,0.26,C,102,Approved
+Renter,7.14,10000.0,Study,2.0,4,22,40000,Excellent,No,0.25,C,50,Approved
+Renter,16.77,25000.0,Home Improvement,1.0,4,24,92000,Poor,Yes,0.27,C,51,Declined
+Mortgage,6.91,18000.0,Health,8.0,11,36,45600,Excellent,No,0.39,B,136,Approved
+Renter,9.88,8000.0,Health,5.0,2,21,28800,Very Good,No,0.28,C,27,Approved
+Mortgage,6.62,9000.0,Study,3.0,3,25,45000,Excellent,No,0.2,B,44,Approved
+Mortgage,6.17,11700.0,Debt Consolidation,,3,23,77705,Excellent,No,0.15,B,46,Approved
+Renter,9.45,10000.0,Debt Consolidation,2.0,3,26,70000,Very Good,No,0.14,C,40,Approved
+Renter,14.54,30000.0,Debt Consolidation,8.0,3,24,64000,Fair,Yes,0.47,C,40,Declined
+Renter,,1000.0,Health,15.0,7,31,54000,Good,Yes,0.02,C,90,Approved
+Renter,12.73,5500.0,Study,0.0,4,23,40440,Good,No,0.14,C,53,Approved
+Mortgage,9.91,3000.0,Study,5.0,2,25,18840,Very Good,No,0.16,B,26,Declined
+Renter,13.06,3000.0,Business,5.0,2,22,19000,Good,No,0.16,C,34,Declined
+Renter,10.37,4000.0,Personal,2.0,4,22,12600,Very Good,No,0.32,C,58,Declined
+Owner,11.36,7000.0,Business,13.0,9,33,26400,Very Good,No,0.27,A,118,Approved
+Renter,13.48,15000.0,Business,1.0,4,25,51000,Good,Yes,0.29,C,58,Approved
+Mortgage,10.37,1500.0,Study,7.0,2,22,80000,Very Good,No,0.02,B,29,Approved
+Mortgage,9.99,15000.0,Personal,4.0,2,25,199000,Very Good,No,0.08,B,32,Approved
+Mortgage,5.42,3000.0,Personal,15.0,10,31,94000,Excellent,No,0.03,B,129,Approved
+Mortgage,13.99,7500.0,Study,2.0,4,24,85000,Good,Yes,0.09,B,49,Approved
+Renter,7.51,9000.0,Health,2.0,4,21,20000,Excellent,No,0.45,C,59,Declined
+Renter,10.59,4000.0,Personal,3.0,3,23,62000,Good,Yes,0.06,C,37,Approved
+Mortgage,11.36,12000.0,Business,3.0,3,23,48000,Very Good,No,0.25,B,43,Approved
+Mortgage,14.26,20000.0,Business,10.0,2,25,158000,Good,Yes,0.13,B,26,Approved
+Mortgage,8.49,1800.0,Business,4.0,2,22,25000,Excellent,No,0.07,B,29,Approved
+Mortgage,6.54,22000.0,Personal,14.0,5,35,132000,Excellent,No,0.17,B,63,Approved
+Renter,12.21,1600.0,Health,1.0,16,36,53550,Very Good,No,0.03,C,203,Declined
+Mortgage,7.51,8500.0,Study,1.0,2,24,65000,Excellent,No,0.13,B,28,Approved
+Renter,7.49,6000.0,Health,3.0,10,27,35000,Excellent,No,0.17,C,129,Approved
+Renter,6.54,3250.0,Study,0.0,3,22,35000,Excellent,No,0.09,C,45,Approved
+Renter,12.73,10000.0,Debt Consolidation,0.0,2,24,27000,Good,No,0.37,C,34,Declined
+Renter,13.8,6000.0,Debt Consolidation,1.0,4,25,31200,Good,No,0.19,C,50,Declined
+Renter,7.9,2000.0,Debt Consolidation,4.0,6,27,39600,Excellent,No,0.05,C,80,Approved
+Renter,11.58,25000.0,Home Improvement,3.0,4,26,66000,Very Good,No,0.38,C,49,Declined
+Mortgage,7.9,13200.0,Study,6.0,3,21,62500,Excellent,No,0.21,B,42,Approved
+Renter,12.42,17500.0,Business,1.0,9,27,48500,Very Good,No,0.36,C,112,Declined
+Renter,14.27,2550.0,Business,0.0,5,27,25200,Good,No,0.1,C,70,Approved
+Owner,7.49,4200.0,Personal,1.0,6,27,21600,Excellent,No,0.19,A,83,Approved
+Renter,6.92,5500.0,Health,3.0,6,35,45000,Excellent,No,0.12,C,83,Approved
+Mortgage,7.4,6000.0,Health,2.0,6,31,110000,Excellent,No,0.05,B,73,Approved
+Mortgage,10.62,6250.0,Debt Consolidation,6.0,17,36,41000,Very Good,No,0.15,B,209,Approved
+Owner,11.11,6000.0,Personal,1.0,4,24,47000,Very Good,No,0.13,A,56,Approved
+Mortgage,8.59,3000.0,Personal,5.0,13,46,50004,Excellent,No,0.06,B,157,Approved
+Mortgage,13.92,5500.0,Debt Consolidation,13.0,13,44,80160,Good,Yes,0.07,B,160,Approved
+Renter,8.0,3000.0,Study,0.0,3,24,23000,Excellent,No,0.13,C,44,Approved
+Renter,16.29,1600.0,Personal,1.0,3,23,26000,Fair,Yes,0.06,C,38,Declined
+Mortgage,8.49,15000.0,Personal,15.0,7,31,152000,Excellent,No,0.1,B,86,Approved
+Renter,12.41,6000.0,Personal,2.0,4,23,42000,Good,No,0.14,C,58,Declined
+Mortgage,13.61,10000.0,Health,3.0,9,31,65000,Good,No,0.15,B,115,Approved
+Mortgage,14.27,10000.0,Personal,14.0,8,29,71400,Good,No,0.14,B,102,Declined
+Mortgage,11.83,16000.0,Personal,7.0,2,23,50004,Very Good,No,0.32,B,32,Approved
+Renter,9.45,5750.0,Home Improvement,1.0,10,31,95800,Very Good,No,0.06,C,123,Approved
+Mortgage,6.91,8000.0,Health,7.0,2,23,150000,Excellent,No,0.05,B,33,Approved
+Mortgage,14.26,15850.0,Personal,8.0,17,49,50000,Good,No,0.32,B,209,Approved
+Mortgage,13.92,7500.0,Study,6.0,3,22,35000,Good,No,0.21,B,45,Approved
+Mortgage,5.99,12500.0,Home Improvement,5.0,2,26,75000,Excellent,No,0.17,B,32,Approved
+Mortgage,10.25,6000.0,Debt Consolidation,2.0,6,33,24000,Very Good,No,0.25,B,73,Approved
+Renter,15.31,7500.0,Home Improvement,1.0,5,28,31000,Fair,Yes,0.24,C,68,Declined
+Mortgage,,6000.0,Business,9.0,14,36,80000,Good,Yes,0.07,B,173,Approved
+Owner,7.51,5500.0,Personal,2.0,2,26,34656,Excellent,No,0.16,A,33,Approved
+Renter,12.98,12000.0,Personal,2.0,2,23,75000,Good,Yes,0.16,C,31,Approved
+Renter,11.89,16000.0,Debt Consolidation,2.0,4,24,69000,Very Good,No,0.23,C,53,Declined
+Mortgage,12.99,5700.0,Debt Consolidation,2.0,4,21,41033,Good,No,0.14,B,53,Approved
+Mortgage,6.99,25000.0,Business,9.0,4,25,69000,Excellent,No,0.36,B,52,Approved
+Owner,9.99,5000.0,Health,,4,22,62236,Very Good,No,0.08,A,56,Approved
+Renter,8.0,10000.0,Health,4.0,9,27,31200,Excellent,No,0.32,C,114,Declined
+Mortgage,,15000.0,Health,3.0,7,29,64548,Very Good,No,0.23,B,88,Approved
+Mortgage,14.65,14000.0,Study,8.0,4,24,72000,Good,No,0.19,B,54,Declined
+Renter,7.9,6000.0,Debt Consolidation,6.0,3,23,49000,Excellent,No,0.12,C,39,Approved
+Mortgage,10.59,21000.0,Business,14.0,11,38,90000,Very Good,No,0.23,B,138,Approved
+Renter,7.75,10800.0,Debt Consolidation,3.0,8,32,24000,Excellent,No,0.45,C,101,Declined
+Renter,11.99,17400.0,Personal,7.0,4,24,82000,Very Good,No,0.21,C,57,Approved
+Mortgage,10.99,4950.0,Personal,7.0,3,23,75000,Very Good,No,0.07,B,45,Approved
+Renter,16.96,4250.0,Business,5.0,6,28,35000,Very Poor,No,0.12,C,81,Approved
+Renter,6.62,15000.0,Health,,3,21,31200,Excellent,No,0.48,C,38,Declined
+Renter,6.03,3000.0,Home Improvement,5.0,3,25,50000,Excellent,No,0.06,C,42,Approved
+Renter,14.83,14000.0,Debt Consolidation,10.0,2,26,44000,Fair,No,0.32,C,33,Declined
+Renter,15.95,25000.0,Business,4.0,10,32,69996,Fair,Yes,0.36,C,131,Declined
+Renter,,626961562.5,Business,6.0,7,35,130000,Very Good,No,0.03,C,94,Approved
+Renter,13.49,4000.0,Health,5.0,4,21,37200,Good,Yes,0.11,C,58,Approved
+Mortgage,7.9,18000.0,Study,9.0,4,25,96720,Excellent,No,0.19,B,56,Approved
+Renter,7.29,13200.0,Home Improvement,3.0,3,24,72000,Excellent,No,0.18,C,42,Approved
+Mortgage,14.22,20000.0,Health,9.0,4,26,99000,Good,No,0.2,B,51,Approved
+Renter,7.66,10000.0,Debt Consolidation,0.0,3,22,85000,Excellent,No,0.12,C,41,Approved
+Renter,14.22,4800.0,Business,9.0,4,25,120000,Good,No,0.04,C,52,Approved
+Mortgage,12.73,4000.0,Health,7.0,2,22,25200,Good,No,0.16,B,35,Declined
+Mortgage,8.9,2200.0,Home Improvement,4.0,4,24,44000,Excellent,No,0.05,B,51,Declined
+Renter,9.32,1500.0,Debt Consolidation,1.0,16,40,49788,Excellent,No,0.03,C,193,Approved
+Mortgage,13.49,16000.0,Study,7.0,2,23,122000,Good,No,0.13,B,34,Approved
+Renter,,6000.0,Study,1.0,2,23,35004,Very Good,No,0.17,C,26,Approved
+Owner,7.4,4000.0,Debt Consolidation,3.0,3,25,19000,Excellent,No,0.21,A,37,Declined
+Renter,,4000.0,Study,2.0,2,22,40000,Excellent,No,0.1,C,34,Approved
+Renter,9.91,9600.0,Health,1.0,7,31,80000,Very Good,No,0.12,C,86,Approved
+Mortgage,8.49,3000.0,Business,6.0,5,31,75000,Excellent,No,0.04,B,69,Approved
+Mortgage,12.87,5250.0,Study,2.0,2,24,56000,Good,No,0.09,B,28,Approved
+Mortgage,,10000.0,Health,0.0,4,23,64500,Excellent,No,0.16,B,52,Approved
+Mortgage,14.07,24625.0,Health,8.0,7,32,91800,Poor,Yes,0.23,B,94,Declined
+Owner,11.46,2400.0,Personal,4.0,3,22,48000,Very Good,No,0.05,A,39,Approved
+Owner,10.75,6000.0,Business,7.0,2,22,51996,Very Good,No,0.12,A,28,Approved
+Renter,,13000.0,Health,4.0,17,42,38400,Very Good,No,0.34,C,214,Declined
+Renter,7.51,10000.0,Health,0.0,7,31,46000,Excellent,No,0.22,C,86,Approved
+Renter,7.14,14000.0,Health,0.0,2,22,54000,Excellent,No,0.26,C,30,Approved
+Renter,,6000.0,Personal,0.0,12,40,44000,Excellent,No,0.14,C,146,Declined
+Mortgage,11.49,12000.0,Health,5.0,3,22,93218,Very Good,No,0.13,B,39,Approved
+Mortgage,17.58,7200.0,Business,8.0,4,24,65000,Fair,Yes,0.11,B,50,Approved
+Mortgage,10.75,15000.0,Personal,14.0,6,31,135000,Very Good,No,0.11,B,82,Approved
+Renter,10.59,20000.0,Health,13.0,8,28,58650,Very Good,No,0.29,C,106,Declined
+Renter,12.23,4000.0,Personal,6.0,2,23,20000,Good,Yes,0.2,C,35,Approved
+Renter,,7200.0,Business,8.0,10,27,84000,Good,No,0.09,C,130,Approved
+Mortgage,,12000.0,Health,6.0,14,36,100671,Very Good,No,0.12,B,170,Approved
+Mortgage,11.89,14250.0,Study,3.0,14,37,87950,Very Good,No,0.16,B,169,Approved
+Mortgage,7.49,13675.0,Study,1.0,4,23,90000,Excellent,No,0.15,B,55,Approved
+Renter,15.65,24250.0,Business,4.0,10,30,105000,Fair,No,0.23,C,122,Approved
+Renter,11.28,7500.0,Study,7.0,4,23,115275,Good,Yes,0.07,C,50,Approved
+Renter,11.49,9100.0,Debt Consolidation,1.0,4,22,57500,Very Good,No,0.16,C,49,Approved
+Mortgage,7.9,5000.0,Debt Consolidation,13.0,5,35,74000,Excellent,No,0.07,B,62,Approved
+Owner,11.49,2500.0,Home Improvement,,5,28,22200,Very Good,No,0.11,A,61,Approved
+Mortgage,10.38,18000.0,Study,3.0,8,28,142000,Very Good,No,0.13,B,97,Approved
+Mortgage,8.9,4000.0,Personal,8.0,4,24,62400,Excellent,No,0.06,B,57,Approved
+Mortgage,19.03,30000.0,Health,13.0,14,42,64464,Poor,No,0.4,B,177,Declined
+Renter,13.23,4200.0,Study,3.0,10,32,52000,Good,Yes,0.08,C,121,Approved
+Mortgage,7.88,8000.0,Business,4.0,4,22,96000,Excellent,No,0.08,B,52,Approved
+Renter,15.62,8575.0,Debt Consolidation,2.0,2,25,32000,Fair,Yes,0.27,C,33,Declined
+Owner,9.62,20000.0,Study,0.0,3,26,63400,Very Good,No,0.32,A,44,Approved
+Renter,7.4,6000.0,Business,3.0,5,27,115000,Excellent,No,0.05,C,61,Approved
+Owner,10.99,25000.0,Health,8.0,3,25,60000,Very Good,No,0.42,A,37,Approved
+Renter,12.69,4200.0,Home Improvement,4.0,16,41,55000,Very Good,No,0.08,C,197,Approved
+Renter,12.8,5000.0,Health,6.0,5,34,25480,Fair,No,0.2,C,61,Declined
+Owner,12.18,3500.0,Home Improvement,8.0,2,24,119500,Very Good,No,0.03,A,35,Approved
+Renter,,9250.0,Study,3.0,5,30,26000,Very Good,No,0.36,C,69,Declined
+Renter,14.84,10000.0,Home Improvement,1.0,14,42,25320,Fair,Yes,0.39,C,177,Declined
+Renter,10.99,8000.0,Home Improvement,2.0,17,36,50700,Very Good,No,0.16,C,209,Approved
+Mortgage,11.99,9600.0,Study,2.0,11,42,75000,Very Good,No,0.13,B,134,Approved
+Renter,23.22,22250.0,Home Improvement,3.0,12,38,83000,Extremely Poor,Yes,0.27,C,152,Declined
+Renter,13.35,15000.0,Health,6.0,3,22,60000,Good,Yes,0.25,C,46,Approved
+Renter,6.92,4800.0,Personal,8.0,3,24,55000,Excellent,No,0.09,C,41,Approved
+Mortgage,15.57,25000.0,Debt Consolidation,4.0,2,24,69000,Fair,No,0.36,B,26,Declined
+Renter,8.9,5750.0,Health,3.0,2,21,17000,Excellent,No,0.34,C,25,Declined
+Renter,16.32,20000.0,Home Improvement,0.0,15,37,108000,Poor,No,0.19,C,186,Declined
+Mortgage,15.33,10000.0,Health,1.0,8,29,55476,Fair,Yes,0.18,B,100,Declined
+Mortgage,6.92,6850.0,Business,8.0,2,24,53000,Excellent,No,0.13,B,34,Approved
+Renter,8.49,10000.0,Personal,2.0,3,26,50000,Excellent,No,0.2,C,45,Approved
+Mortgage,5.42,6000.0,Study,10.0,3,26,127000,Excellent,No,0.05,B,47,Approved
+Mortgage,6.54,5000.0,Debt Consolidation,,3,22,60000,Excellent,No,0.08,B,40,Approved
+Renter,7.49,1500.0,Study,3.0,3,25,42769,Excellent,No,0.04,C,44,Approved
+Owner,10.99,16000.0,Study,19.0,5,34,98000,Very Good,No,0.16,A,62,Approved
+Mortgage,14.79,9600.0,Study,3.0,4,22,67775,Good,Yes,0.14,B,49,Approved
+Unknown,16.0,8000.0,Business,0.0,2,24,38400,Poor,Yes,0.21,D,35,Approved
+Mortgage,,5500.0,Home Improvement,0.0,3,24,50000,Very Good,No,0.11,B,45,Approved
+Mortgage,18.39,3000.0,Health,5.0,15,36,37000,Poor,Yes,0.08,B,187,Declined
+Mortgage,14.83,25000.0,Personal,1.0,4,21,88000,Fair,No,0.28,B,57,Declined
+Renter,14.27,10500.0,Study,6.0,6,28,40000,Good,No,0.26,C,82,Approved
+Mortgage,13.99,35000.0,Study,8.0,2,24,205000,Good,No,0.17,B,33,Approved
+Renter,5.42,8000.0,Health,6.0,4,22,30000,Excellent,No,0.27,C,53,Approved
+Renter,16.77,15000.0,Home Improvement,11.0,9,27,36000,Fair,No,0.42,C,111,Declined
+Mortgage,12.61,1600.0,Personal,8.0,4,26,62100,Good,No,0.03,B,58,Approved
+Owner,6.99,7000.0,Health,,4,22,52800,Excellent,No,0.13,A,55,Approved
+Renter,,9250.0,Business,2.0,7,30,67000,Excellent,No,0.14,C,89,Approved
+Renter,13.49,12000.0,Business,4.0,6,28,72000,Good,Yes,0.17,C,77,Approved
+Mortgage,15.21,4000.0,Home Improvement,2.0,7,30,65000,Fair,No,0.06,B,92,Approved
+Renter,,10000.0,Debt Consolidation,,2,22,37000,Very Good,No,0.27,C,29,Approved
+Renter,14.27,7200.0,Personal,7.0,3,23,48000,Good,Yes,0.15,C,39,Approved
+Renter,10.0,4200.0,Study,12.0,5,28,33600,Very Good,No,0.13,C,68,Approved
+Renter,12.53,5175.0,Business,0.0,4,25,21000,Very Good,No,0.25,C,55,Approved
+Mortgage,10.37,15000.0,Home Improvement,3.0,2,25,82000,Very Good,No,0.18,B,28,Approved
+Renter,10.59,4800.0,Health,6.0,2,24,32000,Very Good,No,0.15,C,28,Approved
+Renter,17.27,12000.0,Home Improvement,11.0,7,27,238000,Fair,No,0.05,C,91,Declined
+Renter,13.85,4000.0,Personal,5.0,4,26,70000,Good,No,0.06,C,52,Approved
+Renter,12.61,3125.0,Personal,3.0,3,23,20400,Good,No,0.15,C,42,Approved
+Mortgage,8.49,5000.0,Business,9.0,3,25,33000,Excellent,No,0.15,B,46,Approved
+Mortgage,7.51,15000.0,Study,9.0,9,30,65004,Excellent,No,0.23,B,117,Approved
+Mortgage,7.9,14000.0,Business,4.0,2,25,60000,Excellent,No,0.23,B,28,Approved
+Mortgage,6.39,3000.0,Study,8.0,3,24,69996,Excellent,No,0.04,B,45,Approved
+Mortgage,14.17,6000.0,Study,2.0,9,30,80000,Good,Yes,0.07,B,118,Approved
+Mortgage,,12000.0,Study,6.0,3,23,90000,Excellent,No,0.13,B,38,Approved
+Mortgage,15.33,25000.0,Health,1.0,9,30,110925,Fair,No,0.19,B,119,Declined
+Mortgage,11.86,9000.0,Debt Consolidation,9.0,4,25,73000,Very Good,No,0.12,B,52,Approved
+Mortgage,9.91,3600.0,Personal,,10,28,46858,Very Good,No,0.08,B,128,Approved
+Unknown,7.4,2500.0,Business,3.0,9,28,186000,Excellent,No,0.01,D,118,Approved
+Mortgage,,10000.0,Health,4.0,4,24,85000,Good,No,0.12,B,56,Approved
+Mortgage,13.48,7000.0,Business,3.0,2,23,50000,Good,Yes,0.14,B,34,Approved
+Mortgage,11.97,7500.0,Debt Consolidation,7.0,2,23,91000,Good,Yes,0.08,B,30,Approved
+Renter,11.86,1500.0,Business,,12,43,51600,Very Good,No,0.03,C,152,Approved
+Mortgage,9.63,9000.0,Study,4.0,3,22,65000,Excellent,No,0.14,B,39,Approved
+Renter,13.47,10000.0,Health,4.0,13,36,54996,Good,No,0.18,C,161,Approved
+Renter,19.03,4000.0,Study,6.0,4,25,19200,Poor,Yes,0.21,C,58,Declined
+Mortgage,9.99,14000.0,Study,14.0,14,40,70032,Very Good,No,0.2,B,176,Approved
+Renter,,8000.0,Debt Consolidation,2.0,3,23,60000,Very Good,No,0.13,C,38,Approved
+Renter,6.76,2100.0,Personal,1.0,2,22,52800,Excellent,No,0.04,C,35,Approved
+Mortgage,9.99,10000.0,Home Improvement,2.0,14,43,86004,Very Good,No,0.12,B,175,Approved
+Renter,16.32,10000.0,Health,4.0,3,24,47292,Fair,Yes,0.21,C,39,Declined
+Renter,11.83,3200.0,Debt Consolidation,2.0,2,24,54731,Very Good,No,0.06,C,32,Approved
+Mortgage,5.42,6000.0,Personal,11.0,15,43,98004,Excellent,No,0.06,B,182,Approved
+Mortgage,10.65,10000.0,Study,14.0,6,29,90000,Very Good,No,0.11,B,75,Approved
+Mortgage,12.42,2000.0,Home Improvement,3.0,7,30,25056,Very Good,No,0.08,B,87,Approved
+Mortgage,7.14,10000.0,Health,7.0,2,23,51000,Excellent,No,0.2,B,29,Approved
+Mortgage,,10000.0,Business,0.0,11,37,70000,Very Good,No,0.14,B,133,Approved
+Renter,7.51,1000.0,Debt Consolidation,6.0,3,25,28000,Excellent,No,0.04,C,43,Approved
+Renter,6.91,20000.0,Study,2.0,5,33,98000,Excellent,No,0.2,C,65,Approved
+Renter,13.47,10000.0,Business,2.0,6,27,130000,Good,Yes,0.08,C,82,Approved
+Renter,12.73,25000.0,Health,9.0,2,25,61959,Good,No,0.4,C,33,Declined
+Renter,7.88,7000.0,Study,2.0,2,25,31200,Excellent,No,0.22,C,30,Approved
+Renter,8.32,12000.0,Business,6.0,4,22,54996,Excellent,No,0.22,C,57,Approved
+Owner,7.49,2400.0,Study,1.0,2,24,24000,Excellent,No,0.1,A,25,Approved
+Mortgage,6.92,12800.0,Business,2.0,3,26,76800,Excellent,No,0.17,B,47,Approved
+Mortgage,9.99,7000.0,Home Improvement,8.0,3,26,46000,Very Good,No,0.15,B,46,Declined
+Owner,11.14,8000.0,Study,0.0,6,29,58656,Very Good,No,0.14,A,80,Approved
+Mortgage,7.51,2400.0,Debt Consolidation,2.0,2,25,49500,Excellent,No,0.05,B,28,Approved
+Renter,10.08,6000.0,Study,1.0,3,21,40000,Very Good,No,0.15,C,37,Approved
+Renter,17.27,3000.0,Personal,,2,24,40000,Fair,Yes,0.07,C,27,Declined
+Mortgage,7.12,458577600.00000006,Study,1.0,6,30,60600,Excellent,No,0.05,B,76,Approved
+Renter,7.14,6000.0,Personal,0.0,17,37,86000,Excellent,No,0.07,C,212,Approved
+Renter,15.21,15000.0,Business,3.0,6,27,61584,Fair,No,0.24,C,80,Approved
+Mortgage,10.37,4450.0,Debt Consolidation,4.0,6,30,45000,Very Good,No,0.1,B,81,Approved
+Mortgage,13.49,11000.0,Debt Consolidation,10.0,3,26,48000,Good,No,0.23,B,44,Approved
+Mortgage,11.12,9250.0,Debt Consolidation,11.0,4,26,86000,Very Good,No,0.11,B,58,Approved
+Renter,7.51,10000.0,Health,4.0,3,25,30000,Excellent,No,0.33,C,40,Declined
+Owner,13.11,4000.0,Business,9.0,4,25,35000,Good,No,0.11,A,55,Approved
+Renter,15.33,10000.0,Personal,5.0,7,29,63000,Fair,Yes,0.16,C,89,Approved
+Mortgage,16.49,10000.0,Health,4.0,12,49,64600,Fair,No,0.13,B,152,Declined
+Renter,17.27,8400.0,Debt Consolidation,10.0,4,26,35500,Fair,No,0.24,C,49,Declined
+Mortgage,7.51,4800.0,Study,2.0,4,23,76500,Excellent,No,0.06,B,55,Approved
+Renter,13.72,4800.0,Home Improvement,0.0,2,26,65000,Good,No,0.07,C,27,Approved
+Mortgage,13.79,4800.0,Debt Consolidation,2.0,4,24,77350,Good,Yes,0.06,B,53,Approved
+Renter,9.63,4300.0,Health,1.0,4,24,30000,Very Good,No,0.14,C,49,Approved
+Mortgage,6.03,6000.0,Health,7.0,4,23,54000,Excellent,No,0.11,B,54,Approved
+Renter,8.94,6000.0,Personal,6.0,9,27,60000,Excellent,No,0.1,C,117,Approved
+Mortgage,6.03,6000.0,Business,9.0,4,25,80000,Excellent,No,0.07,B,57,Approved
+Renter,11.83,4200.0,Debt Consolidation,0.0,5,28,10800,Very Good,No,0.39,C,66,Declined
+Mortgage,8.0,6400.0,Study,7.0,2,22,50000,Excellent,No,0.13,B,35,Approved
+Mortgage,,9250.0,Health,6.0,2,26,65000,Very Good,No,0.14,B,31,Approved
+Mortgage,9.99,5000.0,Study,5.0,4,21,65004,Very Good,No,0.08,B,50,Approved
+Renter,11.26,4000.0,Study,0.0,4,24,55000,Very Good,No,0.07,C,51,Approved
+Owner,9.91,35000.0,Personal,1.0,2,26,73440,Very Good,No,0.48,A,30,Approved
+Mortgage,12.42,35000.0,Health,6.0,10,27,165000,Very Good,No,0.21,B,129,Approved
+Mortgage,12.99,28000.0,Home Improvement,1.0,6,27,148000,Good,Yes,0.19,B,78,Declined
+Mortgage,6.39,3800.0,Health,12.0,6,29,146000,Excellent,No,0.03,B,73,Approved
+Renter,10.38,11000.0,Health,0.0,10,29,42000,Very Good,No,0.26,C,130,Approved
+Mortgage,5.99,4500.0,Debt Consolidation,14.0,6,30,90000,Excellent,No,0.05,B,80,Approved
+Renter,,2000.0,Debt Consolidation,4.0,9,29,68500,Excellent,No,0.03,C,116,Approved
+Renter,,10000.0,Business,6.0,9,31,80000,Excellent,No,0.13,C,115,Approved
+Owner,11.83,20000.0,Personal,5.0,3,24,84000,Very Good,No,0.24,A,37,Approved
+Owner,9.33,8800.0,Health,0.0,3,21,25000,Very Good,No,0.35,A,38,Approved
+Renter,17.74,5000.0,Study,1.0,17,38,39000,Poor,No,0.13,C,213,Declined
+Mortgage,5.42,10000.0,Business,7.0,3,23,45992,Excellent,No,0.22,B,45,Approved
+Renter,5.79,18000.0,Study,1.0,10,30,175000,Excellent,No,0.1,C,131,Approved
+Mortgage,13.22,3000.0,Debt Consolidation,3.0,4,23,36000,Good,No,0.08,B,58,Approved
+Renter,7.9,10000.0,Study,6.0,2,26,54000,Excellent,No,0.19,C,35,Approved
+Mortgage,14.79,6400.0,Home Improvement,7.0,9,28,63000,Good,No,0.1,B,117,Approved
+Renter,8.94,10000.0,Debt Consolidation,1.0,2,23,62000,Excellent,No,0.16,C,26,Approved
+Renter,10.65,4500.0,Health,2.0,5,29,91500,Very Good,No,0.05,C,71,Approved
+Owner,6.17,10000.0,Personal,5.0,13,36,38400,Excellent,No,0.26,A,163,Approved
+Renter,10.37,9450.0,Personal,0.0,13,36,23004,Very Good,No,0.41,C,163,Declined
+Owner,13.23,171966600.0,Business,13.0,8,29,52000,Good,No,0.02,A,101,Approved
+Renter,,12000.0,Home Improvement,3.0,3,25,93000,Very Good,No,0.13,C,47,Approved
+Mortgage,13.22,20000.0,Study,7.0,4,23,85000,Good,Yes,0.24,B,55,Approved
+Renter,11.49,3000.0,Business,10.0,5,33,58800,Very Good,No,0.05,C,66,Approved
+Renter,6.91,15000.0,Study,3.0,7,29,120000,Excellent,No,0.13,C,92,Approved
+Renter,13.24,16000.0,Study,0.0,3,22,34000,Fair,No,0.47,C,43,Declined
+Mortgage,10.74,28000.0,Home Improvement,9.0,3,25,120000,Very Good,No,0.23,B,43,Approved
+Renter,13.79,7800.0,Debt Consolidation,5.0,2,21,34000,Good,No,0.23,C,29,Declined
+Renter,15.27,3500.0,Study,1.0,3,22,26400,Good,No,0.13,C,37,Approved
+Mortgage,,7000.0,Personal,6.0,2,23,57000,Excellent,No,0.12,B,27,Approved
+Renter,8.0,7200.0,Study,5.0,8,33,83000,Excellent,No,0.09,C,103,Approved
+Mortgage,13.79,20000.0,Personal,3.0,9,28,138996,Good,Yes,0.14,B,117,Approved
+Mortgage,7.14,10000.0,Business,1.0,2,22,107000,Excellent,No,0.09,B,26,Approved
+Renter,11.71,10200.0,Health,6.0,3,22,90000,Very Good,No,0.11,C,45,Approved
+Renter,14.27,4800.0,Business,2.0,2,26,42000,Good,No,0.11,C,33,Declined
+Renter,10.59,11100.0,Home Improvement,3.0,10,32,50000,Very Good,No,0.22,C,123,Approved
+Renter,,12000.0,Study,10.0,2,26,84000,Very Good,No,0.14,C,32,Approved
+Renter,8.59,7200.0,Business,2.0,9,28,112123,Excellent,No,0.06,C,109,Approved
+Mortgage,9.63,13000.0,Home Improvement,2.0,17,37,56000,Excellent,No,0.23,B,210,Approved
+Mortgage,7.74,5000.0,Study,6.0,4,22,75000,Excellent,No,0.07,B,57,Approved
+Mortgage,8.0,1375732800.0,Business,3.0,2,25,99996,Excellent,No,0.08,B,30,Approved
+Renter,13.49,20000.0,Debt Consolidation,3.0,4,22,81000,Good,No,0.25,C,52,Approved
+Renter,,6000.0,Personal,8.0,3,24,45000,Very Good,No,0.13,C,39,Approved
+Renter,,13000.0,Home Improvement,0.0,4,26,50000,Very Good,No,0.26,C,52,Approved
+Renter,14.27,14000.0,Study,6.0,7,34,80000,Good,Yes,0.17,C,87,Approved
+Renter,,14400.0,Debt Consolidation,4.0,2,24,50000,Excellent,No,0.29,C,29,Approved
+Renter,15.37,8500.0,Study,7.0,2,23,29520,Fair,Yes,0.29,C,35,Approved
+Mortgage,9.83,12000.0,Debt Consolidation,5.0,11,37,78000,Very Good,No,0.15,B,140,Approved
+Renter,14.59,10750.0,Health,6.0,27,69,37000,Fair,Yes,0.29,C,327,Approved
+Mortgage,10.38,5000.0,Study,3.0,6,32,140000,Very Good,No,0.04,B,79,Approved
+Mortgage,8.9,5400.0,Home Improvement,9.0,2,25,38000,Excellent,No,0.14,B,26,Approved
+Mortgage,11.97,4500.0,Debt Consolidation,10.0,2,26,115200,Good,Yes,0.04,B,25,Approved
+Renter,11.48,20000.0,Personal,4.0,8,27,70000,Very Good,No,0.29,C,97,Approved
+Renter,13.47,2800.0,Business,3.0,4,26,52582,Good,No,0.05,C,54,Approved
+Renter,10.36,6400.0,Business,4.0,4,24,75000,Very Good,No,0.09,C,52,Approved
+Mortgage,16.32,13600.0,Business,5.0,7,28,90000,Fair,Yes,0.15,B,86,Approved
+Mortgage,17.74,17000.0,Home Improvement,3.0,10,34,58800,Poor,No,0.29,B,128,Declined
+Renter,11.71,3300.0,Study,1.0,8,30,44760,Very Good,No,0.07,C,104,Approved
+Renter,11.83,7500.0,Study,4.0,2,23,75000,Very Good,No,0.1,C,30,Approved
+Renter,11.36,20000.0,Business,1.0,2,22,48500,Very Good,No,0.41,C,31,Declined
+Renter,10.59,18000.0,Debt Consolidation,7.0,16,38,81000,Very Good,No,0.22,C,201,Approved
+Mortgage,,5000.0,Personal,6.0,5,27,53000,Excellent,No,0.09,B,63,Approved
+Mortgage,,25000.0,Business,4.0,6,28,100000,Fair,No,0.25,B,75,Declined
+Mortgage,9.32,8250.0,Health,8.0,3,23,39600,Excellent,No,0.21,B,46,Approved
+Mortgage,7.51,10000.0,Debt Consolidation,0.0,9,30,95000,Excellent,No,0.11,B,118,Approved
+Renter,7.29,5750.0,Study,9.0,4,25,85000,Excellent,No,0.07,C,54,Approved
+Renter,12.42,13350.0,Health,15.0,9,31,43000,Very Good,No,0.31,C,112,Declined
+Mortgage,5.42,13000.0,Study,5.0,4,23,59000,Excellent,No,0.22,B,49,Approved
+Renter,14.72,3500.0,Debt Consolidation,7.0,2,23,64000,Good,Yes,0.05,C,33,Declined
+Mortgage,15.99,6200.0,Home Improvement,10.0,2,26,69000,Fair,No,0.09,B,30,Declined
+Mortgage,5.99,1000.0,Health,2.0,8,27,115000,Excellent,No,0.01,B,97,Approved
+Owner,16.0,3500.0,Business,1.0,3,24,35000,Poor,No,0.1,A,42,Approved
+Renter,7.49,1000.0,Study,2.0,3,24,39996,Excellent,No,0.03,C,41,Approved
+Renter,,5750.0,Study,0.0,3,22,95000,Excellent,No,0.06,C,44,Approved
+Mortgage,13.43,7000.0,Study,7.0,3,23,41600,Good,No,0.17,B,41,Approved
+Owner,14.11,716527500.0,Debt Consolidation,3.0,5,27,25740,Fair,Yes,0.19,A,65,Approved
+Mortgage,7.88,5000.0,Personal,9.0,5,27,60000,Excellent,No,0.08,B,71,Approved
+Renter,10.99,8300.0,Study,6.0,4,22,45020,Very Good,No,0.18,C,59,Approved
+Renter,13.47,17000.0,Business,0.0,2,26,65000,Good,No,0.26,C,31,Approved
+Mortgage,7.05,8700.0,Business,2.0,4,24,54000,Excellent,No,0.16,B,54,Approved
+Renter,15.27,5400.0,Debt Consolidation,5.0,4,24,112000,Good,Yes,0.05,C,51,Approved
+Mortgage,8.94,5375.0,Home Improvement,7.0,6,28,139913,Excellent,No,0.04,B,80,Approved
+Renter,10.99,13250.0,Business,1.0,4,23,38400,Very Good,No,0.35,C,53,Declined
+Renter,11.71,7300.0,Study,4.0,3,21,50000,Very Good,No,0.15,C,47,Approved
+Renter,11.49,7000.0,Home Improvement,4.0,10,33,94000,Very Good,No,0.07,C,128,Approved
+Mortgage,7.49,22400.0,Business,2.0,2,23,113000,Excellent,No,0.2,B,25,Approved
+Mortgage,11.58,2500.0,Business,10.0,3,26,57000,Very Good,No,0.04,B,45,Approved
+Mortgage,,8000.0,Debt Consolidation,0.0,3,26,85000,Very Good,No,0.09,B,45,Approved
+Mortgage,15.33,25000.0,Business,28.0,17,44,80000,Fair,Yes,0.31,B,215,Approved
+Renter,,12875.0,Health,10.0,2,26,35000,Very Good,No,0.37,C,27,Declined
+Mortgage,5.99,10000.0,Home Improvement,12.0,8,31,84000,Excellent,No,0.12,B,98,Approved
+Mortgage,18.64,33000.0,Study,0.0,10,32,103000,Poor,Yes,0.32,B,122,Declined
+Renter,6.91,8000.0,Study,1.0,2,22,49000,Excellent,No,0.16,C,26,Declined
+Mortgage,12.61,8000.0,Personal,11.0,9,27,120000,Good,No,0.07,B,111,Approved
+Mortgage,6.99,15000.0,Health,11.0,7,29,84000,Excellent,No,0.18,B,95,Approved
+Renter,12.84,15000.0,Business,1.0,3,22,55000,Good,No,0.27,C,42,Approved
+Owner,10.74,25000.0,Study,6.0,2,22,55000,Very Good,No,0.45,A,32,Approved
+Mortgage,11.11,20000.0,Personal,5.0,16,45,110000,Very Good,No,0.18,B,197,Approved
+Owner,10.99,10825.0,Business,10.0,6,27,44630,Very Good,No,0.24,A,77,Approved
+Mortgage,7.51,296164700.0,Health,5.0,5,29,32000,Excellent,No,0.1,B,63,Declined
+Renter,10.25,5000.0,Study,1.0,2,22,33000,Very Good,No,0.15,C,30,Approved
+Owner,,2000.0,Health,9.0,4,25,124000,Very Good,No,0.02,A,49,Approved
+Renter,10.39,18000.0,Business,1.0,8,27,80000,Very Good,No,0.23,C,99,Approved
+Mortgage,7.51,4800.0,Personal,5.0,2,24,42500,Excellent,No,0.11,B,30,Approved
+Renter,15.95,25000.0,Debt Consolidation,2.0,3,25,83800,Fair,Yes,0.3,C,46,Declined
+Renter,8.9,12000.0,Personal,6.0,3,23,80800,Excellent,No,0.15,C,47,Approved
+Renter,8.59,10000.0,Health,0.0,14,46,70000,Excellent,No,0.14,C,175,Approved
+Renter,10.37,5000.0,Health,0.0,3,21,50500,Very Good,No,0.1,C,39,Approved
+Mortgage,12.53,11000.0,Home Improvement,9.0,3,26,80500,Very Good,No,0.14,B,43,Approved
+Mortgage,,9000.0,Study,6.0,2,22,74000,Very Good,No,0.12,B,27,Approved
+Mortgage,12.42,12800.0,Home Improvement,1.0,4,25,99600,Very Good,No,0.13,B,54,Approved
+Renter,14.42,5300.0,Study,5.0,2,22,50004,Fair,No,0.11,C,25,Approved
+Renter,12.99,12000.0,Study,0.0,2,26,86004,Good,No,0.14,C,26,Approved
+Renter,7.51,3000.0,Debt Consolidation,4.0,13,38,49000,Excellent,No,0.06,C,159,Approved
+Mortgage,12.53,18000.0,Health,12.0,10,28,85000,Very Good,No,0.21,B,129,Approved
+Renter,10.99,2000.0,Health,0.0,11,39,24000,Very Good,No,0.08,C,143,Approved
+Renter,6.03,12200.0,Personal,3.0,2,21,82100,Excellent,No,0.15,C,25,Approved
+Owner,13.85,8800.0,Study,5.0,2,21,36000,Good,No,0.24,A,26,Approved
+Renter,11.58,18000.0,Debt Consolidation,1.0,6,28,64000,Very Good,No,0.28,C,76,Declined
+Renter,8.0,1500.0,Personal,1.0,17,41,63000,Excellent,No,0.02,C,214,Approved
+Renter,11.71,6000.0,Study,3.0,4,24,30000,Very Good,No,0.2,C,59,Approved
+Mortgage,7.49,22000.0,Health,3.0,3,22,120000,Excellent,No,0.18,B,41,Approved
+Mortgage,11.99,6000.0,Home Improvement,6.0,2,26,40000,Very Good,No,0.15,B,31,Approved
+Renter,18.39,9000.0,Health,4.0,6,35,36000,Poor,Yes,0.25,C,75,Declined
+Mortgage,12.53,3000.0,Debt Consolidation,0.0,6,33,25000,Good,Yes,0.12,B,74,Approved
+Renter,,8500.0,Personal,1.0,4,22,46968,Good,No,0.18,C,50,Declined
+Mortgage,9.67,5000.0,Health,6.0,3,22,99600,Very Good,No,0.05,B,41,Approved
+Renter,11.49,401255400.00000006,Study,2.0,4,21,27600,Very Good,No,0.11,C,53,Approved
+Mortgage,18.84,12000.0,Health,8.0,3,26,44000,Extremely Poor,Yes,0.27,B,37,Declined
+Renter,17.58,13275.0,Business,5.0,2,23,54000,Fair,Yes,0.25,C,35,Approved
+Mortgage,7.51,1203766200.0,Personal,3.0,3,22,54000,Excellent,No,0.17,B,39,Approved
+Renter,,3000.0,Business,2.0,11,38,47000,Excellent,No,0.06,C,140,Approved
+Mortgage,5.42,5050.0,Debt Consolidation,9.0,3,25,69900,Excellent,No,0.07,B,39,Approved
+Mortgage,16.45,4000.0,Study,4.0,3,24,140004,Poor,No,0.03,B,44,Approved
+Renter,17.49,2950.0,Business,4.0,2,26,9600,Fair,Yes,0.31,C,25,Declined
+Mortgage,11.99,35000.0,Debt Consolidation,5.0,5,35,79750,Very Good,No,0.44,B,67,Approved
+Mortgage,7.29,7000.0,Debt Consolidation,3.0,5,27,84000,Excellent,No,0.08,B,68,Approved
+Mortgage,15.62,6000.0,Debt Consolidation,10.0,4,26,71000,Fair,No,0.08,B,51,Declined
+Mortgage,7.88,8800.0,Home Improvement,,13,43,125000,Excellent,No,0.07,B,163,Approved
+Unknown,,15000.0,Debt Consolidation,1.0,2,22,59000,Fair,Yes,0.25,D,34,Declined
+Renter,14.59,10750.0,Home Improvement,1.0,4,25,39000,Fair,Yes,0.28,C,55,Declined
+Mortgage,9.51,25000.0,Debt Consolidation,5.0,10,35,65000,Very Good,No,0.38,B,125,Approved
+Renter,10.74,11000.0,Study,2.0,2,22,59000,Very Good,No,0.19,C,27,Approved
+Renter,14.96,15250.0,Home Improvement,7.0,4,24,59000,Fair,No,0.26,C,51,Approved
+Renter,13.72,5100.0,Debt Consolidation,6.0,5,35,40000,Good,Yes,0.13,C,61,Approved
+Renter,14.59,13350.0,Debt Consolidation,0.0,2,22,50000,Fair,No,0.27,C,35,Declined
+Mortgage,15.23,32000.0,Debt Consolidation,7.0,7,33,54000,Good,No,0.59,B,95,Declined
+Renter,12.61,13450.0,Health,4.0,3,23,29000,Fair,No,0.46,C,38,Declined
+Renter,15.05,13750.0,Debt Consolidation,0.0,4,21,30000,Fair,Yes,0.46,C,50,Declined
+Mortgage,11.58,15000.0,Debt Consolidation,3.0,2,25,102211,Very Good,No,0.15,B,30,Approved
+Renter,13.49,9000.0,Health,7.0,4,25,87000,Good,No,0.1,C,54,Approved
+Mortgage,12.69,10000.0,Personal,2.0,5,30,60000,Very Good,No,0.17,B,67,Approved
+Mortgage,11.36,6000.0,Personal,6.0,6,32,62000,Very Good,No,0.1,B,74,Approved
+Renter,6.99,6300.0,Study,0.0,3,21,42504,Excellent,No,0.15,C,47,Approved
+Renter,13.48,14000.0,Health,7.0,4,23,122000,Good,No,0.11,C,52,Approved
+Renter,14.22,15000.0,Personal,7.0,2,23,60000,Good,Yes,0.25,C,29,Approved
+Mortgage,8.94,3100.0,Study,8.0,3,24,48000,Excellent,No,0.06,B,38,Approved
+Mortgage,5.42,12000.0,Business,7.0,2,23,56700,Excellent,No,0.21,B,28,Approved
+Renter,7.51,6000.0,Personal,7.0,3,23,36000,Excellent,No,0.17,C,44,Approved
+Owner,13.3,10000.0,Personal,21.0,13,36,120000,Fair,Yes,0.08,A,157,Approved
+Mortgage,6.99,10750.0,Health,8.0,4,24,100000,Excellent,No,0.11,B,50,Approved
+Mortgage,5.42,9000.0,Debt Consolidation,12.0,7,28,70000,Excellent,No,0.13,B,91,Declined
+Renter,5.79,6000.0,Study,3.0,4,23,40000,Excellent,No,0.15,C,57,Approved
+Renter,12.69,10000.0,Debt Consolidation,10.0,4,26,56000,Very Good,No,0.18,C,54,Declined
+Mortgage,6.62,7000.0,Personal,5.0,4,21,43000,Excellent,No,0.16,B,51,Approved
+Mortgage,16.45,16000.0,Study,3.0,3,22,78000,Poor,No,0.21,B,44,Approved
+Mortgage,7.9,252217680.00000003,Health,,2,21,31544,Excellent,No,0.07,B,31,Approved
+Mortgage,9.99,12000.0,Personal,12.0,6,28,61000,Very Good,No,0.2,B,79,Approved
+Mortgage,11.48,15000.0,Personal,5.0,26,56,150000,Very Good,No,0.1,B,317,Approved
+Renter,,7250.0,Business,11.0,5,35,105000,Good,Yes,0.07,C,65,Approved
+Owner,5.42,5400.0,Study,5.0,6,27,33600,Excellent,No,0.16,A,76,Approved
+Renter,6.91,10000.0,Personal,3.0,2,23,72000,Excellent,No,0.14,C,32,Approved
+Owner,11.83,12000.0,Business,3.0,5,29,97000,Very Good,No,0.12,A,68,Approved
+Mortgage,,20000.0,Home Improvement,7.0,5,27,125000,Fair,Yes,0.16,B,62,Approved
+Renter,10.25,5000.0,Personal,3.0,7,28,39000,Very Good,No,0.13,C,87,Approved
+Renter,,10000.0,Business,4.0,9,30,42000,Excellent,No,0.24,C,115,Approved
+Renter,7.14,7500.0,Health,0.0,4,23,21360,Excellent,No,0.35,C,54,Declined
+Mortgage,7.88,7000.0,Debt Consolidation,4.0,2,21,66000,Excellent,No,0.11,B,32,Approved
+Renter,7.9,5000.0,Study,11.0,8,33,85000,Excellent,No,0.06,C,100,Approved
+Mortgage,16.0,15000.0,Health,7.0,2,23,74800,Fair,No,0.17,B,35,Declined
+Owner,13.87,5000.0,Study,6.0,3,21,44500,Fair,Yes,0.11,A,45,Approved
+Renter,12.99,4000.0,Study,4.0,2,22,38400,Good,No,0.1,C,30,Approved
+Mortgage,8.94,16000.0,Debt Consolidation,10.0,2,26,120000,Excellent,No,0.13,B,26,Approved
+Renter,,15000.0,Debt Consolidation,12.0,7,28,47881,Very Good,No,0.31,C,85,Declined
+Mortgage,15.27,12000.0,Personal,3.0,4,23,60000,Good,Yes,0.2,B,57,Approved
+Renter,14.46,1719666000.0000002,Business,2.0,2,22,30000,Fair,No,0.4,C,30,Declined
+Mortgage,14.11,4000.0,Business,13.0,7,33,75000,Fair,No,0.05,B,85,Approved
+Mortgage,8.94,12000.0,Business,7.0,8,27,35088,Excellent,No,0.34,B,105,Approved
+Renter,10.25,6000.0,Health,6.0,5,30,55840,Very Good,No,0.11,C,71,Approved
+Mortgage,6.62,17825.0,Study,7.0,2,23,79000,Excellent,No,0.23,B,35,Approved
+Renter,8.94,6000.0,Business,2.0,2,25,84000,Excellent,No,0.07,C,35,Approved
+Mortgage,7.49,12000.0,Study,6.0,2,22,61000,Excellent,No,0.2,B,33,Approved
+Renter,,10000.0,Personal,2.0,3,26,45000,Good,No,0.22,C,46,Approved
+Mortgage,,5000.0,Personal,10.0,16,37,69996,Very Good,No,0.07,B,194,Approved
+Renter,16.32,3200.0,Personal,1.0,8,28,42000,Poor,Yes,0.08,C,100,Declined
+Renter,,10000.0,Home Improvement,1.0,4,24,56500,Very Good,No,0.18,C,58,Approved
+Renter,8.49,18000.0,Debt Consolidation,3.0,4,24,95000,Excellent,No,0.19,C,56,Approved
+Renter,9.99,9600.0,Personal,4.0,12,37,54696,Very Good,No,0.18,C,152,Approved
+Renter,13.98,12000.0,Personal,2.0,5,31,60000,Good,No,0.2,C,61,Approved
+Mortgage,7.51,18000.0,Study,0.0,3,24,80000,Excellent,No,0.23,B,39,Approved
+Renter,12.18,5600.0,Personal,0.0,10,29,12000,Very Good,No,0.47,C,131,Declined
+Mortgage,,13000.0,Business,6.0,8,27,79000,Excellent,No,0.16,B,99,Approved
+Renter,10.65,6500.0,Debt Consolidation,0.0,12,41,30600,Very Good,No,0.21,C,154,Approved
+Renter,11.11,8000.0,Business,0.0,4,26,27000,Very Good,No,0.3,C,51,Approved
+Owner,10.65,8000.0,Personal,5.0,2,24,36000,Very Good,No,0.22,A,35,Approved
+Renter,7.88,3600.0,Study,3.0,3,21,50350,Excellent,No,0.07,C,42,Approved
+Renter,15.65,25000.0,Business,2.0,3,26,88000,Fair,No,0.28,C,47,Declined
+Renter,10.95,1750.0,Business,0.0,3,23,17000,Very Good,No,0.1,C,40,Approved
+Mortgage,6.92,6000.0,Personal,18.0,10,34,195000,Excellent,No,0.03,B,124,Approved
+Mortgage,13.93,5000.0,Home Improvement,8.0,2,24,72000,Poor,Yes,0.07,B,25,Approved
+Renter,16.77,7000.0,Business,1.0,3,23,39000,Fair,No,0.18,C,41,Declined
+Renter,9.76,10000.0,Debt Consolidation,5.0,13,37,24000,Very Good,No,0.42,C,161,Declined
+Renter,11.99,8550.0,Health,3.0,2,22,42000,Very Good,No,0.2,C,25,Approved
+Mortgage,,22000.0,Business,12.0,5,29,108996,Poor,Yes,0.2,B,63,Approved
+Mortgage,10.65,12000.0,Business,4.0,3,22,33640,Very Good,No,0.36,B,46,Approved
+Renter,,2000.0,Business,2.0,8,30,33000,Very Good,No,0.06,C,101,Approved
+Mortgage,10.62,7500.0,Business,8.0,5,31,45000,Very Good,No,0.17,B,69,Approved
+Renter,10.59,15000.0,Health,7.0,17,36,65000,Very Good,No,0.23,C,213,Approved
+Renter,12.69,13500.0,Health,5.0,3,26,71000,Very Good,No,0.19,C,40,Approved
+Mortgage,6.17,20000.0,Study,0.0,12,37,50000,Excellent,No,0.4,B,147,Approved
+Renter,,1250.0,Study,0.0,8,31,14400,Good,No,0.09,C,99,Declined
+Renter,13.57,13000.0,Personal,4.0,2,26,33800,Good,Yes,0.38,C,33,Declined
+Renter,,4200.0,Debt Consolidation,2.0,2,25,65000,Very Good,No,0.06,C,25,Approved
+Mortgage,11.49,1000.0,Business,7.0,3,23,98800,Very Good,No,0.01,B,41,Approved
+Renter,13.57,8500.0,Personal,2.0,10,35,20000,Good,No,0.42,C,129,Declined
+Mortgage,7.51,8875.0,Home Improvement,1.0,2,26,38000,Excellent,No,0.23,B,30,Approved
+Unknown,13.79,15000.0,Debt Consolidation,3.0,4,22,58000,Good,Yes,0.26,D,58,Approved
+Renter,9.63,9000.0,Study,5.0,7,27,73004,Excellent,No,0.12,C,86,Declined
+Renter,5.42,8875.0,Health,3.0,15,41,30000,Excellent,No,0.3,C,182,Approved
+Renter,15.7,3000.0,Personal,1.0,10,28,34000,Fair,Yes,0.09,C,129,Declined
+Renter,15.99,29100.0,Study,6.0,3,22,70000,Fair,No,0.42,C,44,Declined
+Renter,11.83,20000.0,Health,3.0,10,27,75000,Very Good,No,0.27,C,128,Approved
+Renter,10.71,2925.0,Personal,5.0,4,22,27000,Very Good,No,0.11,C,50,Approved
+Mortgage,,6000.0,Debt Consolidation,6.0,2,22,82000,Good,No,0.07,B,29,Approved
+Mortgage,10.95,9100.0,Study,1.0,4,26,81204,Very Good,No,0.11,B,54,Approved
+Renter,15.07,5000.0,Personal,0.0,4,24,27500,Poor,Yes,0.18,C,52,Declined
+Mortgage,7.29,5400.0,Study,5.0,3,21,75000,Excellent,No,0.07,B,41,Approved
+Mortgage,12.42,10625.0,Personal,12.0,6,28,57600,Very Good,No,0.18,B,79,Approved
+Renter,12.69,2500.0,Health,5.0,4,25,45000,Very Good,No,0.06,C,53,Approved
+Mortgage,13.49,20000.0,Study,6.0,10,30,93000,Good,No,0.22,B,127,Approved
+Renter,9.38,6000.0,Health,5.0,4,21,45000,Excellent,No,0.13,C,59,Approved
+Mortgage,9.32,10000.0,Business,8.0,4,23,41004,Excellent,No,0.24,B,57,Approved
+Mortgage,6.92,10800.0,Debt Consolidation,11.0,5,28,300000,Excellent,No,0.04,B,67,Approved
+Mortgage,9.25,11000.0,Home Improvement,1.0,9,34,74256,Very Good,No,0.15,B,114,Approved
+Mortgage,,14400.0,Personal,11.0,8,27,100000,Excellent,No,0.14,B,107,Approved
+Owner,10.59,12000.0,Health,9.0,3,25,57000,Very Good,No,0.21,A,38,Approved
+Mortgage,14.61,14500.0,Health,5.0,2,21,26000,Fair,Yes,0.56,B,27,Declined
+Renter,14.84,2500.0,Business,6.0,8,27,22708,Fair,Yes,0.11,C,99,Declined
+Renter,12.92,7500.0,Study,1.0,6,33,44000,Fair,Yes,0.17,C,76,Declined
+Renter,11.49,24000.0,Health,3.0,6,30,90000,Very Good,No,0.27,C,74,Approved
+Renter,7.51,10000.0,Home Improvement,2.0,7,34,72000,Excellent,No,0.14,C,93,Approved
+Mortgage,,5000.0,Debt Consolidation,6.0,15,38,67870,Very Good,No,0.07,B,187,Approved
+Mortgage,14.96,6000.0,Personal,5.0,15,40,50000,Fair,No,0.12,B,187,Approved
+Renter,8.94,5000.0,Personal,8.0,17,40,16800,Excellent,No,0.3,C,214,Declined
+Renter,10.38,8000.0,Business,4.0,2,25,45000,Very Good,No,0.18,C,32,Approved
+Renter,17.58,13250.0,Home Improvement,7.0,6,31,29000,Fair,No,0.46,C,73,Declined
+Mortgage,13.23,7000.0,Business,7.0,2,23,55000,Good,Yes,0.13,B,35,Approved
+Renter,10.37,8000.0,Health,6.0,2,25,51996,Very Good,No,0.15,C,35,Approved
+Renter,6.91,6000.0,Business,5.0,7,30,33600,Excellent,No,0.18,C,95,Approved
+Renter,14.91,6000.0,Personal,2.0,5,27,33600,Fair,Yes,0.18,C,66,Declined
+Renter,13.16,6000.0,Health,2.0,9,30,47581,Good,Yes,0.13,C,119,Approved
+Renter,16.49,6000.0,Health,2.0,8,27,18835,Fair,Yes,0.32,C,99,Declined
+Mortgage,11.12,18000.0,Business,4.0,12,40,550000,Very Good,No,0.03,B,147,Approved
+Renter,12.99,3200.0,Home Improvement,,2,25,33000,Good,Yes,0.1,C,29,Declined
+Renter,11.58,17000.0,Debt Consolidation,3.0,4,23,52000,Very Good,No,0.33,C,52,Declined
+Renter,13.99,18000.0,Health,4.0,7,27,102616,Good,Yes,0.15,C,91,Declined
+Renter,5.42,6000.0,Personal,,8,30,24000,Excellent,No,0.25,C,98,Approved
+Mortgage,15.7,25000.0,Health,9.0,2,25,221850,Fair,No,0.1,B,33,Declined
+Renter,12.21,2063599200.0000002,Business,1.0,5,27,61000,Very Good,No,0.2,C,68,Approved
+Mortgage,9.25,20000.0,Health,2.0,13,41,135000,Very Good,No,0.15,B,165,Approved
+Renter,8.0,9000.0,Study,9.0,4,26,51840,Excellent,No,0.17,C,51,Approved
+Renter,7.68,3600.0,Personal,3.0,13,39,30500,Excellent,No,0.12,C,166,Approved
+Renter,,2500.0,Debt Consolidation,0.0,4,21,42500,Very Good,No,0.06,C,57,Approved
+Owner,12.84,8000.0,Health,2.0,4,22,69996,Good,Yes,0.11,A,57,Approved
+Mortgage,7.37,3000.0,Personal,17.0,9,33,39504,Excellent,No,0.08,B,116,Approved
+Renter,17.14,9600.0,Study,5.0,7,27,78000,Poor,Yes,0.12,C,89,Approved
+Renter,14.54,9750.0,Health,1.0,9,31,33000,Fair,Yes,0.3,C,112,Declined
+Mortgage,14.62,25000.0,Debt Consolidation,19.0,10,35,148000,Fair,Yes,0.17,B,127,Declined
+Mortgage,13.11,8400.0,Personal,9.0,6,30,49641,Good,Yes,0.17,B,81,Approved
+Mortgage,13.79,4000.0,Business,1.0,8,28,64500,Good,Yes,0.06,B,102,Declined
+Mortgage,7.68,5400.0,Debt Consolidation,11.0,4,26,34515,Excellent,No,0.16,B,50,Approved
+Mortgage,13.49,16000.0,Personal,11.0,13,43,49578,Good,Yes,0.32,B,167,Approved
+Mortgage,14.09,22000.0,Home Improvement,0.0,6,27,65000,Fair,Yes,0.34,B,83,Approved
+Mortgage,7.9,5600.0,Home Improvement,22.0,14,38,192000,Excellent,No,0.03,B,179,Approved
+Mortgage,9.91,12000.0,Home Improvement,9.0,2,25,42000,Very Good,No,0.29,B,28,Approved
+Mortgage,11.99,15000.0,Debt Consolidation,6.0,6,28,60000,Very Good,No,0.25,B,74,Approved
+Mortgage,13.49,10000.0,Health,2.0,4,24,70000,Good,No,0.14,B,57,Approved
+Mortgage,17.04,8200.0,Debt Consolidation,4.0,7,29,66000,Poor,Yes,0.12,B,86,Declined
+Renter,11.36,6500.0,Study,0.0,2,24,24000,Very Good,No,0.27,C,35,Approved
+Renter,18.79,1500.0,Study,0.0,3,22,24000,Poor,Yes,0.06,C,41,Declined
+Renter,11.49,3000.0,Business,2.0,8,34,31704,Very Good,No,0.09,C,104,Approved
+Mortgage,14.79,3375.0,Study,5.0,8,32,101000,Good,No,0.03,B,101,Approved
+Owner,5.79,8000.0,Personal,0.0,3,23,24000,Excellent,No,0.33,A,44,Approved
+Mortgage,7.9,16000.0,Study,0.0,7,27,110000,Excellent,No,0.15,B,95,Approved
+Renter,14.27,7000.0,Home Improvement,6.0,9,28,49900,Good,No,0.14,C,114,Declined
+Renter,16.77,5600.0,Health,9.0,4,25,34800,Fair,No,0.16,C,57,Declined
+Renter,12.18,15000.0,Health,5.0,4,25,49000,Very Good,No,0.31,C,56,Declined
+Mortgage,7.88,17000.0,Study,11.0,6,27,73000,Excellent,No,0.23,B,81,Approved
+Renter,7.91,14000.0,Personal,5.0,8,31,45000,Excellent,No,0.31,C,101,Declined
+Renter,13.99,5000.0,Personal,3.0,3,26,42000,Good,No,0.12,C,43,Declined
+Renter,11.58,9000.0,Home Improvement,2.0,5,33,69996,Very Good,No,0.13,C,62,Approved
+Renter,10.99,8000.0,Personal,5.0,8,30,27996,Very Good,No,0.29,C,100,Approved
+Renter,12.53,25000.0,Health,3.0,5,32,227500,Good,No,0.11,C,68,Approved
+Renter,6.92,8000.0,Personal,6.0,4,22,91000,Excellent,No,0.09,C,59,Approved
+Mortgage,11.49,4000.0,Business,3.0,7,27,75000,Very Good,No,0.05,B,93,Approved
+Renter,13.93,5000.0,Business,2.0,4,23,32000,Poor,No,0.16,C,54,Declined
+Mortgage,5.99,9000.0,Personal,17.0,17,41,55000,Excellent,No,0.16,B,215,Approved
+Mortgage,13.49,3250.0,Personal,6.0,4,22,55000,Good,Yes,0.06,B,59,Approved
+Owner,12.99,12000.0,Business,6.0,11,38,110000,Good,No,0.11,A,136,Approved
+Mortgage,11.11,6500.0,Personal,8.0,3,24,98000,Very Good,No,0.07,B,37,Approved
+Renter,15.28,12000.0,Health,5.0,2,24,59000,Fair,Yes,0.2,C,25,Declined
+Renter,11.86,4275.0,Study,0.0,4,23,30000,Very Good,No,0.14,C,51,Approved
+Renter,14.72,20000.0,Personal,3.0,5,30,58000,Good,No,0.34,C,61,Declined
+Owner,14.26,11000.0,Business,10.0,10,32,307000,Good,Yes,0.04,A,124,Approved
+Mortgage,8.94,15000.0,Debt Consolidation,6.0,3,22,100000,Excellent,No,0.15,B,37,Approved
+Owner,,7500.0,Study,6.0,4,22,26886,Good,Yes,0.28,A,53,Approved
+Owner,11.58,10000.0,Business,1.0,2,22,62000,Very Good,No,0.16,A,31,Approved
+Mortgage,7.88,15000.0,Health,8.0,4,26,85000,Excellent,No,0.18,B,50,Approved
+Renter,13.22,12000.0,Health,0.0,7,27,26237,Good,No,0.46,C,92,Declined
+Mortgage,7.51,14500.0,Health,7.0,2,23,97600,Excellent,No,0.15,B,34,Approved
+Renter,12.68,5525.0,Health,12.0,9,28,56004,Good,No,0.1,C,112,Approved
+Renter,11.99,10000.0,Study,4.0,4,23,33000,Very Good,No,0.3,C,58,Approved
+Renter,5.79,6500.0,Business,2.0,3,21,40116,Excellent,No,0.16,C,47,Approved
+Owner,5.42,6425.0,Business,13.0,8,28,38000,Excellent,No,0.17,A,102,Approved
+Renter,9.91,7500.0,Personal,3.0,4,22,31200,Very Good,No,0.24,C,55,Approved
+Mortgage,13.49,3500.0,Business,13.0,6,29,118374,Good,Yes,0.03,B,74,Approved
+Mortgage,12.68,8000.0,Study,7.0,4,23,114000,Good,No,0.07,B,51,Approved
+Renter,6.62,11200.0,Health,,4,22,52000,Excellent,No,0.22,C,52,Approved
+Renter,13.85,16000.0,Health,8.0,3,24,51000,Good,No,0.31,C,43,Declined
+Mortgage,17.27,1500.0,Debt Consolidation,8.0,2,24,132000,Fair,No,0.01,B,26,Declined
+Mortgage,,24000.0,Health,15.0,10,31,190000,Good,No,0.13,B,127,Approved
+Renter,11.71,20000.0,Debt Consolidation,12.0,6,28,57000,Very Good,No,0.35,C,76,Declined
+Mortgage,14.27,14000.0,Health,0.0,8,29,38400,Good,Yes,0.36,B,98,Approved
+Renter,7.74,5500.0,Personal,1.0,6,30,40000,Excellent,No,0.14,C,81,Approved
+Mortgage,,4000.0,Debt Consolidation,5.0,4,25,50000,Excellent,No,0.08,B,52,Approved
+Mortgage,6.91,12000.0,Health,5.0,6,28,80004,Excellent,No,0.15,B,74,Approved
+Renter,7.9,7000.0,Study,4.0,9,35,33000,Excellent,No,0.21,C,113,Declined
+Renter,7.51,9800.0,Health,8.0,4,24,82500,Excellent,No,0.12,C,57,Approved
+Mortgage,10.78,4000.0,Home Improvement,11.0,5,29,50000,Good,No,0.08,B,61,Approved
+Renter,13.99,3500.0,Personal,5.0,10,27,22800,Good,Yes,0.15,C,126,Declined
+Mortgage,11.49,6400.0,Debt Consolidation,7.0,3,23,36000,Very Good,No,0.18,B,47,Approved
+Mortgage,15.21,7500.0,Study,0.0,3,26,175000,Fair,No,0.04,B,44,Approved
+Renter,9.7,6000.0,Business,9.0,4,25,39996,Very Good,No,0.15,C,50,Approved
+Mortgage,14.27,30000.0,Personal,3.0,3,26,60000,Good,Yes,0.5,B,43,Approved
+Renter,,4000.0,Study,5.0,4,22,63000,Very Good,No,0.06,C,59,Approved
+Mortgage,11.86,5600.0,Study,10.0,6,27,53004,Very Good,No,0.11,B,77,Approved
+Mortgage,7.9,10200.0,Study,3.0,2,26,132000,Excellent,No,0.08,B,35,Approved
+Mortgage,13.85,13000.0,Personal,6.0,3,22,55000,Good,No,0.24,B,46,Approved
+Mortgage,10.62,10000.0,Study,5.0,2,21,34000,Very Good,No,0.29,B,27,Declined
+Mortgage,10.99,6000.0,Personal,1.0,2,24,65000,Very Good,No,0.09,B,29,Approved
+Owner,16.45,15000.0,Study,3.0,5,27,69830,Poor,Yes,0.21,A,61,Approved
+Mortgage,10.0,5000.0,Home Improvement,12.0,16,43,50000,Very Good,No,0.1,B,198,Approved
+Renter,11.86,5100.0,Health,5.0,7,29,47133,Very Good,No,0.11,C,85,Approved
+Renter,11.97,7500.0,Study,8.0,4,23,57000,Good,No,0.13,C,58,Approved
+Renter,10.75,4800.0,Debt Consolidation,7.0,2,23,69000,Very Good,No,0.07,C,29,Approved
+Renter,7.49,6000.0,Personal,0.0,4,24,50000,Excellent,No,0.12,C,49,Approved
+Renter,10.65,5000.0,Business,3.0,5,31,35000,Very Good,No,0.14,C,65,Approved
+Mortgage,5.42,5300.0,Home Improvement,10.0,2,26,40000,Excellent,No,0.13,B,33,Approved
+Renter,19.47,20000.0,Personal,13.0,15,41,150000,Very Poor,No,0.13,C,189,Approved
+Mortgage,18.39,10000.0,Study,17.0,5,33,163400,Poor,No,0.06,B,67,Declined
+Mortgage,7.14,5400.0,Study,0.0,9,32,50000,Excellent,No,0.11,B,109,Approved
+Mortgage,14.54,9000.0,Home Improvement,31.0,17,48,70000,Fair,No,0.13,B,214,Approved
+Renter,13.22,15000.0,Health,2.0,3,24,51996,Good,No,0.29,C,46,Approved
+Mortgage,,6000.0,Business,6.0,3,22,52000,Fair,Yes,0.12,B,46,Declined
+Mortgage,7.88,2063599200.0000002,Study,7.0,4,23,119496,Excellent,No,0.1,B,50,Approved
+Mortgage,6.03,3000.0,Personal,6.0,3,22,42000,Excellent,No,0.07,B,41,Approved
+Renter,13.22,5000.0,Health,4.0,14,38,39500,Good,No,0.13,C,169,Approved
+Renter,10.25,2400.0,Business,1.0,9,30,21360,Very Good,No,0.11,C,117,Approved
+Renter,7.29,10000.0,Personal,5.0,2,26,99000,Excellent,No,0.1,C,26,Approved
+Mortgage,7.14,5000.0,Home Improvement,2.0,5,30,98000,Excellent,No,0.05,B,64,Approved
+Mortgage,11.83,19000.0,Debt Consolidation,0.0,7,29,200004,Very Good,No,0.09,B,85,Approved
+Mortgage,10.99,7000.0,Home Improvement,0.0,3,24,145000,Very Good,No,0.05,B,37,Approved
+Mortgage,16.82,1576360500.0000002,Study,5.0,4,23,105000,Poor,Yes,0.14,B,50,Approved
+Renter,,12000.0,Business,3.0,3,24,61000,Very Good,No,0.2,C,42,Approved
+Renter,7.49,8000.0,Personal,5.0,6,31,36996,Excellent,No,0.22,C,79,Approved
+Mortgage,10.71,10000.0,Study,0.0,7,32,188000,Very Good,No,0.05,B,90,Declined
+Renter,,7500.0,Study,2.0,4,23,116700,Good,No,0.06,C,59,Approved
+Renter,14.09,6500.0,Health,4.0,2,26,25000,Fair,Yes,0.26,C,33,Declined
+Renter,,12000.0,Health,6.0,12,42,70000,Very Good,No,0.17,C,150,Approved
+Mortgage,7.29,17500.0,Business,11.0,7,27,43000,Excellent,No,0.41,B,89,Approved
+Mortgage,10.65,11000.0,Health,20.0,11,36,82500,Very Good,No,0.13,B,138,Approved
+Renter,11.49,2000.0,Business,9.0,3,26,30000,Very Good,No,0.07,C,40,Approved
+Owner,13.49,12000.0,Study,2.0,4,24,79768,Good,Yes,0.15,A,51,Approved
+Renter,15.57,5000.0,Home Improvement,8.0,4,25,60000,Fair,No,0.08,C,55,Approved
+Renter,11.49,24000.0,Health,7.0,3,24,130000,Very Good,No,0.18,C,44,Approved
+Renter,8.49,6000.0,Personal,3.0,4,26,70000,Excellent,No,0.09,C,58,Approved
+Renter,,16000.0,Health,9.0,16,39,43680,Very Good,No,0.37,C,203,Declined
+Mortgage,15.62,14825.0,Debt Consolidation,6.0,3,22,52000,Fair,No,0.29,B,43,Declined
+Renter,14.59,25000.0,Home Improvement,0.0,12,36,69000,Fair,No,0.36,C,150,Declined
+Mortgage,6.62,4500.0,Debt Consolidation,13.0,11,39,125000,Excellent,No,0.04,B,138,Approved
+Renter,11.48,22000.0,Personal,8.0,3,25,77650,Very Good,No,0.28,C,40,Declined
+Renter,6.62,6000.0,Debt Consolidation,5.0,4,26,24000,Excellent,No,0.25,C,55,Approved
+Renter,12.53,10000.0,Personal,3.0,7,33,21600,Very Good,No,0.46,C,92,Declined
+Mortgage,,15000.0,Home Improvement,2.0,6,28,110004,Very Good,No,0.14,B,74,Approved
+Renter,7.29,1313633750.0,Health,6.0,2,22,62000,Excellent,No,0.2,C,30,Approved
+Renter,12.18,18000.0,Debt Consolidation,4.0,4,24,110000,Very Good,No,0.16,C,53,Approved
+Renter,6.92,10500.0,Business,1.0,3,24,85000,Excellent,No,0.12,C,40,Approved
+Mortgage,12.87,6900.0,Debt Consolidation,0.0,9,27,39000,Good,No,0.18,B,109,Approved
+Mortgage,13.06,20000.0,Home Improvement,0.0,8,34,75000,Good,No,0.27,B,102,Approved
+Renter,5.99,8175.0,Study,10.0,17,45,140000,Excellent,No,0.06,C,212,Approved
+Owner,11.11,17500.0,Business,0.0,4,23,38000,Very Good,No,0.46,A,49,Approved
+Mortgage,7.88,15000.0,Home Improvement,8.0,4,25,118000,Excellent,No,0.13,B,59,Approved
+Mortgage,7.14,10000.0,Business,13.0,8,29,67000,Excellent,No,0.15,B,105,Approved
+Mortgage,15.95,3025.0,Personal,2.0,2,26,27000,Fair,No,0.11,B,27,Approved
+Mortgage,6.54,20000.0,Personal,2.0,4,24,80000,Excellent,No,0.25,B,59,Approved
+Renter,10.37,12000.0,Personal,6.0,3,22,59000,Very Good,No,0.2,C,38,Approved
+Renter,10.65,6400.0,Debt Consolidation,2.0,2,24,65000,Very Good,No,0.1,C,32,Approved
+Renter,8.9,12000.0,Debt Consolidation,2.0,7,34,30000,Excellent,No,0.4,C,87,Declined
+Renter,,23975.0,Home Improvement,8.0,2,24,43896,Very Good,No,0.55,C,29,Declined
+Mortgage,10.59,1000.0,Personal,15.0,29,59,55000,Very Good,No,0.02,B,357,Approved
+Renter,14.54,4000.0,Home Improvement,1.0,3,25,29000,Fair,Yes,0.14,C,46,Declined
+Mortgage,7.88,15000.0,Health,0.0,6,28,90000,Excellent,No,0.17,B,78,Approved
+Renter,,3300.0,Personal,1.0,8,28,57600,Very Good,No,0.06,C,102,Approved
+Renter,,3300.0,Health,1.0,13,39,40000,Excellent,No,0.08,C,157,Approved
+Mortgage,13.48,3200.0,Business,6.0,4,22,30000,Good,No,0.11,B,50,Approved
+Renter,16.77,12000.0,Personal,8.0,3,24,48000,Fair,Yes,0.25,C,46,Approved
+Renter,7.43,7000.0,Business,0.0,13,41,43000,Excellent,No,0.16,C,166,Approved
+Mortgage,16.49,4346933500.0,Health,3.0,15,44,140787,Fair,Yes,0.21,B,181,Declined
+Renter,10.38,6000.0,Personal,3.0,6,31,55000,Very Good,No,0.11,C,82,Approved
+Mortgage,8.9,7200.0,Personal,0.0,2,22,65000,Excellent,No,0.11,B,32,Approved
+Renter,10.74,24000.0,Personal,,2,25,52000,Very Good,No,0.46,C,35,Declined
+Renter,10.95,15000.0,Debt Consolidation,8.0,3,24,105000,Very Good,No,0.14,C,38,Approved
+Mortgage,8.94,12800.0,Debt Consolidation,4.0,7,35,34000,Excellent,No,0.38,B,86,Approved
+Renter,7.51,6500.0,Business,6.0,3,23,80000,Excellent,No,0.08,C,47,Approved
+Owner,7.14,7000.0,Study,0.0,3,23,24000,Excellent,No,0.29,A,43,Approved
+Renter,10.99,19000.0,Health,3.0,4,23,72000,Very Good,No,0.26,C,52,Approved
+Mortgage,11.12,24000.0,Debt Consolidation,4.0,10,27,80000,Very Good,No,0.3,B,126,Approved
+Renter,15.99,8675.0,Study,7.0,2,25,42000,Fair,Yes,0.21,C,33,Approved
+Renter,13.48,14000.0,Debt Consolidation,2.0,6,28,41400,Good,No,0.34,C,80,Declined
+Owner,,1000.0,Health,6.0,2,22,39000,Excellent,No,0.03,A,33,Approved
+Mortgage,6.76,3500.0,Business,3.0,3,24,52000,Excellent,No,0.07,B,39,Approved
+Mortgage,7.9,8875.0,Study,12.0,7,29,52044,Excellent,No,0.17,B,95,Declined
+Mortgage,10.0,8000.0,Home Improvement,9.0,2,25,50000,Very Good,No,0.16,B,30,Approved
+Renter,14.96,4800.0,Health,3.0,2,25,49000,Fair,Yes,0.1,C,32,Declined
+Owner,13.49,4000.0,Home Improvement,14.0,10,30,36000,Good,No,0.11,A,126,Approved
+Renter,10.65,6000.0,Debt Consolidation,6.0,4,22,69500,Very Good,No,0.09,C,59,Approved
+Mortgage,13.57,18000.0,Personal,1.0,9,27,75000,Good,Yes,0.24,B,119,Approved
+Renter,7.51,5000.0,Health,0.0,5,31,20743,Excellent,No,0.24,C,71,Approved
+Renter,15.27,15000.0,Business,6.0,2,25,185000,Good,No,0.08,C,28,Approved
+Renter,9.07,14400.0,Study,1.0,8,28,85000,Excellent,No,0.17,C,100,Approved
+Mortgage,12.69,382148000.0,Personal,12.0,5,28,43500,Very Good,No,0.09,B,70,Approved
+Mortgage,,6200.0,Health,16.0,13,36,56900,Extremely Poor,No,0.11,B,167,Declined
+Renter,10.0,13600.0,Debt Consolidation,2.0,3,25,68000,Very Good,No,0.2,C,40,Approved
+Mortgage,17.74,20000.0,Business,10.0,2,26,188000,Poor,No,0.11,B,29,Declined
+Renter,6.03,12000.0,Debt Consolidation,9.0,6,31,50000,Excellent,No,0.24,C,76,Approved
+Mortgage,6.03,8000.0,Debt Consolidation,2.0,4,25,55000,Excellent,No,0.15,B,52,Approved
+Renter,13.43,4000.0,Business,0.0,14,41,42000,Good,No,0.1,C,174,Approved
+Renter,13.49,2500.0,Study,3.0,2,26,43000,Good,No,0.06,C,34,Approved
+Renter,11.34,11000.0,Personal,2.0,9,27,52000,Good,No,0.21,C,112,Approved
+Mortgage,8.0,1000.0,Study,4.0,4,23,68000,Excellent,No,0.01,B,58,Approved
+Renter,6.03,12000.0,Health,4.0,3,23,75000,Excellent,No,0.16,C,44,Approved
+Renter,7.88,1125425860.0,Study,7.0,3,26,69000,Excellent,No,0.09,C,42,Approved
+Mortgage,9.63,7700.0,Debt Consolidation,0.0,11,48,80000,Excellent,No,0.1,B,134,Approved
+Mortgage,11.59,7500.0,Personal,5.0,6,30,100000,Good,Yes,0.07,B,82,Approved
+Mortgage,5.42,3500.0,Debt Consolidation,,4,26,57550,Excellent,No,0.06,B,57,Approved
+Mortgage,14.96,2751465600.0,Study,0.0,3,21,102000,Fair,No,0.18,B,46,Approved
+Renter,10.59,5075.0,Health,0.0,12,43,22800,Very Good,No,0.22,C,150,Approved
+Renter,6.99,14000.0,Personal,5.0,3,21,70000,Excellent,No,0.2,C,40,Approved
+Renter,5.42,2000.0,Study,12.0,5,28,30000,Excellent,No,0.07,C,65,Approved
+Mortgage,7.51,5000.0,Health,2.0,7,33,110000,Excellent,No,0.05,B,85,Approved
+Renter,11.89,10000.0,Debt Consolidation,1.0,3,25,45000,Very Good,No,0.22,C,37,Approved
+Mortgage,11.49,3000.0,Debt Consolidation,6.0,3,22,30000,Very Good,No,0.1,B,42,Approved
+Renter,20.3,13000.0,Home Improvement,5.0,5,31,36000,Poor,Yes,0.36,C,69,Declined
+Mortgage,13.49,3600.0,Business,6.0,15,45,43000,Good,No,0.08,B,183,Approved
+Renter,,20000.0,Home Improvement,0.0,4,25,108000,Good,No,0.19,C,59,Approved
+Mortgage,12.69,11000.0,Home Improvement,3.0,2,26,46000,Very Good,No,0.24,B,34,Approved
+Renter,11.71,2000.0,Study,2.0,2,26,30000,Very Good,No,0.07,C,26,Declined
+Mortgage,14.96,24000.0,Home Improvement,3.0,7,30,265000,Fair,Yes,0.09,B,88,Approved
+Renter,10.65,10000.0,Health,6.0,3,23,27000,Very Good,No,0.37,C,38,Declined
+Renter,9.99,4500.0,Health,2.0,4,23,25596,Very Good,No,0.18,C,50,Approved
+Owner,17.19,4000.0,Home Improvement,,4,25,31200,Poor,Yes,0.13,A,55,Declined
+Mortgage,,7000.0,Study,1.0,4,25,49000,Good,No,0.14,B,51,Declined
+Mortgage,14.96,9600.0,Study,6.0,4,22,67350,Fair,No,0.14,B,54,Approved
+Renter,12.18,12000.0,Home Improvement,8.0,7,30,110000,Very Good,No,0.11,C,86,Approved
+Renter,11.49,12250.0,Debt Consolidation,0.0,2,24,36000,Very Good,No,0.34,C,25,Declined
+Renter,12.99,5000.0,Home Improvement,3.0,4,24,73500,Good,No,0.07,C,58,Approved
+Renter,6.03,3000.0,Study,2.0,3,24,30000,Excellent,No,0.1,C,42,Approved
+Renter,15.58,10000.0,Study,4.0,2,23,25920,Fair,No,0.39,C,31,Declined
+Renter,12.42,30000.0,Health,2.0,9,29,80000,Very Good,No,0.38,C,116,Declined
+Renter,15.65,20000.0,Personal,1.0,3,25,54000,Fair,Yes,0.37,C,39,Declined
+Renter,15.27,2850.0,Health,3.0,4,22,19200,Good,Yes,0.15,C,51,Approved
+Mortgage,15.21,12000.0,Health,3.0,6,27,83300,Fair,No,0.12,B,79,Declined
+Renter,,15000.0,Health,5.0,3,24,120000,Excellent,No,0.13,C,38,Approved
+Mortgage,6.99,10000.0,Home Improvement,1.0,5,27,51000,Excellent,No,0.2,B,64,Declined
+Owner,16.02,4200.0,Personal,,13,36,49000,Fair,Yes,0.09,A,162,Approved
+Mortgage,11.36,9250.0,Personal,15.0,8,34,84000,Very Good,No,0.11,B,105,Approved
+Renter,5.42,6000.0,Health,10.0,4,26,55000,Excellent,No,0.11,C,56,Approved
+Mortgage,7.49,5000.0,Health,6.0,2,22,73000,Excellent,No,0.07,B,32,Approved
+Renter,,4000.0,Personal,6.0,2,23,32535,Very Good,No,0.12,C,33,Approved
+Mortgage,10.74,8000.0,Personal,8.0,3,24,103000,Very Good,No,0.08,B,43,Approved
+Owner,12.53,24250.0,Business,5.0,3,24,101000,Very Good,No,0.24,A,39,Approved
+Mortgage,7.9,8500.0,Study,,5,29,25000,Excellent,No,0.34,B,63,Approved
+Renter,,4000.0,Debt Consolidation,2.0,4,24,39000,Fair,Yes,0.1,C,57,Declined
+Mortgage,12.42,21600.0,Debt Consolidation,6.0,8,29,88055,Very Good,No,0.25,B,104,Approved
+Renter,8.94,3400.0,Study,7.0,3,22,28404,Excellent,No,0.12,C,46,Approved
+Renter,7.66,2225.0,Debt Consolidation,0.0,3,21,52500,Excellent,No,0.04,C,42,Approved
+Owner,10.38,8000.0,Study,0.0,4,25,40000,Very Good,No,0.2,A,59,Approved
+Mortgage,6.76,3000.0,Business,1.0,3,26,35000,Excellent,No,0.09,B,38,Approved
+Renter,6.91,1375.0,Business,0.0,11,38,37500,Excellent,No,0.04,C,138,Approved
+Renter,11.89,9000.0,Study,14.0,11,43,85000,Very Good,No,0.11,C,137,Approved
+Renter,7.9,7175.0,Business,4.0,14,37,60000,Excellent,No,0.12,C,174,Approved
+Renter,16.49,20000.0,Business,2.0,2,24,54000,Fair,No,0.37,C,28,Declined
+Mortgage,8.49,15000.0,Home Improvement,12.0,5,31,54000,Excellent,No,0.28,B,70,Declined
+Mortgage,14.72,5000.0,Health,13.0,8,29,44991,Good,Yes,0.11,B,101,Approved
+Renter,10.74,2000.0,Debt Consolidation,3.0,2,25,48000,Very Good,No,0.04,C,25,Approved
+Unknown,13.79,15000.0,Business,3.0,2,22,58000,Good,Yes,0.26,D,29,Approved
+Renter,12.68,3500.0,Health,4.0,16,42,35010,Good,Yes,0.1,C,198,Approved
+Renter,12.42,8000.0,Study,2.0,2,23,30000,Very Good,No,0.27,C,26,Approved
+Renter,12.04,15000.0,Personal,1.0,2,23,47000,Good,Yes,0.32,C,31,Declined
+Renter,,3725.0,Business,12.0,17,46,140000,Very Good,No,0.03,C,214,Approved
+Mortgage,17.74,20000.0,Business,2.0,2,21,67400,Poor,Yes,0.3,B,28,Declined
+Renter,11.12,24250.0,Personal,1.0,5,30,32004,Very Good,No,0.76,C,66,Declined
+Renter,13.43,2300.0,Debt Consolidation,4.0,6,29,62000,Good,Yes,0.04,C,82,Declined
+Mortgage,9.99,2000.0,Business,12.0,10,28,126000,Very Good,No,0.02,B,127,Approved
+Renter,12.99,8000.0,Personal,7.0,4,26,62000,Good,No,0.13,C,49,Approved
+Mortgage,7.29,7200.0,Home Improvement,6.0,8,34,106000,Excellent,No,0.07,B,107,Approved
+Mortgage,14.65,15000.0,Study,7.0,10,28,70000,Good,No,0.21,B,130,Approved
+Renter,14.27,10000.0,Business,7.0,8,27,90000,Good,Yes,0.11,C,103,Approved
+Renter,19.29,10000.0,Personal,0.0,3,24,30000,Poor,Yes,0.33,C,39,Declined
+Renter,13.98,4800.0,Personal,4.0,2,23,45000,Good,Yes,0.11,C,25,Approved
+Renter,6.91,7000.0,Study,3.0,4,22,60000,Excellent,No,0.12,C,56,Approved
+Renter,12.87,6000.0,Debt Consolidation,0.0,4,25,65004,Good,No,0.09,C,53,Approved
+Mortgage,9.62,10750.0,Home Improvement,10.0,2,26,52000,Very Good,No,0.21,B,31,Approved
+Mortgage,6.54,20000.0,Business,123.0,4,21,192000,Excellent,No,0.1,B,56,Approved
+Renter,11.83,12800.0,Health,0.0,9,27,44640,Very Good,No,0.29,C,116,Approved
+Renter,15.99,7800.0,Debt Consolidation,1.0,3,23,59004,Fair,Yes,0.13,C,45,Declined
+Renter,10.95,10000.0,Business,13.0,6,33,66500,Very Good,No,0.15,C,76,Approved
+Renter,10.71,10000.0,Business,1.0,6,31,50000,Very Good,No,0.2,C,79,Approved
+Mortgage,13.49,14000.0,Debt Consolidation,10.0,2,26,69996,Good,No,0.2,B,28,Approved
+Mortgage,17.04,20000.0,Home Improvement,2.0,3,25,62000,Poor,No,0.32,B,39,Declined
+Mortgage,13.61,19750.0,Debt Consolidation,8.0,2,24,90000,Good,Yes,0.22,B,30,Approved
+Mortgage,6.54,20000.0,Business,9.0,3,25,90000,Excellent,No,0.22,B,45,Approved
+Mortgage,12.23,10750.0,Debt Consolidation,3.0,8,35,78750,Good,No,0.14,B,107,Approved
+Mortgage,8.9,6000.0,Business,16.0,9,32,44500,Excellent,No,0.13,B,110,Approved
+Renter,11.49,3200.0,Study,3.0,4,23,31000,Very Good,No,0.1,C,55,Approved
+Mortgage,15.62,6000.0,Health,1.0,3,24,29000,Fair,No,0.21,B,41,Declined
+Renter,12.73,6000.0,Health,2.0,10,32,27000,Good,No,0.22,C,125,Approved
+Renter,10.65,6000.0,Study,1.0,8,27,45000,Very Good,No,0.13,C,102,Approved
+Mortgage,8.38,7200.0,Study,3.0,3,23,175000,Excellent,No,0.04,B,41,Approved
+Mortgage,14.35,10000.0,Home Improvement,0.0,9,29,125000,Good,Yes,0.08,B,119,Approved
+Mortgage,6.99,12000.0,Home Improvement,3.0,13,39,108000,Excellent,No,0.11,B,157,Declined
+Renter,11.97,9000.0,Debt Consolidation,2.0,9,27,57500,Good,Yes,0.16,C,117,Approved
+Mortgage,,16000.0,Health,5.0,3,26,40000,Excellent,No,0.4,B,47,Approved
+Owner,14.09,9600.0,Study,8.0,10,27,51996,Fair,No,0.18,A,127,Approved
+Mortgage,6.99,10000.0,Debt Consolidation,2.0,4,23,34000,Excellent,No,0.29,B,57,Approved
+Renter,10.37,14000.0,Health,2.0,13,40,82000,Very Good,No,0.17,C,165,Approved
+Mortgage,7.49,19200.0,Debt Consolidation,11.0,7,27,65000,Excellent,No,0.3,B,92,Approved
+Mortgage,,20000.0,Debt Consolidation,7.0,9,27,150000,Very Good,No,0.13,B,110,Approved
+Mortgage,,12000.0,Home Improvement,4.0,3,26,26000,Very Good,No,0.46,B,46,Approved
+Owner,,5425.0,Personal,5.0,5,30,150000,Fair,Yes,0.04,A,63,Approved
+Mortgage,10.62,21000.0,Home Improvement,1.0,7,27,130000,Very Good,No,0.16,B,94,Approved
+Mortgage,11.71,5500.0,Study,7.0,3,22,72060,Very Good,No,0.08,B,42,Approved
+Mortgage,10.36,10000.0,Debt Consolidation,3.0,2,22,70000,Very Good,No,0.14,B,26,Approved
+Owner,14.22,7350.0,Health,4.0,2,22,34800,Good,No,0.21,A,28,Approved
+Mortgage,12.73,25000.0,Debt Consolidation,12.0,8,35,60000,Good,No,0.42,B,99,Approved
+Renter,8.49,6000.0,Health,0.0,8,29,29000,Excellent,No,0.21,C,98,Declined
+Mortgage,9.91,1952776280.0000002,Debt Consolidation,12.0,5,34,38000,Very Good,No,0.34,B,61,Approved
+Renter,9.99,12000.0,Home Improvement,1.0,4,25,96000,Very Good,No,0.13,C,52,Approved
+Mortgage,8.94,6400.0,Personal,0.0,7,30,45600,Excellent,No,0.14,B,88,Approved
+Mortgage,13.16,9600.0,Personal,5.0,8,28,35000,Good,No,0.27,B,104,Approved
+Mortgage,6.91,15000.0,Personal,3.0,4,25,86004,Excellent,No,0.17,B,49,Declined
+Renter,14.09,15000.0,Personal,8.0,9,28,54996,Fair,Yes,0.27,C,115,Approved
+Renter,15.27,10500.0,Home Improvement,10.0,6,28,60000,Good,Yes,0.17,C,76,Approved
+Mortgage,,20000.0,Personal,1.0,8,28,71000,Very Good,No,0.28,B,106,Approved
+Renter,13.11,25000.0,Home Improvement,11.0,7,28,140000,Good,Yes,0.18,C,87,Approved
+Renter,6.62,6725.0,Debt Consolidation,8.0,2,23,70000,Excellent,No,0.1,C,31,Approved
+Mortgage,5.42,11500.0,Home Improvement,9.0,2,24,75000,Excellent,No,0.15,B,29,Approved
+Renter,11.49,6000.0,Study,5.0,4,22,60000,Very Good,No,0.1,C,56,Approved
+Mortgage,6.54,4500.0,Personal,15.0,6,31,85000,Excellent,No,0.05,B,78,Approved
+Renter,10.37,2750.0,Debt Consolidation,3.0,5,30,57120,Very Good,No,0.05,C,66,Approved
+Renter,10.99,4500.0,Personal,2.0,2,21,20400,Very Good,No,0.22,C,35,Approved
+Mortgage,10.38,7000.0,Health,6.0,4,22,64000,Very Good,No,0.11,B,59,Approved
+Mortgage,13.79,15000.0,Study,11.0,6,27,47380,Good,No,0.32,B,77,Approved
+Renter,12.61,7000.0,Health,5.0,2,21,29000,Fair,Yes,0.24,C,32,Declined
+Mortgage,7.4,6000.0,Personal,5.0,9,31,80000,Excellent,No,0.07,B,116,Approved
+Renter,13.23,4000.0,Personal,2.0,3,24,45000,Good,Yes,0.09,C,39,Approved
+Renter,15.96,5000.0,Health,7.0,3,23,90000,Good,Yes,0.06,C,46,Approved
+Mortgage,5.42,8400.0,Study,3.0,2,22,72000,Excellent,No,0.12,B,27,Approved
+Mortgage,7.88,1375732800.0,Personal,6.0,4,22,26004,Excellent,No,0.46,B,57,Declined
+Renter,13.11,16000.0,Home Improvement,3.0,5,29,74000,Good,Yes,0.22,C,65,Declined
+Renter,6.92,8000.0,Health,5.0,3,23,90000,Excellent,No,0.09,C,47,Approved
+Renter,8.94,5000.0,Personal,3.0,2,25,35004,Excellent,No,0.14,C,34,Approved
+Mortgage,9.63,12000.0,Health,1.0,6,29,75000,Excellent,No,0.16,B,73,Approved
+Renter,,4200.0,Debt Consolidation,9.0,5,27,71000,Very Good,No,0.06,C,66,Approved
+Renter,9.63,7750.0,Study,2.0,2,25,49000,Excellent,No,0.16,C,27,Approved
+Mortgage,9.99,6925.0,Study,7.0,15,40,27040,Very Good,No,0.26,B,182,Approved
+Renter,9.38,10500.0,Home Improvement,1.0,2,22,49000,Excellent,No,0.21,C,30,Declined
+Owner,13.22,15000.0,Business,7.0,3,23,130000,Good,Yes,0.12,A,43,Approved
+Mortgage,12.84,10800.0,Study,5.0,2,21,48000,Good,No,0.23,B,34,Approved
+Renter,16.29,6000.0,Personal,5.0,15,42,33564,Fair,No,0.18,C,185,Declined
+Mortgage,11.36,10500.0,Business,3.0,4,24,40000,Very Good,No,0.26,B,59,Approved
+Renter,6.99,2000.0,Health,1.0,5,27,69000,Excellent,No,0.03,C,62,Approved
+Renter,8.9,3600.0,Debt Consolidation,0.0,2,25,31200,Excellent,No,0.12,C,28,Approved
+Renter,14.25,15000.0,Personal,0.0,9,29,42000,Poor,No,0.36,C,116,Declined
+Mortgage,12.42,3000.0,Study,12.0,5,28,81996,Very Good,No,0.04,B,61,Approved
+Renter,10.99,8000.0,Debt Consolidation,7.0,4,23,54000,Very Good,No,0.15,C,56,Approved
+Mortgage,5.79,7000.0,Study,0.0,3,25,100000,Excellent,No,0.07,B,40,Approved
+Renter,14.96,18000.0,Home Improvement,1.0,4,24,59000,Fair,Yes,0.31,C,53,Declined
+Renter,14.91,10800.0,Home Improvement,3.0,6,27,69996,Fair,No,0.15,C,78,Approved
+Renter,7.29,8000.0,Home Improvement,1.0,10,32,66000,Excellent,No,0.12,C,130,Approved
+Mortgage,14.59,25000.0,Business,9.0,7,32,250000,Fair,No,0.1,B,92,Approved
+Mortgage,5.79,4200.0,Business,8.0,7,28,73073,Excellent,No,0.06,B,95,Approved
+Renter,9.32,2000.0,Study,5.0,3,24,56496,Excellent,No,0.04,C,47,Approved
+Renter,7.9,12000.0,Study,4.0,4,22,76000,Excellent,No,0.16,C,54,Approved
+Renter,7.51,7800.0,Personal,3.0,3,24,45000,Excellent,No,0.17,C,44,Approved
+Owner,,3000.0,Home Improvement,0.0,4,21,14400,Very Good,No,0.21,A,53,Declined
+Renter,,3500.0,Business,2.0,2,26,30000,Very Good,No,0.12,C,32,Approved
+Mortgage,11.49,1624129000.0000002,Personal,5.0,13,50,68000,Very Good,No,0.15,B,158,Approved
+Mortgage,7.29,10000.0,Health,1.0,10,28,40000,Excellent,No,0.25,B,128,Approved
+Renter,15.33,12000.0,Health,14.0,9,32,703800,Fair,Yes,0.01,C,109,Declined
+Renter,12.21,20000.0,Business,0.0,5,27,60000,Very Good,No,0.33,C,71,Declined
+Renter,,5000.0,Personal,4.0,4,25,106000,Very Good,No,0.05,C,55,Approved
+Mortgage,5.42,2500.0,Home Improvement,2.0,12,42,39996,Excellent,No,0.06,B,149,Approved
+Mortgage,7.9,6000.0,Study,5.0,5,32,139200,Excellent,No,0.04,B,69,Approved
+Owner,6.03,7000.0,Study,18.0,12,37,22800,Excellent,No,0.31,A,146,Approved
+Mortgage,7.14,8000.0,Health,9.0,8,31,48000,Excellent,No,0.17,B,103,Declined
+Renter,11.99,3600.0,Health,4.0,9,28,39500,Very Good,No,0.09,C,119,Approved
+Renter,12.99,8450.0,Study,2.0,2,22,100000,Good,Yes,0.08,C,32,Approved
+Mortgage,7.9,35000.0,Home Improvement,8.0,4,24,96000,Excellent,No,0.36,B,51,Approved
+Renter,8.94,11200.0,Study,0.0,6,33,70000,Excellent,No,0.16,C,73,Approved
+Renter,10.99,14000.0,Debt Consolidation,7.0,4,23,62000,Very Good,No,0.23,C,57,Approved
+Renter,11.48,20000.0,Home Improvement,5.0,3,25,50950,Very Good,No,0.39,C,41,Declined
+Renter,13.49,17750.0,Debt Consolidation,0.0,4,22,48000,Good,No,0.37,C,53,Declined
+Renter,12.42,5000.0,Study,4.0,6,33,22000,Very Good,No,0.23,C,83,Approved
+Mortgage,14.27,9750.0,Debt Consolidation,6.0,3,25,76248,Good,Yes,0.13,B,46,Declined
+Renter,5.79,10000.0,Debt Consolidation,7.0,7,29,32997,Excellent,No,0.3,C,93,Approved
+Renter,8.9,963012960.0000001,Health,7.0,2,22,30000,Excellent,No,0.24,C,27,Declined
+Owner,11.14,13200.0,Personal,7.0,8,27,125000,Very Good,No,0.11,A,100,Approved
+Mortgage,9.91,8000.0,Study,14.0,5,30,70000,Very Good,No,0.11,B,70,Approved
+Mortgage,5.42,6500.0,Business,,5,35,65000,Excellent,No,0.1,B,64,Approved
+Mortgage,16.49,28000.0,Business,8.0,7,30,240000,Fair,Yes,0.12,B,90,Approved
+Mortgage,11.49,25000.0,Health,6.0,3,22,110196,Very Good,No,0.23,B,40,Approved
+Mortgage,13.57,7000.0,Study,12.0,7,32,63000,Good,Yes,0.11,B,88,Approved
+Renter,13.48,10000.0,Study,18.0,6,34,41300,Good,Yes,0.24,C,78,Approved
+Mortgage,7.29,9800.0,Study,,4,23,27600,Excellent,No,0.36,B,53,Approved
+Mortgage,15.62,17300.0,Study,6.0,4,22,56400,Fair,No,0.31,B,54,Approved
+Mortgage,9.91,5225.0,Health,1.0,4,24,55000,Very Good,No,0.1,B,50,Approved
+Renter,15.28,3200.0,Personal,3.0,2,22,18996,Fair,No,0.17,C,28,Declined
+Mortgage,5.42,5000.0,Home Improvement,2.0,5,27,62000,Excellent,No,0.08,B,71,Approved
+Mortgage,13.16,12000.0,Health,5.0,4,26,58000,Good,Yes,0.21,B,55,Approved
+Renter,,8400.0,Personal,8.0,4,25,34000,Fair,No,0.25,C,59,Approved
+Mortgage,9.88,1800.0,Personal,5.0,21,54,79864,Very Good,No,0.02,B,259,Approved
+Mortgage,10.74,4800.0,Debt Consolidation,3.0,4,25,48000,Very Good,No,0.1,B,56,Approved
+Renter,14.96,12000.0,Home Improvement,1.0,4,23,78000,Fair,No,0.15,C,53,Declined
+Renter,7.51,4000.0,Health,2.0,14,41,21600,Excellent,No,0.19,C,179,Approved
+Mortgage,7.14,2500.0,Business,8.0,6,29,175000,Excellent,No,0.01,B,78,Approved
+Mortgage,17.27,12700.0,Health,6.0,5,30,37400,Fair,No,0.34,B,66,Declined
+Owner,6.54,10000.0,Home Improvement,9.0,3,25,123996,Excellent,No,0.08,A,37,Approved
+Mortgage,8.9,15000.0,Study,3.0,5,32,44400,Excellent,No,0.34,B,61,Declined
+Renter,10.99,7000.0,Personal,2.0,2,21,30000,Very Good,No,0.23,C,29,Declined
+Mortgage,6.54,11050.0,Health,4.0,4,22,58000,Excellent,No,0.19,B,49,Approved
+Renter,7.9,5150.0,Study,7.0,14,44,68000,Excellent,No,0.08,C,169,Approved
+Renter,,3000.0,Health,0.0,15,41,21000,Very Good,No,0.14,C,187,Approved
+Mortgage,10.14,13025.0,Study,1.0,3,22,40000,Very Good,No,0.33,B,46,Approved
+Renter,9.99,5000.0,Personal,6.0,14,38,35000,Very Good,No,0.14,C,169,Approved
+Owner,14.84,6250.0,Home Improvement,0.0,7,33,20640,Fair,No,0.3,A,89,Approved
+Renter,15.23,5000.0,Business,3.0,7,29,29000,Good,Yes,0.17,C,88,Approved
+Mortgage,8.0,7500.0,Home Improvement,2.0,10,33,48000,Excellent,No,0.16,B,131,Approved
+Renter,,5000.0,Health,1.0,4,24,23000,Good,No,0.22,C,56,Approved
+Renter,10.75,4000.0,Home Improvement,0.0,8,28,52000,Very Good,No,0.08,C,104,Approved
+Owner,7.51,8500.0,Study,3.0,3,23,36000,Excellent,No,0.24,A,42,Approved
+Mortgage,13.16,12000.0,Personal,8.0,7,29,75000,Good,Yes,0.16,B,95,Declined
+Renter,10.99,2000.0,Study,4.0,12,41,32496,Very Good,No,0.06,C,154,Declined
+Renter,7.88,4050.0,Home Improvement,0.0,4,26,50500,Excellent,No,0.08,C,55,Approved
+Renter,10.99,24000.0,Personal,6.0,16,43,97500,Very Good,No,0.25,C,200,Approved
+Renter,7.29,7000.0,Study,5.0,8,35,80000,Excellent,No,0.09,C,101,Approved
+Renter,7.49,10000.0,Personal,5.0,2,25,90000,Excellent,No,0.11,C,29,Approved
+Mortgage,12.99,8225.0,Home Improvement,11.0,11,37,84000,Good,Yes,0.1,B,133,Approved
+Renter,14.96,8800.0,Study,4.0,3,23,46744,Fair,Yes,0.19,C,47,Approved
+Mortgage,10.36,8000.0,Debt Consolidation,4.0,2,25,32000,Very Good,No,0.25,B,30,Declined
+Mortgage,7.9,16000.0,Study,6.0,3,22,68000,Excellent,No,0.24,B,45,Approved
+Mortgage,11.49,7500.0,Debt Consolidation,3.0,3,22,40000,Very Good,No,0.19,B,44,Approved
+Renter,9.91,4200.0,Health,4.0,2,22,36000,Very Good,No,0.12,C,30,Declined
+Mortgage,13.79,8000.0,Business,13.0,10,29,173088,Good,Yes,0.05,B,121,Approved
+Renter,7.88,8300.0,Home Improvement,4.0,2,24,83000,Excellent,No,0.1,C,33,Approved
+Renter,,2600.0,Debt Consolidation,1.0,9,32,32000,Poor,Yes,0.08,C,113,Declined
+Mortgage,8.9,8000.0,Debt Consolidation,3.0,6,32,120000,Excellent,No,0.07,B,82,Approved
+Renter,15.62,10000.0,Study,1.0,13,44,59000,Fair,No,0.17,C,160,Declined
+Renter,11.11,25000.0,Personal,2.0,3,24,60000,Very Good,No,0.42,C,42,Declined
+Renter,13.85,14400.0,Home Improvement,10.0,9,28,100000,Good,No,0.14,C,112,Approved
+Mortgage,7.51,3300.0,Study,8.0,2,24,65000,Excellent,No,0.05,B,33,Approved
+Renter,7.66,9000.0,Home Improvement,1.0,3,26,50200,Excellent,No,0.18,C,45,Approved
+Renter,13.87,10000.0,Health,2.0,6,31,29400,Fair,No,0.34,C,79,Declined
+Mortgage,13.92,6000.0,Home Improvement,7.0,4,24,96000,Good,Yes,0.06,B,59,Approved
+Mortgage,,22400.0,Personal,12.0,6,28,110000,Very Good,No,0.2,B,80,Approved
+Renter,15.58,10000.0,Study,3.0,3,23,59000,Fair,No,0.17,C,44,Declined
+Mortgage,13.99,3000.0,Debt Consolidation,9.0,2,25,39000,Good,No,0.08,B,33,Approved
+Renter,10.25,10000.0,Study,3.0,2,21,45000,Very Good,No,0.22,C,34,Approved
+Renter,,500.0,Debt Consolidation,0.0,6,33,18000,Excellent,No,0.03,C,73,Approved
+Mortgage,8.0,1146444000.0,Debt Consolidation,15.0,8,31,50004,Excellent,No,0.2,B,107,Approved
+Renter,7.66,10000.0,Debt Consolidation,3.0,7,27,90000,Excellent,No,0.11,C,94,Approved
+Renter,10.25,6000.0,Personal,3.0,3,23,90000,Very Good,No,0.07,C,43,Approved
+Renter,5.79,3000.0,Home Improvement,8.0,4,24,120390,Excellent,No,0.02,C,55,Approved
+Renter,9.32,3000.0,Debt Consolidation,0.0,2,25,32004,Excellent,No,0.09,C,32,Approved
+Mortgage,5.79,8500.0,Business,7.0,2,23,71000,Excellent,No,0.12,B,26,Approved
+Renter,7.29,7000.0,Study,4.0,8,35,84175,Excellent,No,0.08,C,106,Approved
+Renter,12.87,6400.0,Study,2.0,5,29,30000,Good,No,0.21,C,67,Approved
+Mortgage,6.92,6600.0,Home Improvement,6.0,9,30,51000,Excellent,No,0.13,B,112,Approved
+Mortgage,7.51,10000.0,Personal,2.0,3,22,69077,Excellent,No,0.14,B,37,Approved
+Renter,8.9,5000.0,Personal,0.0,5,33,35000,Excellent,No,0.14,C,69,Approved
+Mortgage,9.63,4000.0,Personal,1.0,2,22,48000,Very Good,No,0.08,B,30,Approved
+Mortgage,11.99,5175.0,Home Improvement,10.0,2,26,90000,Very Good,No,0.06,B,31,Approved
+Renter,9.62,4000.0,Personal,7.0,10,27,48000,Very Good,No,0.08,C,122,Approved
+Owner,9.76,7000.0,Business,2.0,12,38,44000,Very Good,No,0.16,A,148,Approved
+Renter,5.42,1500.0,Study,6.0,2,22,58000,Excellent,No,0.03,C,34,Approved
+Renter,,4000.0,Business,6.0,2,22,57000,Very Good,No,0.07,C,29,Approved
+Renter,11.71,16000.0,Debt Consolidation,12.0,6,29,40000,Very Good,No,0.4,C,83,Declined
+Renter,,4400.0,Personal,6.0,4,24,72000,Excellent,No,0.06,C,55,Approved
+Renter,17.44,3000.0,Health,8.0,5,28,70910,Poor,Yes,0.04,C,64,Declined
+Renter,,15000.0,Health,4.0,5,32,66725,Very Good,No,0.19,C,61,Declined
+Renter,5.42,12000.0,Study,12.0,10,28,45000,Excellent,No,0.27,C,123,Approved
+Mortgage,7.9,12500.0,Business,7.0,13,39,70000,Excellent,No,0.18,B,162,Approved
+Renter,12.18,20000.0,Study,3.0,2,22,66996,Very Good,No,0.3,C,31,Approved
+Mortgage,9.63,9700.0,Health,9.0,4,25,40800,Very Good,No,0.24,B,58,Approved
+Mortgage,,6000.0,Debt Consolidation,0.0,2,22,93600,Excellent,No,0.06,B,34,Approved
+Renter,15.99,11000.0,Study,1.0,6,27,85500,Fair,No,0.13,C,76,Declined
+Renter,11.71,8000.0,Debt Consolidation,8.0,3,24,70000,Very Good,No,0.11,C,45,Approved
+Mortgage,15.95,16000.0,Business,12.0,5,28,72000,Poor,No,0.22,B,67,Approved
+Renter,10.14,15000.0,Debt Consolidation,4.0,4,26,84000,Very Good,No,0.18,C,50,Approved
+Renter,14.84,25000.0,Home Improvement,8.0,3,24,87000,Fair,No,0.29,C,40,Approved
+Mortgage,,11000.0,Debt Consolidation,13.0,12,36,43200,Very Good,No,0.25,B,145,Approved
+Renter,11.89,14000.0,Health,2.0,8,28,40000,Very Good,No,0.35,C,105,Declined
+Mortgage,14.59,4800.0,Business,1.0,11,40,60000,Fair,No,0.08,B,133,Approved
+Owner,13.92,18000.0,Health,7.0,9,28,100000,Good,Yes,0.18,A,109,Approved
+Renter,12.18,6000.0,Home Improvement,2.0,3,22,24000,Very Good,No,0.25,C,47,Declined
+Mortgage,,2950.0,Health,2.0,4,24,35000,Excellent,No,0.08,B,53,Approved
+Renter,9.99,7000.0,Health,5.0,4,22,60000,Very Good,No,0.12,C,58,Approved
+Mortgage,5.79,10000.0,Debt Consolidation,3.0,2,26,68000,Excellent,No,0.15,B,29,Approved
+Renter,7.9,8000.0,Study,5.0,3,23,80000,Excellent,No,0.1,C,41,Approved
+Renter,9.83,4225.0,Personal,10.0,2,26,48000,Very Good,No,0.09,C,27,Approved
+Renter,8.59,10000.0,Study,2.0,4,21,39996,Excellent,No,0.25,C,57,Approved
+Renter,12.73,15000.0,Home Improvement,2.0,9,28,76000,Good,Yes,0.2,C,116,Approved
+Mortgage,6.03,14000.0,Business,6.0,14,38,104800,Excellent,No,0.13,B,170,Approved
+Mortgage,12.18,20000.0,Study,9.0,4,25,106226,Very Good,No,0.19,B,50,Approved
+Renter,12.42,1200.0,Business,9.0,11,36,29000,Very Good,No,0.04,C,139,Approved
+Mortgage,6.99,8850.0,Study,5.0,3,23,60000,Excellent,No,0.15,B,47,Approved
+Owner,12.21,3200.0,Personal,7.0,4,22,20000,Very Good,No,0.16,A,54,Approved
+Mortgage,14.46,25000.0,Study,5.0,3,22,98000,Fair,No,0.26,B,41,Approved
+Mortgage,11.86,2400.0,Debt Consolidation,4.0,4,25,78000,Very Good,No,0.03,B,57,Approved
+Mortgage,6.03,12000.0,Business,0.0,6,31,120000,Excellent,No,0.1,B,77,Approved
+Mortgage,11.11,24175.0,Study,7.0,2,23,83000,Very Good,No,0.29,B,27,Declined
+Renter,18.39,13000.0,Study,1.0,3,23,44000,Poor,Yes,0.3,C,43,Declined
+Renter,16.45,2500.0,Health,1.0,2,25,32000,Poor,Yes,0.08,C,32,Declined
+Renter,10.99,20000.0,Health,2.0,8,27,54000,Very Good,No,0.37,C,105,Declined
+Mortgage,11.71,20000.0,Debt Consolidation,4.0,9,31,65000,Very Good,No,0.31,B,117,Approved
+Renter,14.72,6000.0,Study,7.0,2,25,21812,Good,Yes,0.28,C,33,Approved
+Renter,13.06,7200.0,Health,0.0,3,24,49920,Good,Yes,0.14,C,46,Approved
+Renter,6.91,7500.0,Study,6.0,2,23,21000,Excellent,No,0.36,C,32,Declined
+Mortgage,16.35,12000.0,Health,6.0,2,22,62900,Poor,Yes,0.16,B,29,Declined
+Renter,8.49,6000.0,Home Improvement,3.0,12,47,70000,Excellent,No,0.09,C,149,Approved
+Renter,13.72,248396200.00000003,Study,2.0,7,35,70000,Good,No,0.03,C,86,Approved
+Renter,11.11,7000.0,Debt Consolidation,1.0,3,22,40000,Very Good,No,0.17,C,45,Approved
+Renter,,8000.0,Home Improvement,4.0,2,24,39000,Good,No,0.21,C,26,Declined
+Renter,15.62,3000.0,Home Improvement,4.0,7,27,36000,Fair,No,0.08,C,93,Declined
+Mortgage,8.9,21100.0,Health,2.0,8,27,72000,Excellent,No,0.29,B,106,Approved
+Renter,6.17,8000.0,Personal,2.0,2,24,40000,Excellent,No,0.2,C,33,Approved
+Renter,16.0,4000.0,Health,1.0,3,24,35200,Fair,Yes,0.11,C,46,Declined
+Owner,7.66,8000.0,Business,5.0,6,35,40000,Excellent,No,0.2,A,81,Approved
+Mortgage,16.32,15000.0,Personal,11.0,5,33,158000,Poor,Yes,0.09,B,71,Declined
+Renter,,14000.0,Business,5.0,4,24,95000,Very Good,No,0.15,C,56,Approved
+Mortgage,13.06,9750.0,Study,6.0,2,22,52000,Good,Yes,0.19,B,26,Approved
+Renter,11.66,14000.0,Business,3.0,3,23,55000,Good,No,0.25,C,46,Approved
+Mortgage,7.29,12700.0,Home Improvement,7.0,13,36,50400,Excellent,No,0.25,B,167,Approved
+Renter,17.49,16000.0,Health,2.0,8,31,70550,Fair,No,0.19,C,104,Declined
+Owner,14.59,6800.0,Home Improvement,4.0,2,21,19800,Fair,No,0.34,A,31,Declined
+Renter,11.48,5075.0,Personal,0.0,11,36,20000,Very Good,No,0.25,C,139,Declined
+Unknown,15.05,20000.0,Business,0.0,3,25,79404,Fair,No,0.25,D,42,Approved
+Renter,7.51,5000.0,Personal,2.0,11,41,47000,Excellent,No,0.11,C,134,Approved
+Renter,9.63,6000.0,Study,0.0,3,23,65000,Excellent,No,0.09,C,45,Approved
+Mortgage,,7500.0,Study,0.0,2,23,73426,Good,No,0.1,B,35,Approved
+Mortgage,9.99,8500.0,Debt Consolidation,6.0,4,24,49344,Very Good,No,0.17,B,49,Approved
+Renter,13.43,15000.0,Health,7.0,4,23,58650,Good,Yes,0.22,C,58,Declined
+Renter,10.0,8875.0,Study,4.0,3,26,24500,Very Good,No,0.36,C,42,Declined
+Renter,9.63,5600.0,Business,4.0,2,22,54000,Very Good,No,0.1,C,29,Approved
+Renter,16.89,20000.0,Study,3.0,2,23,57000,Fair,No,0.35,C,27,Declined
+Renter,11.14,2120921400.0000002,Health,13.0,7,28,30000,Very Good,No,0.49,C,88,Declined
+Mortgage,7.66,7000.0,Personal,,3,24,75000,Excellent,No,0.09,B,47,Approved
+Mortgage,,7200.0,Business,7.0,4,23,60000,Excellent,No,0.12,B,49,Approved
+Renter,6.39,3600.0,Debt Consolidation,3.0,7,28,31200,Excellent,No,0.12,C,85,Approved
+Renter,7.88,3200.0,Study,2.0,6,27,35496,Excellent,No,0.09,C,81,Approved
+Renter,5.79,1500.0,Study,5.0,3,21,42000,Excellent,No,0.04,C,44,Approved
+Mortgage,7.29,30000.0,Debt Consolidation,6.0,2,22,128474,Excellent,No,0.23,B,33,Approved
+Mortgage,14.65,6300.0,Home Improvement,6.0,2,24,54000,Good,Yes,0.12,B,35,Declined
+Mortgage,13.92,21125.0,Business,11.0,5,27,87000,Good,No,0.24,B,62,Approved
+Renter,9.32,8000.0,Personal,6.0,3,23,65000,Excellent,No,0.12,C,44,Approved
+Mortgage,13.99,15000.0,Health,4.0,9,35,58000,Fair,Yes,0.26,B,112,Declined
+Renter,5.42,7025.0,Personal,1.0,9,27,20000,Excellent,No,0.35,C,113,Declined
+Renter,10.99,4200.0,Home Improvement,1.0,4,25,36499,Very Good,No,0.12,C,52,Declined
+Renter,7.9,8000.0,Health,3.0,6,33,155000,Excellent,No,0.05,C,74,Approved
+Mortgage,8.94,12000.0,Health,1.0,2,25,99800,Excellent,No,0.12,B,27,Approved
+Mortgage,16.77,1471269800.0,Business,0.0,5,29,145000,Fair,Yes,0.1,B,62,Approved
+Renter,10.99,25300.0,Study,7.0,3,23,83000,Very Good,No,0.3,C,45,Declined
+Renter,10.62,22000.0,Home Improvement,5.0,10,30,75000,Very Good,No,0.29,C,127,Approved
+Renter,13.04,3200.0,Study,1.0,2,22,37440,Good,Yes,0.09,C,31,Approved
+Renter,14.79,6000.0,Business,8.0,14,36,37008,Good,Yes,0.16,C,171,Approved
+Mortgage,11.99,3000.0,Business,7.0,4,25,48000,Very Good,No,0.06,B,53,Approved
+Renter,,573222000.0,Personal,4.0,2,26,30000,Good,Yes,0.17,C,25,Approved
+Renter,11.86,8000.0,Study,2.0,3,23,46000,Fair,No,0.17,C,46,Declined
+Renter,13.35,6000.0,Study,3.0,5,33,55000,Good,Yes,0.11,C,70,Approved
+Renter,13.99,4600.0,Study,0.0,8,27,58000,Good,No,0.08,C,105,Approved
+Renter,12.73,6000.0,Health,8.0,4,26,42000,Good,No,0.14,C,51,Approved
+Renter,6.99,7000.0,Business,17.0,9,33,62000,Excellent,No,0.11,C,111,Approved
+Renter,8.88,15000.0,Home Improvement,6.0,9,32,75000,Very Good,No,0.2,C,116,Declined
+Renter,12.53,7000.0,Debt Consolidation,1.0,2,24,41000,Good,No,0.17,C,29,Approved
+Owner,9.99,8000.0,Business,,15,36,30000,Very Good,No,0.27,A,182,Approved
+Renter,12.29,2800.0,Study,1.0,3,23,26500,Good,No,0.11,C,43,Approved
+Mortgage,11.36,13750.0,Study,3.0,4,21,42000,Very Good,No,0.33,B,56,Approved
+Renter,7.66,7000.0,Business,2.0,3,22,50000,Excellent,No,0.14,C,38,Approved
+Mortgage,8.59,5000.0,Home Improvement,0.0,7,28,20000,Excellent,No,0.25,B,87,Approved
+Renter,11.99,5000.0,Debt Consolidation,4.0,14,41,34800,Very Good,No,0.14,C,169,Approved
+Renter,16.95,6000.0,Health,2.0,9,29,61628,Poor,Yes,0.08,C,112,Declined
+Renter,7.29,12000.0,Debt Consolidation,5.0,4,21,57000,Excellent,No,0.21,C,56,Approved
+Renter,15.31,12000.0,Health,2.0,4,25,57424,Fair,No,0.18,C,57,Declined
+Renter,5.99,3000.0,Study,3.0,2,23,66000,Excellent,No,0.05,C,30,Approved
+Mortgage,6.62,12000.0,Business,9.0,3,26,59500,Excellent,No,0.2,B,40,Approved
+Owner,,4475.0,Health,7.0,4,23,15000,Very Good,No,0.3,A,51,Declined
+Mortgage,7.51,8650.0,Health,4.0,2,25,60000,Excellent,No,0.14,B,25,Approved
+Mortgage,9.88,1600.0,Personal,2.0,2,23,87500,Very Good,No,0.02,B,34,Approved
+Renter,11.99,10000.0,Health,4.0,9,33,65000,Very Good,No,0.15,C,112,Approved
+Renter,11.36,8000.0,Business,7.0,5,28,26000,Very Good,No,0.31,C,68,Declined
+Mortgage,,8000.0,Personal,3.0,5,32,65000,Excellent,No,0.12,B,63,Approved
+Renter,12.21,3600.0,Business,0.0,3,22,30000,Very Good,No,0.12,C,41,Approved
+Mortgage,6.03,5000.0,Home Improvement,15.0,9,31,65000,Excellent,No,0.08,B,115,Approved
+Mortgage,,1500.0,Business,2.0,15,36,38208,Fair,Yes,0.04,B,187,Approved
+Mortgage,11.12,25000.0,Business,5.0,9,30,110000,Very Good,No,0.23,B,119,Approved
+Renter,7.4,2500.0,Personal,0.0,6,31,25000,Excellent,No,0.1,C,81,Approved
+Mortgage,,5000.0,Personal,,4,26,70000,Excellent,No,0.07,B,51,Approved
+Owner,7.74,4000.0,Business,5.0,16,36,99500,Excellent,No,0.04,A,194,Approved
+Mortgage,,4000.0,Health,3.0,7,29,30000,Very Good,No,0.13,B,93,Approved
+Mortgage,12.21,6000.0,Debt Consolidation,4.0,16,41,26400,Very Good,No,0.23,B,199,Declined
+Mortgage,9.63,7200.0,Business,2.0,6,27,87000,Excellent,No,0.08,B,79,Approved
+Mortgage,5.42,8500.0,Study,10.0,3,26,54000,Excellent,No,0.16,B,42,Declined
+Mortgage,6.76,1925.0,Health,10.0,4,26,52800,Excellent,No,0.04,B,58,Approved
+Mortgage,,14000.0,Study,3.0,6,29,190000,Very Good,No,0.07,B,79,Approved
+Renter,16.32,3250.0,Debt Consolidation,5.0,7,33,18996,Fair,No,0.17,C,88,Declined
+Renter,9.45,15000.0,Study,8.0,4,24,62400,Very Good,No,0.24,C,55,Approved
+Renter,12.21,4975.0,Debt Consolidation,1.0,11,39,55000,Very Good,No,0.09,C,137,Approved
+Owner,13.49,3500.0,Health,3.0,9,31,25000,Good,No,0.14,A,111,Approved
+Owner,16.29,1500.0,Business,0.0,3,22,48000,Fair,No,0.03,A,43,Approved
+Mortgage,6.91,15000.0,Business,19.0,14,39,60000,Excellent,No,0.25,B,178,Approved
+Mortgage,11.26,17000.0,Health,5.0,13,37,65004,Very Good,No,0.26,B,159,Approved
+Renter,10.99,5325.0,Business,0.0,7,34,25000,Very Good,No,0.21,C,87,Approved
+Mortgage,6.76,6250.0,Business,7.0,2,23,65000,Excellent,No,0.1,B,31,Approved
+Mortgage,6.76,5000.0,Debt Consolidation,24.0,12,41,50000,Excellent,No,0.1,B,145,Approved
+Mortgage,20.16,25000.0,Debt Consolidation,13.0,9,29,60000,Extremely Poor,Yes,0.42,B,118,Declined
+Owner,16.29,7500.0,Study,5.0,3,22,67000,Fair,Yes,0.11,A,46,Approved
+Mortgage,10.08,7500.0,Study,4.0,4,26,74000,Very Good,No,0.1,B,59,Declined
+Renter,13.85,6600.0,Debt Consolidation,3.0,4,26,41000,Good,Yes,0.16,C,56,Approved
+Owner,11.99,2875.0,Personal,4.0,14,37,40800,Very Good,No,0.07,A,176,Approved
+Owner,13.43,6500.0,Study,5.0,2,21,35000,Good,No,0.19,A,35,Approved
+Mortgage,10.99,13000.0,Study,5.0,2,26,120000,Very Good,No,0.11,B,33,Approved
+Mortgage,15.62,6000.0,Debt Consolidation,8.0,3,25,78000,Fair,No,0.08,B,46,Declined
+Renter,10.59,2400.0,Study,1.0,2,22,27259,Very Good,No,0.09,C,30,Approved
+Mortgage,10.99,7000.0,Home Improvement,7.0,4,26,26000,Very Good,No,0.27,B,51,Approved
+Renter,,6000.0,Personal,4.0,3,26,50000,Very Good,No,0.12,C,37,Approved
+Mortgage,15.65,10000.0,Personal,4.0,3,24,61000,Fair,No,0.16,B,42,Approved
+Renter,8.94,7000.0,Study,3.0,4,25,67000,Excellent,No,0.1,C,51,Approved
+Renter,,9500.0,Health,1.0,3,25,46000,Very Good,No,0.21,C,42,Approved
+Renter,10.59,2050.0,Study,1.0,3,22,25000,Very Good,No,0.08,C,47,Approved
