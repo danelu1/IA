@@ -1,6 +1,12 @@
 # IA
 Laboratories and homeworks for the Artificial Intelligence course.
 
+# Homework1 - Timetable Problem
+Implementation of Monte Carlo and Hill Climbing Algorithms used for solving the timetable problem.
+
+# Homework2 - Classifications
+Implementation for the MLP and Random Forrest algorithms, using sklearn and manual implementations for both of them. The given datasets are visualized(displaying statistics about their features) and preprocessed(using imputation and scaling methods) before applying the algorithms.
+
 # Lab0 - Python Intro
 An introduction to Python, with certain basic problems to solve.
 
@@ -27,3 +33,9 @@ Implementation of Linear Regression used for data prediction. The model used to 
 
 # Lab9 - Logistic Regression
 Implementation of a binary classifier using Logistic Regression. The model classifies the data through the Negative Log Likelihood function which is minimized using the Gradient Descent algorithm.
+
+# Lab10 - Neural Networks
+Implementation of the MLP algorithm using the ReLU activation function for classifying images from the MNIST dataset.
+
+# Lab11 - Naive Bayes
+Implementation of the Naive Bayes classifier used for text processing and analysis of human feelings.
